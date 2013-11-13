@@ -1,0 +1,16 @@
+permalink: /:title
+
+
+markdown: redcarpet
+safe: true
+lsi: false
+pygments: true
+
+#name: Rascal - Meta Programming Language
+#title: Rascal - Meta Programming Language
+
+#production_url: http://rascal.landman.nl.eu.org/
+
+exclude: ["README.md"]
+
+#url: http://www.rascal-mpl.org/ 
