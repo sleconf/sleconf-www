@@ -1,3 +1,8 @@
+---
+layout: 2014/default
+title: Welcome
+published: true
+---
 # Welcome
 The 7th International Conference on Software Language Engineering (SLE) is devoted to topics related to artificial languages in software engineering.
 
