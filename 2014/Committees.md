@@ -4,30 +4,30 @@ title: Committees
 published: true
 ---
 
-## PC co-chairs
+### PC co-chairs
 
 * Benoît Combemail 
 * David J. Pearce 
 
-## Workshop organization chair
+### Workshop organization chair
 
 * ??
 
-## Panel organization chair
+### Panel organization chair
 
 * Ralf Lämmel
 
-## Publicity chairs
+### Publicity chairs
 
 * Tijs van der Storm (social media)
 * Davy Landman (web)
 * ?? (general publicity)
 
-## General chair
+### General chair
 
 * Jurgen Vinju
 
-## Steering committee members
+### Steering committee members
 
 * Mark van den Brand (chair)
 * Görel Hedin
