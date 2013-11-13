@@ -1,23 +1,23 @@
 {% assign title="Welcome" %}
-{% assign link="/2014/Welcome" %}
+{% assign link="/2014/" %}
 {% include 2014/menu_item %}
 
 {% assign title="Program" %}
-{% assign link="/2014/Program" %}
+{% assign link="/2014/Program.html" %}
 {% include 2014/menu_item %}
 
 {% assign title="Registration" %}
-{% assign link="/2014/Registration" %}
+{% assign link="/2014/Registration.html" %}
 {% include 2014/menu_item %}
 
 {% assign title="Call for Papers" %}
-{% assign link="/2014/CFP" %}
+{% assign link="/2014/CFP.html" %}
 {% include 2014/menu_item %}
 
 {% assign title="Important Dates" %}
-{% assign link="/2014/Dates" %}
+{% assign link="/2014/Dates.html" %}
 {% include 2014/menu_item %}
 
 {% assign title="Committees" %}
-{% assign link="/2014/Committees" %}
+{% assign link="/2014/Committees.html" %}
 {% include 2014/menu_item %}
