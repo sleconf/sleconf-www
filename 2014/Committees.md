@@ -37,3 +37,4 @@ published: true
 * Eric van Wyk
 * Jean-Marie Favre
 * Kim Mens
+* Jurgen Vinju
