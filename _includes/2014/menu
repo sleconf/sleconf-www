@@ -1,0 +1,23 @@
+{% assign title="Welcome" %}
+{% assign link="/2014/Welcome" %}
+{% include menu_item %}
+
+{% assign title="Program" %}
+{% assign link="/2014/Program" %}
+{% include menu_item %}
+
+{% assign title="Registration" %}
+{% assign link="/2014/Registration" %}
+{% include menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2014/CFP" %}
+{% include menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2014/Dates" %}
+{% include menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2014/Committees" %}
+{% include menu_item %}
