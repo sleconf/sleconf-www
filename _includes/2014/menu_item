@@ -2,7 +2,7 @@
 {% if page.url == link or page.url == title_link  %}
    <li class="active"><h4><a href="{{link}}" class="mod-articles-category-title active">{{title}}</a></h4></li>
 {% else %}
-   <li><a href="{{link}}">{{title}}</a></li>
+   <li><h4><a class="mod-articles-category-title" href="{{link}}">{{title}}</a></h4></li>
 {% endif %}
 {% assign title = nil %}
 {% assign link = nil %}
