@@ -6,7 +6,7 @@ published: true
 
 ### PC co-chairs
 
-* Benoît Combemail 
+* Benoît Combemale 
 * David J. Pearce 
 
 ### Workshop organization chair
