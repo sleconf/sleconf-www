@@ -19,9 +19,9 @@ published: true
 
 ### Publicity chairs
 
+* Craig Anslow (general publicity)
 * Tijs van der Storm (social media)
 * Davy Landman (web)
-* ?? (general publicity)
 
 ### General chair
 
