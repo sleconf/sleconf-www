@@ -9,8 +9,8 @@ pygments: true
 #name: Rascal - Meta Programming Language
 #title: Rascal - Meta Programming Language
 
-#production_url: http://rascal.landman.nl.eu.org/
+#production_url: http://sleconf.org
 
 exclude: ["README.md"]
 
-#url: http://www.rascal-mpl.org/ 
+#url: http://www.sleconf.org
