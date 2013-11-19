@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<p class="meta">
+   {{ page.date | date_to_string }}
+   {% if page.author && page.authorlink %}
+      - <a href="{{page.authorlink}}">{{ page.author }}</a>
+   {% endif %}
+</p>
+
+<div class="post">
+{{ content }}
+</div>
