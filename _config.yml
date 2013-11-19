@@ -1,4 +1,4 @@
-permalink: /:title
+permalink: /blog/:month-:day-:year-:title
 
 
 markdown: redcarpet
