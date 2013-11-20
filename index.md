@@ -13,10 +13,10 @@ published: true
 ### History
 
 <ul>
-<li><a href="http://planet-sl.org/sle2008/" >SLE 2008</a></li>
-                        <li><a href="http://planet-sl.org/sle2009" >SLE 2009</a></li>
-                        <li><a href="http://planet-sl.org/sle2010/" >SLE 2010</a></li>
-                        <li><a href="http://planet-sl.org/sle2011/" >SLE 2011</a></li>
-                        <li><a href="http://planet-sl.org/sle2012/" >SLE 2012</a></li>
-                        <li><a href="http://planet-sl.org/sle2013/" >SLE 2013</a></li>
+<li><a href="http://planet-sl.org/sle2008/" >SLE 2008</a>, Toulouse, France.</li>
+                        <li><a href="http://planet-sl.org/sle2009" >SLE 2009</a>, Denver, Colorado, U.S.A.</li>
+                        <li><a href="http://planet-sl.org/sle2010/" >SLE 2010</a>, Eindhoven, The Netherlands.</li>
+                        <li><a href="http://planet-sl.org/sle2011/" >SLE 2011</a>, Braga, Portugal.</li>
+                        <li><a href="http://planet-sl.org/sle2012/" >SLE 2012</a>, Dresden, Germany.</li>
+                        <li><a href="http://planet-sl.org/sle2013/" >SLE 2013</a>, Indianapolis, Indiana, U.S.A.</li>
                         </ul>
