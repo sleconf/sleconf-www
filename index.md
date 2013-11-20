@@ -3,7 +3,9 @@ layout: default
 published: true
 ---
 
-### Welcome to the International Conference on Software Language Engineering.
+### Welcome 
+
+This is the community website of the International Conference on Software Language Engineering.
 
 ** this website is under construction **
 
