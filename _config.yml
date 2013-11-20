@@ -8,32 +8,33 @@ pygments: true
 exclude: ["README.md"]
 
 # prose.io stuff
-siteurl: http://sleconf.org
-media: /assets/images/
-metadata:
-  _posts:
-    - name: "layout"
-      field: 
-        element: "hidden"
-        value: "post"
-    - name: "title"
-      field:
-        element: "text"
-        type: "text"
-        label: "Title"
-        value: ""
-    - name: "author"
-      field:
-        element: "text"
-        type: "text"
-        label: "Author name"
-        value: ""
-        placeholder: "SLE"
-    - name: "authorlink"
-      field:
-        element: "text"
-        type: "text"
-        label: "Author website"
-        value: ""
+prose:
+  siteurl: http://sleconf.org
+  media: /assets/images/
+  metadata:
+    _posts:
+      - name: "layout"
+        field: 
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          type: "text"
+          label: "Author name"
+          value: ""
+          placeholder: "SLE"
+      - name: "authorlink"
+        field:
+          element: "text"
+          type: "text"
+          label: "Author website"
+          value: ""
 
 
