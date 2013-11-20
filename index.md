@@ -5,9 +5,9 @@ published: true
 
 ### Welcome 
 
-This is the community website of the International Conference on Software Language Engineering.
+This is the community website of the International Conference on Software Language Engineering (SLE). SL) is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
-** this website is under construction **
+**this website is under construction**
 
 * Check out [SLE 2014](2014), Västerås, Sweden.
 * [Community blog](blog) 
