@@ -8,7 +8,7 @@ Please note: these dates are tentative for now and will be finalized before the 
 
 All deadlines are [anywhere on earth time (AOE)](http://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
-* May 23rd 2014 - Abstract submission deadline
-* May 30th 2014 - Paper submission deadline     
+* May&nbsp; 23rd 2014 - Abstract submission deadline
+* May&nbsp; 30th 2014 - Paper submission deadline     
 * June 30th 2014 - Author notification          
 * July 27th 2014 - Camera ready                 
