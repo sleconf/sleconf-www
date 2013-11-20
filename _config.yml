@@ -5,12 +5,35 @@ markdown: redcarpet
 safe: true
 lsi: false
 pygments: true
-
-#name: Rascal - Meta Programming Language
-#title: Rascal - Meta Programming Language
-
-#production_url: http://sleconf.org
-
 exclude: ["README.md"]
 
-#url: http://www.sleconf.org
+# prose.io stuff
+siteurl: http://sleconf.org
+media: /assets/images/
+metadata:
+  _posts:
+    - name: "layout"
+      field: 
+        element: "hidden"
+        value: "post"
+    - name: "title"
+      field:
+        element: "text"
+        type: "text"
+        label: "Title"
+        value: ""
+    - name: "author"
+      field:
+        element: "text"
+        type: "text"
+        label: "Author name"
+        value: ""
+        placeholder: "SLE"
+    - name: "authorlink"
+      field:
+        element: "text"
+        type: "text"
+        label: "Author website"
+        value: ""
+
+
