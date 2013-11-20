@@ -9,7 +9,7 @@ title: Blog archive
       <span>{{ post.date | date_to_string }}</span> &raquo; 
       <a href="{{ post.url }}">{{ post.title }}</a> 
    {% if post.author && post.authorlink %}
-      ({ post.author }})
+      ({{ post.author }})
    {% endif %}
    </li>
  {% endfor %}
