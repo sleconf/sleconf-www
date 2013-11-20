@@ -9,9 +9,13 @@ published: true
 * Benoît Combemale 
 * David J. Pearce 
 
+### Program committee
+
+* TBA
+
 ### Workshop organization chair
 
-* ??
+* TBA
 
 ### Panel organization chair
 
