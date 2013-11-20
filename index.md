@@ -7,7 +7,7 @@ published: true
 
 ** this website is under construction **
 
-* Check out [SLE 2014](2014) 
+* Check out [SLE 2014](2014), Västerås, Sweden.
 * [Community blog](blog) 
 
 ### History
