@@ -33,12 +33,13 @@ published: true
 
 ### Steering committee members
 
-* Mark van den Brand (chair)
-* Görel Hedin
-* Martin Erwig
+* Martin Erwig 
 * Richard Paige
-* Anthony Sloane
-* Eric van Wyk
 * Jean-Marie Favre
-* Kim Mens
+* Tony Sloane 
+* Eric Van Wijk
+* Gorel Hedin
 * Jurgen Vinju
+* Kim Mens
+* Krzystof Czarnecki 
+* Mark van den Brand (chair)
