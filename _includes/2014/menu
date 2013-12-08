@@ -29,3 +29,6 @@
 {% assign title="Blog" %}
 {% assign link="/blog" %}
 {% include 2014/menu_item %}
+
+Host <br>
+<img src="http://ase2014.org/pics/MDH-logo-en.png">
