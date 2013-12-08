@@ -27,6 +27,10 @@ published: true
 * Tijs van der Storm (social media)
 * Davy Landman (web)
 
+### Local organization chair
+
+* Ivica Crnkovic
+
 ### General chair
 
 * Jurgen Vinju
