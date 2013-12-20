@@ -1,0 +1,5 @@
+{% assign title_link = link | append: "index.html" %}
+   <li><a href="{{link}}" >{{title}}</a></li>
+{% endif %}
+{% assign title = nil %}
+{% assign link = nil %}

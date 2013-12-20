@@ -1,0 +1,36 @@
+{% assign title="The SLE Series" %}
+{% assign link="/" %}
+{% include menu_item %}
+
+{% assign title="Blog" %}
+{% assign link="/blog/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2008" %}
+{% assign link="http://planet-sl.org/sle2008/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2009" %}
+{% assign link="http://planet-sl.org/sle2009/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2010" %}
+{% assign link="http://planet-sl.org/sle2010/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2011" %}
+{% assign link="http://planet-sl.org/sle2011/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2012" %}
+{% assign link="http://planet-sl.org/sle2012/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2013" %}
+{% assign link="http://planet-sl.org/sle2013/" %}
+{% include menu_item %}
+
+
+{% assign title="SLE 2014" %}
+{% assign link="http://planet-sl.org/sle2014/" %}
+{% include menu_item %}
