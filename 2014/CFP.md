@@ -6,13 +6,6 @@ published: true
 
 # CALL FOR PAPERS
 
-SLE 2014
-7th International Conference on Software Language Engineering
-<http://www.sleconf.org/2014>
-
-September 14-15, 2014
-Co-located with ASE and GPCE in Västerås, Sweden.
-
 ### Scope
 
 Software Language Engineering (SLE) is the application of systematic,
@@ -55,11 +48,11 @@ Authors of best papers from the conference will be invited to revise and submit 
 
 ### Important Dates
 
-May  16th 2014 - Abstract submission deadline
-May  23rd 2014 - Paper submission deadline
-June 23rd-24th 2014 - Author access to reviews
-July 7th 2014 - Author notification
-July 27th 2014 - Camera ready
+* May  16th 2014 - Abstract submission deadline
+* May  23rd 2014 - Paper submission deadline
+* June 23rd-24th 2014 - Author access to reviews
+* July 7th 2014 - Author notification
+* July 27th 2014 - Camera ready
 
 ### Awards
 
