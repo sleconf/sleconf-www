@@ -32,5 +32,5 @@
 
 
 {% assign title="SLE 2014" %}
-{% assign link="http://planet-sl.org/sle2014/" %}
+{% assign link="/2014/" %}
 {% include menu_item %}
