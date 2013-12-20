@@ -4,7 +4,7 @@ title: Important Dates
 published: true
 ---
 
-title: Call for Papers
+All dates are "Anywhere on Earth".
 
 * May  16th 2014 - Abstract submission deadline
 * May  23rd 2014 - Paper submission deadline
