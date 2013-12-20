@@ -4,7 +4,7 @@ title: Important Dates
 published: true
 ---
 
-All dates are "Anywhere on Earth".
+All dates are [Anywhere on Earth](http://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
 * May  16th 2014 - Abstract submission deadline
 * May  23rd 2014 - Paper submission deadline
