@@ -31,7 +31,7 @@ _Under construction_
 * Ralf Laemmel, Universität Koblenz-Landau, Germany
 * Peter Mosses, Swansea University, UK
 * Sean Mcdirmid, Microsoft, China
-* Kim Mens, Université catholique De Louvain, Belgium
+* Kim Mens, Université catholique de Louvain, Belgium
 * Marjan Mernik, University of Maribor, Slovenia
 * Pierre-Alain Muller, University of Haute-Alsace, France
 * Nathaniel Nystrom, University of Lugano, Switzerland
