@@ -80,5 +80,5 @@ _Under construction_
 * Gorel Hedin
 * Jurgen Vinju
 * Kim Mens
-* Krzystof Czarnecki 
+* Krzysztof Czarnecki 
 * Mark van den Brand (chair)
