@@ -14,7 +14,9 @@ maintenance of software languages.   The term "software language" is used
 broadly, and includes:  general-purpose programming languages; domain-specific
 languages (e.g. BPMN, Simulink, Modelica); modeling and metamodeling languages
 (e.g. SysML and UML); data models and ontologies (e.g.  XML-based and OWL-based
-languages and vocabularies).  Topics of Interest
+languages and vocabularies).  
+
+### Topics of Interest
 
 The overall principle of SLE is to be broad-minded and inclusive about relevance and scope.  We solicit high-quality contributions in areas ranging from theoretical and conceptual contributions to tools, techniques, and frameworks. Topics of interest include, but are not limited to, the following:
 
