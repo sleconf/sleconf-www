@@ -18,6 +18,7 @@ _Under construction_
 * Zinovy Diskin, McMaster University / University of Waterloo, Canada
 * Martin Erwig, Oregon State University, USA
 * Anne Etien, University of Lille, France
+* Joerg Evermann, Memorial University of Newfoundland, Canada
 * Jean-Marie Favre, University of Grenoble, France
 * Robert France, Colorado State University, USA
 * Andy Gill, University of Kansas, USA
@@ -36,6 +37,7 @@ _Under construction_
 * Pierre-Alain Muller, University of Haute-Alsace, France
 * Nathaniel Nystrom, University of Lugano, Switzerland
 * Klaus Ostermann, University of Marburg, Germany
+* Oscar Nierstrasz, University of Bern, Switzerland
 * Richard Paige, University of York, UK
 * Arnd Poetzsch-Heffter, University of Kaiserslautern, Germany
 * Davide Di Ruscio, Università degli Studi dell'Aquila, Italy
@@ -80,5 +82,5 @@ _Under construction_
 * Gorel Hedin
 * Jurgen Vinju
 * Kim Mens
-* Krzystof Czarnecki 
+* Krzysztof Czarnecki 
 * Mark van den Brand (chair)
