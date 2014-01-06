@@ -12,7 +12,8 @@ SLE's mission is to fuse several communities that have traditionally looked at s
 
 ### Sponsors
 
-<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> <a href="http://www.gemoc.org"><img src="http://gemoc.org/wp-content/uploads/2012/10/cropped-header-gemoc1.jpg" alt="GEMOC initiative"></a>
+<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> 
+[![GEMOC initiative](/assets/2014/images/sle/gemoc-logo.jpg)](http://www.gemoc.org)
 
 * [Mälarden University](http://www.mdh.se/) is hosting SLE
 * The [GEMOC initiative](http://www.gemoc.org) is sponsoring our best paper award.
