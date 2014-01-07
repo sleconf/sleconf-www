@@ -39,6 +39,7 @@ _Under construction_
 * Klaus Ostermann, University of Marburg, Germany
 * Oscar Nierstrasz, University of Bern, Switzerland
 * Richard Paige, University of York, UK
+* Fiona Polack, University of York, UK
 * Arnd Poetzsch-Heffter, University of Kaiserslautern, Germany
 * Davide Di Ruscio, Università degli Studi dell'Aquila, Italy
 * João Saraiva, Universidade do Minho, Portugal
