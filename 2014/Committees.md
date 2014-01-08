@@ -47,6 +47,7 @@ _Under construction_
 * Jim Steel, University of Queensland, Australia
 * Tijs Van Der Storm, Centrum Wiskunde & Informatica, The Netherlands
 * Juha-Pekka Tolvanen, MetaCase, Finland
+* Michael Whalen, University of Minnesota, USA
 * Eric Van Wyk, University of Minnesota, USA
 * Steffen Zschaler, King's College London, UK
 
