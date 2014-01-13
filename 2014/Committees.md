@@ -54,7 +54,7 @@ _Under construction_
 
 ### Workshop organization chair
 
-* TBA
+* Eric Van Wyk
 
 ### Panel organization chair
 
