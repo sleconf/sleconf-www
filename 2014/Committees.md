@@ -64,11 +64,11 @@ _Under construction_
 
 * Craig Anslow (general publicity)
 * Tijs van der Storm (social media)
-* Davy Landman (web)
+* Davy Landman, CWI, Netherlands (web)
 
 ### Local organization chair
 
-* Ivica Crnkovic
+* Ivica Crnkovic, Mälardalen University, Sweden 
 
 ### General chair
 
