@@ -54,7 +54,7 @@ _Under construction_
 
 ### Workshop organization chair
 
-* Eric Van Wyk
+* [Eric Van Wyk](http://www.cs.umn.edu/~evw), University of Minnesota, USA
 
 ### Panel organization chair
 
@@ -62,7 +62,7 @@ _Under construction_
 
 ### Publicity chairs
 
-* Craig Anslow (general publicity)
+* Craig Anslow, University of Calgary, Canada (general publicity)
 * Tijs van der Storm, Centrum Wiskunde & Informatica, The Netherlands (social media)
 * Davy Landman, Centrum Wiskunde & Informatica, The Netherlands (web)
 
