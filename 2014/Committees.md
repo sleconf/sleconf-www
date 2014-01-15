@@ -54,7 +54,7 @@ _Under construction_
 
 ### Workshop organization chair
 
-* [Eric Van Wyk](http://www.cs.umn.edu/~evw), University of Minnesota, USA
+* Eric Van Wyk, University of Minnesota, USA
 
 ### Panel organization chair
 
