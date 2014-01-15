@@ -80,7 +80,7 @@ _Under construction_
 * Richard Paige
 * Jean-Marie Favre
 * Tony Sloane 
-* Eric Van Wijk
+* Eric Van Wyk
 * Gorel Hedin
 * Jurgen Vinju
 * Kim Mens
