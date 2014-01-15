@@ -63,8 +63,8 @@ _Under construction_
 ### Publicity chairs
 
 * Craig Anslow (general publicity)
-* Tijs van der Storm (social media)
-* Davy Landman, CWI, Netherlands (web)
+* Tijs van der Storm, Centrum Wiskunde & Informatica, The Netherlands (social media)
+* Davy Landman, Centrum Wiskunde & Informatica, The Netherlands (web)
 
 ### Local organization chair
 
@@ -72,7 +72,7 @@ _Under construction_
 
 ### General chair
 
-* Jurgen Vinju
+* Jurgen Vinju, Centrum Wiskunde & Informatica, The Netherlands
 
 ### Steering committee members
 
