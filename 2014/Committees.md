@@ -6,8 +6,8 @@ published: true
 
 ### PC co-chairs
 
-* Benoît Combemale 
-* David J. Pearce 
+* [Benoît Combemale](http://people.irisa.fr/Benoit.Combemale/), University of Rennes 1, France 
+* [David J. Pearce](http://homepages.ecs.vuw.ac.nz/~djp/), Victoria University of Wellington, New Zealand 
 
 ### Program committee
 
@@ -54,11 +54,11 @@ _Under construction_
 
 ### Workshop organization chair
 
-* Eric Van Wyk, University of Minnesota, USA
+* [Eric Van Wyk](http://www.cs.umn.edu/~evw), University of Minnesota, USA
 
 ### Panel organization chair
 
-* Ralf Lämmel
+* [Ralf Lämmel](http://softlang.wikidot.com/rlaemmel:home), Universität Koblenz-Landau, Germany
 
 ### Publicity chairs
 
