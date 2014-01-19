@@ -14,5 +14,5 @@ publication venue.
 
 ### Expected workshops
 
-* [ITSLE](ITSLE.html) - This is the yearly workshop for the industrial perspective on SLE. We are looking for an organizer for 2014.
+* [ITSLE](ITSLE.html) - This is the yearly workshop for the industrial perspective on SLE.
 * [Parsing@SLE](Parsing-at-SLE.html) - This workshop was organized the first time in 2013, and will be organized again to bring together as many parsing experts as possible.
