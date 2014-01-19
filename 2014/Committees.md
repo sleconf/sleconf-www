@@ -11,8 +11,6 @@ published: true
 
 ### Program committee
 
-_Under construction_
-
 * Emilie Balland, INRIA, France
 * Tony Clark, Middlesex University, UK
 * Zinovy Diskin, McMaster University / University of Waterloo, Canada
