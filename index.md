@@ -9,6 +9,7 @@ This is the community website of the International Conference on Software Langua
 
 * Check out [SLE 2014](2014), Västerås, Sweden.
 * [Community blog](blog) 
+* [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 
 ### History
 
