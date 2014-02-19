@@ -63,6 +63,7 @@ published: true
 * Craig Anslow, University of Calgary, Canada (general publicity)
 * Tijs van der Storm, Centrum Wiskunde & Informatica, The Netherlands (social media)
 * Davy Landman, Centrum Wiskunde & Informatica, The Netherlands (web)
+* Olivier Barais, Université de Rennes 1 / IRISA
 
 ### Local organization chair
 
