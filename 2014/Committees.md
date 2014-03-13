@@ -65,6 +65,10 @@ published: true
 * Davy Landman, Centrum Wiskunde & Informatica, The Netherlands (web)
 * Olivier Barais, Université de Rennes 1 / IRISA, France
 
+### Publication chair
+
+* Olivier Barais (Irisa, France)
+
 ### Local organization chair
 
 * Ivica Crnkovic, Mälardalen University, Sweden 
