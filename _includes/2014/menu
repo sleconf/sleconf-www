@@ -30,3 +30,7 @@
 {% assign link="/blog" %}
 {% include 2014/menu_item %}
 
+{% assign title="Poster" %}
+{% assign link="/2014/sle2014-poster.pdf" %}
+{% include 2014/menu_item %}
+
