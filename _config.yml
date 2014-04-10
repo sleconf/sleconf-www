@@ -36,5 +36,14 @@ prose:
           type: "text"
           label: "Author website"
           value: ""
-
-
+    2014:
+      - name: "layout"
+        field: 
+          element: "hidden"
+          value: "default2014"
+      - name: "title"
+        field:
+          element: "text"
+          type: "text"
+          label: "Title"
+          value: ""
