@@ -12,7 +12,7 @@ In such workshops people might be invited to submit position papers to help fram
 
 ### Expected workshops
 
-* [IT-SLE](ITSLE.html) - This workshop explores SLE concepts from an industrial perspective.
+* [ITSLE](ITSLE.html) - This workshop explores SLE concepts from an industrial perspective.
 * [Parsing@SLE](Parsing-at-SLE.html) - This workshop was organized the first time in 2013 and brought together a wide variety of people intereseted in parsing.
 
 ### Submit a proposal!
