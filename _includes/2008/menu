@@ -1,0 +1,47 @@
+{% assign title="Program" %}
+{% assign link="/2008/program.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Welcome" %}
+{% assign link="/2008/index.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="About SLE 2008" %}
+{% assign link="/2008/About_SLE_2008.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2008/Call_for_Papers.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Keynotes" %}
+{% assign link="/2008/Keynotes.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Download Center" %}
+{% assign link="/2008/Download_Center.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2008/Important_Dates.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Venue" %}
+{% assign link="/2008/Venue.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Proceedings" %}
+{% assign link="/2008/Proceedings.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2008/Committees.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Sponsors" %}
+{% assign link="/2008/Sponsors.html" %}
+{% include 2008/menu_item %}
+
+{% assign title="Contacts" %}
+{% assign link="/2008/Contacts.html" %}
+{% include 2008/menu_item %}

@@ -1,0 +1,51 @@
+{% assign title="Welcome" %}
+{% assign link="/2012/index.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2012/Call_for_Papers.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Call for Posters" %}
+{% assign link="/2012/Call_for_Posters.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Doctoral Symposium" %}
+{% assign link="/2012/Doctoral_Symposium.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="SLEBOK @ SLE2012" %}
+{% assign link="/2012/SLEBOK_SLE2012.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2012/Important_Dates.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Keynotes" %}
+{% assign link="/2012/Keynotes.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Minitutorials" %}
+{% assign link="/2012/Minitutorials.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Accepted Papers" %}
+{% assign link="/2012/Accepted_Papers.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Program" %}
+{% assign link="/2012/Program.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Venue" %}
+{% assign link="/2012/Venue.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Registration" %}
+{% assign link="/2012/Registration.html" %}
+{% include 2012/menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2012/Committees.html" %}
+{% include 2012/menu_item %}

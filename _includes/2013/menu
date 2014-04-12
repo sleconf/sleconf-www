@@ -1,0 +1,23 @@
+{% assign title="Welcome" %}
+{% assign link="/2013/index.html" %}
+{% include 2013/menu_item %}
+
+{% assign title="Program" %}
+{% assign link="/2013/Program.html" %}
+{% include 2013/menu_item %}
+
+{% assign title="Registration" %}
+{% assign link="/2013/Registration.html" %}
+{% include 2013/menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2013/Call_for_Papers.html" %}
+{% include 2013/menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2013/Important_Dates.html" %}
+{% include 2013/menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2013/Committees.html" %}
+{% include 2013/menu_item %}
