@@ -7,27 +7,27 @@
 {% include menu_item %}
 
 {% assign title="SLE 2008" %}
-{% assign link="http://planet-sl.org/sle2008/" %}
+{% assign link="/2008/" %}
 {% include menu_item %}
 
 {% assign title="SLE 2009" %}
-{% assign link="http://planet-sl.org/sle2009/" %}
+{% assign link="/2009/" %}
 {% include menu_item %}
 
 {% assign title="SLE 2010" %}
-{% assign link="http://planet-sl.org/sle2010/" %}
+{% assign link="/2010/" %}
 {% include menu_item %}
 
 {% assign title="SLE 2011" %}
-{% assign link="http://planet-sl.org/sle2011/" %}
+{% assign link="/2011/" %}
 {% include menu_item %}
 
 {% assign title="SLE 2012" %}
-{% assign link="http://planet-sl.org/sle2012/" %}
+{% assign link="/2012/" %}
 {% include menu_item %}
 
 {% assign title="SLE 2013" %}
-{% assign link="http://planet-sl.org/sle2013/" %}
+{% assign link="/2013/" %}
 {% include menu_item %}
 
 
