@@ -9,8 +9,8 @@ layout: default2013
 * Opening<br>(Eric Van Wyk, Martin Erwig, Richard Paige)
 
 * __Dark Knowledge and Graph Grammars in Automated Software
-* Design__<br>Don Batory, Rui Goncalves, Bryan Marker and Janet
-* Siegmund 
+  Design__<br>Don Batory, Rui Goncalves, Bryan Marker and Janet
+  Siegmund 
 
 #### Sun 10:30-12:00 pm
 #### Domain-Specific Languages (Chair: Mark van den Brand)
@@ -35,9 +35,8 @@ layout: default2013
 * __Software Evolution to Domain-Specific Languages__<br>Stefan
   Fehrenbach, Sebastian Erdweg and Klaus Ostermann 
 
-* Vadim Zaytsev
+* __Micropatterns in Grammars__<br>Vadim Zaytsev
 
-  __Micropatterns in Grammars__
 
 #### Sun 3:30-5:00 pm
 #### Grammars (Chair: Gorel Hedin)
