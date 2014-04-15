@@ -3,7 +3,7 @@ title: Registration
 layout: default2013
 ---
 
-Registration for SLE 2013 is via SPLASH. You can find all the details about registering for SLE 2013 and attending the conference (including travel suggestions and hotel bookings) here: [http://splashcon.org/2013/attending].
+Registration for SLE 2013 is via SPLASH. You can find all the details about registering for SLE 2013 and attending the conference (including travel suggestions and hotel bookings) here: http://splashcon.org/2013/attending.
 
 To attend just SLE 2013, you need to register for the 2-Days Workshop/Symposia (Sunday and Monday, corresponding to 27-28 October). If you also want to attend the workshops on Saturday 26 October, you need to register for an additional day. During the registration process, please be sure to indicate that you intend to attend SLE 2013. 
 
