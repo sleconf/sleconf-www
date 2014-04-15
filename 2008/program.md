@@ -1,6 +1,7 @@
 ---
 layout: default2008
 title: Program
+published: true
 ---
 
 SLE 2008 was held in September 2008. You can download the abstract reader of SLE 2008SLE 2008 Program and Abstract Reader. Papers are also available on line for registered participants. If you have not received information about the account, do not hesitate to contact Jean-Marie.Favre@imag.fr
@@ -16,8 +17,7 @@ Session 1: Welcome and Keynote
 |  Time | Activity |
 | :------| --------------------- |
 | 09:00-09:15 | SLE 2008 Welcome |
-| 09:15-10:15 |	Software Language Engineering: Chartin’ the Map <br/>
-Anneke Kleppe |
+| 09:15-10:15 |	Software Language Engineering: Chartin’ the Map Anneke Kleppe |
 |10:15-11:00 |	Coffee Break |
  	
 Session 2: Language and Tool Analysis and Evaluation
@@ -109,4 +109,3 @@ Terje Gjosaeter, Ingelin Isfeldt, Andreas Prinz|
 Einar Host, Bjarte Ostvold|
 |16:50-17:00|Discussion|
 |16:50-17:00|Closing Discussion|
- 
