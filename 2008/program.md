@@ -15,10 +15,10 @@ Session 1: Welcome and Keynote
 
 
 |  Time | Activity |
-| :------| --------------------- |
+| :------ | --------------------- |
 | 09:00-09:15 | SLE 2008 Welcome 
-| 09:15-10:15 |	Software Language Engineering: Chartin’ the Map Anneke Kleppe 
-|10:15-11:00 |	Coffee Break 
+| 09:15-10:15 | Software Language Engineering: Chartin’ the Map Anneke Kleppe 
+| 10:15-11:00 | Coffee Break 
  	
 Session 2: Language and Tool Analysis and Evaluation
 
