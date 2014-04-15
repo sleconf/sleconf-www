@@ -23,14 +23,9 @@ Session 1: Welcome and Keynote
 
 Session 2: Language and Tool Analysis and Evaluation
 
-|  Time | Activity |
-| :------| --------------------- |
-|11:00-11:25 |	Evaluating the Visual Syntax of UML: Improving the Cognitive Effectiveness of the UML Family of Diagrams<br/>Daniel Moody, Jos van Hillegersberg 
-|11:25-11:50 |	Neon: a library for language usage analysis<br/>Jurriaan Hage, Peter van Keeken 
-|11:50-12:15 |	Analyzing Rule-Based Behavioral Semantics of Visual Modeling Languages with Maude<br/>Jose Rivera, Esther Guerra, Juan de Lara, Antonio Vallecillo 
-| 12:15-12:30 |	Discussion 
-| 12:30-14:00 | Free Lunch 
-
+* __Evaluating the Visual Syntax of UML: Improving the Cognitive Effectiveness of the UML Family of Diagrams__<br/>Daniel Moody, Jos van Hillegersberg
+* __Neon: a library for language usage analysis__<br/>Jurriaan Hage, Peter van Keeken  
+* __Analyzing Rule-Based Behavioral Semantics of Visual Modeling Languages with Maude__<br/>Jose Rivera, Esther Guerra, Juan de Lara, Antonio Vallecillo 
  	
 Session 3: Concrete and Abstract Syntax
 
