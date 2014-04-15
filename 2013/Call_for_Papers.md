@@ -110,3 +110,46 @@ contact them with questions about the scope and topics of interest of
 SLE. __The overall principle of SLE is to be broad-minded and inclusive
 about relevance and scope, and to invest in community building when
 soliciting and selecting papers.__
+
+
+### Types of Submissions
+
+We solicit the following types of papers:
+
+* __Research papers:__ These should report a substantial research
+  contribution to SLE or successful application of SLE techniques or
+  both. Full paper submissions must not exceed 20 pages (in LNCS
+  format).
+
+* __Industrial experience papers:__ These papers discuss practical
+applications of SLE technology with an emphasis on the advantages and
+disadvantages of the method, techniques, or tools used. These papers
+must not exceed 10 pages (in LNCS format).
+
+* __Tool demonstration papers:__ Because of SLE's ample interest in
+  tools, we seek papers that present software tools related to the
+  field of SLE. These papers will accompany a tool demonstration to be
+  given at the conference. These papers must not exceed 10 pages (in
+  LNCS format). The selection criteria include the originality of the
+  tool, its innovative aspects, the relevance of the tool to SLE, and
+  the maturity of the tool.
+
+Papers are submitted via the Easychair system: https://www.easychair.org/conferences/?conf=sle2013
+
+Papers should follow the LNCS format: http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0
+
+* Deadline for abstracts: June 7, 2013 (Midnight UTC-8, Pacific Standard Time)
+* Deadline for full papers: June 14, 2013 (Midnight UTC-8, Pacific Standard Time)
+
+Submitted articles must not have been previously published or
+currently be submitted for publication elsewhere. The program chairs
+will apply the principles of the ACM Plagiarism Policy throughout the
+submission and review process.
+
+### Proceedings
+
+All submitted papers will be reviewed by at least three members of the
+program committee. All accepted papers will be published in Springer's
+Lecture Notes in Computer Science series (http://www.springer.com/lncs). All
+papers must be formatted according to the Springer’s Lecture Notes in
+Computer Science style.
