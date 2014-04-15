@@ -6,6 +6,10 @@
 {% assign link="/2013/Program.html" %}
 {% include 2013/menu_item %}
 
+{% assign title="Proceedings" %}
+{% assign link="/2013/Proceedings.html" %}
+{% include 2013/menu_item %}
+
 {% assign title="Registration" %}
 {% assign link="/2013/Registration.html" %}
 {% include 2013/menu_item %}
