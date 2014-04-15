@@ -3,13 +3,12 @@ title: Program
 layout: default2013
 ---
 
-Draft program ...
-
 #### Sun 8:30-10:00 am
 #### Invited Talk (Chair: Richard Paige)
 
 * Opening (Eric Van Wyk, Martin Erwig, Richard Paige)
 * Don Batory, Rui Goncalves, Bryan Marker and Janet Siegmund
+
 _Dark Knowledge and Graph Grammars in Automated Software Design_
 
 #### Sun 10:30-12:00 pm
