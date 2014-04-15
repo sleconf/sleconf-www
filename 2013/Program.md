@@ -9,7 +9,7 @@ layout: default2013
 * Opening (Eric Van Wyk, Martin Erwig, Richard Paige)
 * Don Batory, Rui Goncalves, Bryan Marker and Janet Siegmund
 
-_Dark Knowledge and Graph Grammars in Automated Software Design_
+  _Dark Knowledge and Graph Grammars in Automated Software Design_
 
 #### Sun 10:30-12:00 pm
 #### Domain-Specific Languages (Chair: Mark van den Brand)
