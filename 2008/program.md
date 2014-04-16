@@ -12,6 +12,7 @@ SLE 2009 will be held in Denver.
 
  	
 Session 1: Welcome and Keynote
+
 * __Software Language Engineering: Chartin’ the Map__<br/> Anneke Kleppe 
 
 Session 2: Language and Tool Analysis and Evaluation
