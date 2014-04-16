@@ -18,4 +18,4 @@ SLE's proceedings are published in Springer's Lecture Notes in Computer Science 
 <a href="http://www.gemoc.org"><img src="/assets/2014/images/sle/gemoc-logo.jpg" alt="GEMOC initiative" width="300px" /></a>
 
 * [Mälarden University](http://www.mdh.se/) is hosting SLE
-* The [GEMOC initiative](http://www.gemoc.org) is sponsoring our best paper award.
+* [Google](http://www.google.com/about/company/) and the [GEMOC initiative](http://www.gemoc.org) are sponsoring our awards.
