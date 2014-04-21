@@ -41,6 +41,41 @@ Submissions will be evaluated based on the following criteria:
 The selection of workshop contributions will be selected based on abstracts (2 pages). These abstracts have to be submitted via EasyChair:
 [https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014) (ensure to select the ‘Abstract checkbox’ in the submission form). The submission deadline of abstracts is June 15. For the abstracts no particular style is required.
 
-### Proceedings
-The post-workshop proceedings will be published as a CEUR Workshop Proceedings. For the post-workshop proceedings all papers must be formatted according to the CEUR one-column style. The submission deadline of full papers is November 30.
+##  Proceedings
+The post-workshop proceedings will be published as a CEUR Workshop Proceedings. For the post-workshop proceedings all papers must be formatted according to the CEUR one-column style. The submission deadline of full papers is August 15.
+
+##  Important Dates
+Submission deadline of abstracts: June 15
+Notification to authors: July 30
+Final papers due: August 15
+Workshop: September 14
+
+##  Keynote
+We are currently looking for a keynote speaker for ITSLE 2013. Please contact us in case you are interested.
+
+## Committees
+### Program Co-chairs
+**Mark van den Brand**, [m.g.j.v.d.brand@tue.nl](mailto:m.g.j.v.d.brand@tue.nl)
+Mark van den Brand is a full professor Software Engineering and Technology of the section Model Driven Software Engineering at the department of Mathematics and Computer Science at the Eindhoven University of Technology, The Netherlands.
+
+**Ramon Schiffelers**, [ramon.schiffelers@asml.com](mailto:ramon.schiffelers@asml.com)
+Ramon Schiffelers is a software architect at ASML, and a part-time assistant professor at the Eindhoven University of Technology, The Netherlands
+
+### Program Committee
+To be discussed.
+
+### Organizaton Committee
+**Mark van den Brand**, [m.g.j.v.d.brand@tue.nl](mailto:m.g.j.v.d.brand@tue.nl)
+Mark van den Brand is a full professor Software Engineering and Technology of the section Model Driven Software Engineering at the department of Mathematics and Computer Science at the Eindhoven University of Technology, The Netherlands.
+
+**Ramon Schiffelers**, [ramon.schiffelers@asml.com](mailto:ramon.schiffelers@asml.com)
+Ramon Schiffelers is a software architect at ASML, and a part-time assistant professor at the Eindhoven University of Technology, The Netherlands
+
+**Ivan Kurtev**, [ivan.kurtev@nspyre.nl](mailto:ivan.kurtev@nspyre.nl)
+Ivan Kurtev is a management consultant at Nspyre.
+
+**Niels Brouwers**, [niels.brouwers@nspyre.nl](mailto:niels.brouwers@nspyre.nl)
+Niels Brouwers is a senior software designer at Nspyre and lead of the Model Driven Engineering technology group.
+
+
 
