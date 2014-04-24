@@ -6,6 +6,10 @@
 {% assign link="/2014/Program.html" %}
 {% include 2014/menu_item %}
 
+{% assign title="Invited speaker" %}
+{% assign link="/2014/Invited.html" %}
+{% include 2014/menu_item %}
+
 {% assign title="Workshops" %}
 {% assign link="/2014/Workshops.html" %}
 {% include 2014/menu_item %}
