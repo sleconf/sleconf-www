@@ -4,7 +4,7 @@ title: Invited speaker
 published: true
 ---
 
-## [Colin Atkinson](http://swt.informatik.uni-mannheim.de/de/team/colin-atkinson/) - From Language Engineering to Viewpoint Engineering
+### [Colin Atkinson](http://swt.informatik.uni-mannheim.de/de/team/colin-atkinson/) - From Language Engineering to Viewpoint Engineering
 
 As software systems increase in size and complexity, and are expected
 to cope with ever more quantities of information from ever more
@@ -27,7 +27,7 @@ some key foundations of a fundamentally view-oriented approach to
 software engineering.
 
 
-## Biography
+### Biography
 
 [Colin Atkinson](http://swt.informatik.uni-mannheim.de/de/team/colin-atkinson/) has been the leader of the Software Engineering Group
 at the University of Mannheim since April 2003. Before that he has
