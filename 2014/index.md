@@ -12,9 +12,9 @@ SLE's mission is to fuse several communities that have traditionally looked at s
 
 SLE's proceedings are published in Springer's Lecture Notes in Computer Science (LNCS)
 
-### Sponsors
+### Award Sponsors
 
-* <a href="http://www.google.com/about/company"><img src="http://www.google.com/images/logos/google_logo_41.png"/></a> [Google](http://www.google.com/about/company/) is our main award sponsor.
-* <a href="http://www.gemoc.org"><img src="/assets/2014/images/sle/gemoc-logo.jpg" alt="GEMOC initiative" width="300px" /></a> the [GEMOC initiative](http://www.gemoc.org), contributes to our awards as well.
-* <a href="http://www.itemis.com"><img src="http://www.itemis.com/binary.ashx/element=E0E0E0/~image.attribute/97/image.gif"</img></a> [Itemis](http://www.itemis.com) is also an award sponsor.
-* <a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> [Mälarden University](http://www.mdh.se/) is hosting SLE.
+| <a href="http://www.google.com/about/company"><img src="http://www.google.com/images/logos/google_logo_41.png"/></a> | [Google](http://www.google.com/about/company/) is our main award sponsor |
+| <a href="http://www.gemoc.org"><img src="/assets/2014/images/sle/gemoc-logo.jpg" alt="GEMOC initiative" width="300px" /></a> | the [GEMOC initiative](http://www.gemoc.org), contributes to our awards as well | 
+| <a href="http://www.itemis.com"><img src="http://www.itemis.com/binary.ashx/element=E0E0E0/~image.attribute/97/image.gif"</img></a> | [Itemis](http://www.itemis.com) is also an award sponsor. |
+| <a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> | [Mälarden University](http://www.mdh.se/) is hosting SLE. |
