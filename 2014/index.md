@@ -20,4 +20,6 @@ SLE's proceedings are published in Springer's Lecture Notes in Computer Science 
 
 <a href="http://www.itemis.com"><img src="http://www.itemis.com/binary.ashx/element=E0E0E0/~image.attribute/97/image.gif"</img></a> <br> [Itemis](http://www.itemis.com) 
 
-<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> <br> [Mälarden University](http://www.mdh.se/) is hosting SLE.
+### Host
+
+<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> <br> [Mälarden University](http://www.mdh.se/) 
