@@ -14,12 +14,10 @@ SLE's proceedings are published in Springer's Lecture Notes in Computer Science 
 
 ### Award Sponsors
 
-<a href="http://www.google.com/about/company"><img src="http://www.google.com/images/logos/google_logo_41.png"/></a> <br> [Google](http://www.google.com/about/company/) is our main award sponsor 
-
+<a href="http://www.google.com/about/company"><img src="http://www.google.com/images/logos/google_logo_41.png"/></a> 
 <a href="http://www.gemoc.org"><img src="/assets/2014/images/sle/gemoc-logo.jpg" alt="GEMOC initiative" width="150px" /></a>
-
-<a href="http://www.itemis.com"><img src="http://www.itemis.com/binary.ashx/element=E0E0E0/~image.attribute/97/image.gif"</img></a>
+<a href="http://www.itemis.com"><img src="http://www.itemis.com/binary.ashx/element=E0E0E0/~image.attribute/97/image.gif/></a> <br> [Google](http://www.google.com/about/company/) is our main award sponsor 
 
 ### Host
 
-<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a> 
+<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a>
