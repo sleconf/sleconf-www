@@ -20,4 +20,4 @@ SLE's proceedings are published in Springer's Lecture Notes in Computer Science 
 
 ### Host
 
-<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University"></a>
+<a href="http://www.mdh.se/"><img src="http://ase2014.org/pics/MDH-logo-en.png" alt="M&auml;larden University" width="150px" ></a>
