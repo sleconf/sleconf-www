@@ -16,7 +16,7 @@ SLE's proceedings are published in Springer's Lecture Notes in Computer Science 
 
 <a href="http://www.google.com/about/company"><img src="http://www.google.com/images/logos/google_logo_41.png"/></a> &nbsp;&nbsp;
 <a href="http://www.gemoc.org"><img src="/assets/2014/images/sle/gemoc-logo.jpg" alt="GEMOC initiative" width="110px" /></a>  &nbsp;&nbsp;
-<a href="http://www.itemis.com"><img src="/assets/2014/images/sle/itemis-logo.gif" alt="itemis"/></a><br>
+<a href="http://www.itemis.com"><img src="/assets/2014/images/sle/itemis-logo.gif" alt="itemis" width="115px"/></a><br>
 [Google](http://www.google.com/about/company/) is our main award sponsor 
 
 ### Host
