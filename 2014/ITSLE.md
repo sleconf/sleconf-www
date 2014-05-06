@@ -45,7 +45,7 @@ The selection of workshop contributions will be selected based on abstracts (2 p
 The post-workshop proceedings will be published as a CEUR Workshop Proceedings. For the post-workshop proceedings all papers must be formatted according to the CEUR one-column style. The submission deadline of full papers is August 15.
 
 ##  Important Dates
-- Submission deadline of abstracts: June 15
+- Submission deadline of papers: June 15
 - Notification to authors: July 30
 - Final papers due: August 15
 - Workshop: September 14
