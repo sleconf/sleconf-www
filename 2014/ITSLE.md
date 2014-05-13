@@ -39,19 +39,19 @@ Submissions will be evaluated based on the following criteria:
 - Tool demonstration papers will be evaluated on technical foundations, novelty, and on industrial relevance like stability, robustness and its potential for broad application.
 
 The selection of workshop contributions will be selected based on abstracts (2 pages). These abstracts have to be submitted via EasyChair:
-[https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014) (ensure to select the ‘Abstract checkbox’ in the submission form). The submission deadline of abstracts is June 15. For the abstracts no particular style is required.
+[https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014) (ensure to select the ‘Abstract checkbox’ in the submission form). The submission deadline of abstracts is June 30. For the abstracts no particular style is required.
 
 ##  Proceedings
 The post-workshop proceedings will be published as a CEUR Workshop Proceedings. For the post-workshop proceedings all papers must be formatted according to the CEUR one-column style. The submission deadline of full papers is August 15.
 
 ##  Important Dates
-- Submission deadline of papers: June 15
-- Notification to authors: July 30
-- Final papers due: August 15
+- Submission deadline of papers: June 30
+- Notification to authors: August 15
+- Final papers due: August 30
 - Workshop: September 14
 
 ##  Keynote
-We are currently looking for a keynote speaker for ITSLE 2013. Please contact us in case you are interested.
+We are currently looking for a keynote speaker for ITSLE 2014. Please contact us in case you are interested.
 
 ## Committees
 ### Program Co-chairs
@@ -62,7 +62,7 @@ Mark van den Brand is a full professor Software Engineering and Technology of th
 Ramon Schiffelers is a software architect at ASML, and a part-time assistant professor at the Eindhoven University of Technology, The Netherlands
 
 ### Program Committee
-To be discussed.
+Tbd.
 
 ### Organizaton Committee
 **Mark van den Brand**, [m.g.j.v.d.brand@tue.nl](mailto:m.g.j.v.d.brand@tue.nl)
