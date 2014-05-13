@@ -31,18 +31,20 @@ We solicit the following types of papers:
 - **Tool demonstration papers**: Because of ITSLE's ample interest in tools, we seek papers that present software tools related to the field of SLE. These papers will accompany a tool demonstration to be given at the workshop. These papers must not exceed 10 pages. The selection criteria include the innovative aspects of the tool and the relevance of the tool to industrial application. Submissions may also include an appendix (that will not be published) containing additional screen-shots and discussion of the proposed demonstration.
 
 ### Paper submission
-Submitted articles must not have been previously published or currently be submitted for publication elsewhere. All submissions will be reviewed by at least three members of the program committee.
+Contributed papers must not have been previously published or currently be submitted for publication elsewhere. All submissions will be reviewed by at least three members of the program committee.
 
 Submissions will be evaluated based on the following criteria:
 - Research papers will be evaluated on the basis of originality of the work, contribution to the state-of-the-art, and overall interest to industrial application of SLE techniques.
 - Experience reports will be evaluated on the basis of clarity of the motivation for the work, and the relevance to the industrial and academic SLE community.
 - Tool demonstration papers will be evaluated on technical foundations, novelty, and on industrial relevance like stability, robustness and its potential for broad application.
 
-The selection of workshop contributions will be selected based on abstracts (2 pages). These abstracts have to be submitted via EasyChair:
-[https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014) (ensure to select the ‘Abstract checkbox’ in the submission form). The submission deadline of abstracts is June 30. For the abstracts no particular style is required.
+These workshop contributions have to be submitted via EasyChair:
+[https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014). The submission deadline is June 30. For these submissions no particular style is required.
+Proceedings
 
 ##  Proceedings
-The post-workshop proceedings will be published as a CEUR Workshop Proceedings. For the post-workshop proceedings all papers must be formatted according to the CEUR one-column style. The submission deadline of full papers is August 15.
+Proceedings
+The workshop proceedings will be published as a CEUR Workshop Proceedings. For the workshop proceedings accepted papers must be formatted according to the CEUR one-column style.
 
 ##  Important Dates
 - Submission deadline of papers: June 30
