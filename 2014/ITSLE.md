@@ -40,7 +40,6 @@ Submissions will be evaluated based on the following criteria:
 
 These workshop contributions have to be submitted via EasyChair:
 [https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014). The submission deadline is June 30. For these submissions no particular style is required.
-Proceedings
 
 ##  Proceedings
 Proceedings
