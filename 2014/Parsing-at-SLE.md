@@ -4,12 +4,27 @@ title: Parsing@SLE
 published: true
 ---
 
+September 14, 2014 in [Västerås, Sweden](http://goo.gl/maps/W2COv)<br>
+Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/), and [GPCE](http://gpce.org).
+
 ### Topic
 
-The topics of parsing and parser generation, both in theory and in practice, may be old, yet there are still challenging problems with respect to the construction and maintenance of parsers. Especially in the context of real programming languages there are ample theoretical as well as practical obstacles to be taken. Contemporary parsing challenges are caused by programming language evolution and diversity in the face of new application areas such as IDE construction, reverse engineering, software metrics, domain specific (embedded) languages, etc. What are modular meta-formalisms for parser generation? How to obtain (fast and correct) parsers for both legacy and new languages that require more computational power than context-free grammars and regular expressions can provide? How to enable the verified construction or prototyping of parsers for languages such as COBOL, C++ and Scala without years of effort?
+While parsing and parser generation, both in theory and in practice, are mature topics, there are challenging problems with respect to the construction, maintenance, optimization, and application of parsers in real-world scenarios.
+
+Especially in the context of real programming languages there are ample theoretical as well as practical obstacles to be overcome. Contemporary parsing challenges are caused by programming-language evolution and diversity in the face of new application areas such as IDE construction, reverse engineering, software metrics, domain specific (embedded) languages, etc. What are modular meta-formalisms for parser generation? How to obtain (fast and correct) parsers for both legacy and new languages that require more computational power than context-free grammars and regular expressions can provide? How to enable the verified construction or prototyping of parsers for languages such as COBOL, C++ and Scala without years of effort?
+
+In addition to the traditional programming-language applications of parsing technology, several other areas of computing also depend heavily on parsers. Examples include computational linguistics, network traffic classification, network security, and bioinformatics. Those areas often have their own unusual requirements, such as: speed (e.g. in network algorithmics), memory efficiency (e.g. embedded devices for networks, but also computational linguistics), or rapid/dynamic parser construction (e.g. in network traffic classification and in bioinformatics) as grammars are adapted.
+
 
 ### Goal
 
-The goal of this workshop is a retreat: to bring together today's experts in the field of parser construction for programming languages. We will present the currently ongoing (unpublished) work as well as explore the challenges that lie ahead. By bringing the whole community together we hope to create synergy and forge new collaborations. Parsing@SLE is a part of the larger SLE conference.
+The goal of this workshop is to bring together today's experts in the fields of parser construction and application, especially across these diverse application areas. Participants will present currently ongoing work as well as explore the challenges that lie ahead. By bringing the whole community together (a rare occurrence, given the diversity of domain-specific conferences/workshops), we aim to create synergy and forge new collaborations.
 
-Parsing @ SLE is not a publication venue. We will collect minutes and the slides of the presentations and publish them online for later reference. However we will surely allow authors to keep the slides for themselves and keep some comments off the record, for example pending publication of recent results. 
+### Call for Submissions
+
+We solicit talk proposals in the form of short abstracts (max. 2 pages). A good talk proposal describes an interesting position, demonstration, or early achievement. The submissions will be reviewed on relevance and clarity, and used to plan the mostly interactive sessions of the workshop day. Publication of accepted abstracts and slides on the website is voluntarily.
+
+* Workshop: September 14, 2014
+* Deadline for talk proposals: July 25, 2014
+* Notification: August 6, 2014
+* Submission website: [https://www.easychair.org/conferences/?conf=parsingsle2014](https://www.easychair.org/conferences/?conf=parsingsle2014)
