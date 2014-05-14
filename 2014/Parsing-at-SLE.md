@@ -4,7 +4,7 @@ title: Parsing@SLE
 published: true
 ---
 
-September 14, 2014 in [Västerås, Sweden](http://goo.gl/maps/W2COv)<br>
+September 14, 2014 in [Västerås, Sweden](http://goo.gl/maps/W2COv).
 Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/), and [GPCE](http://gpce.org).
 
 ### Topic
