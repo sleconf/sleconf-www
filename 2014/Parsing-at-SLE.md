@@ -28,3 +28,8 @@ We solicit talk proposals in the form of short abstracts (max. 2 pages). A good 
 * Deadline for talk proposals: July 25, 2014
 * Notification: August 6, 2014
 * Submission website: [https://www.easychair.org/conferences/?conf=parsingsle2014](https://www.easychair.org/conferences/?conf=parsingsle2014)
+
+### Organizers
+
+* [Sebastian Erdweg](http://erdweg.org), TU Darmstadt, Germany
+* [Bruce Watson](http://www.bruce-watson.com), FASTAR, Stellenbosch University, South Africa
