@@ -34,7 +34,7 @@ The overall principle of SLE is to be broad-minded and inclusive about relevance
 * Research papers: These should report a substantial research contribution to SLE or successful application of SLE techniques or both. Full paper submissions must not exceed 20 pages (in LNCS format).
 * Tool papers: Because of SLE's ample interest in tools, we seek papers that present software tools related to the field of SLE.  Selection criteria include originality of the tool, its innovative aspects, and relevance to SLE.  Tool papers should include an appendix outlining the proposed demonstration, including screenshots etc. A short video may be linked as well.  Tool paper submissions must not exceed 10 pages (in LNCS Format, excluding appendix).
 * Industrial position papers: These papers discuss practical applications of SLE technology with an emphasis on the advantages and disadvantages of the method, techniques, or tools used.  Industry paper submissions must not exceed 10 pages (in LNCS Format).
-* Bridging position papers: These papers discuss bridging ideas from the different areas of SLE (e.g. modelling, PL, grammars, etc).   This includes both foundational ideas and/or practical techniques.  Bridging position papers must not 4 pages (in LNCS Format).
+* Bridging position papers: These papers discuss bridging ideas from the different areas of SLE (e.g. modelling, PL, grammars, etc).   This includes both foundational ideas and/or practical techniques.  Bridging position papers must not exceed 4 pages (in LNCS Format).
 
 All papers have to be submitted electronically in pdf format via Easychair: <https://www.easychair.org/conferences/?conf=sle2014>
 
