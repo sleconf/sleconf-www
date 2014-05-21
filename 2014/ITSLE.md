@@ -63,7 +63,7 @@ Mark van den Brand is a full professor Software Engineering and Technology of th
 Ramon Schiffelers is a software architect at ASML, and a part-time assistant professor at the Eindhoven University of Technology, The Netherlands
 
 ### Program Committee
-Name        | Organization
+Member        | Organization
 :------------- |:-------------
 Eelco	Visser |	Delft University of Technology
 Frédéric	Jouault |	TRAME Team, ESEO
