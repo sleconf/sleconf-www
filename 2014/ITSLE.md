@@ -66,22 +66,22 @@ Ramon Schiffelers is a software architect at ASML, and a part-time assistant pro
 Member | Organization
 :------------- |:-------------
 Ramon Schiffelers (Chair);Eindhoven University of Technology
-Wilbert Alberts;ASML
-Marc Hamilton;NSpyre
-Jozef Hooman;Embedded Systems Institute and Radboud University Nijmegen
-Angelo Hulshout;Delphino Consultancy
-Frédéric Jouault;TRAME Team, ESEO
-Steven Kelly;MetaCase
-Dimitris Kolovos;University of York
-Benoit Langlois;Thales
-Arjan Mooij;Embedded Systems Innovation by TNO
-Adrian Rutle;Department of Computing, Mathematics and Physics
-Jesús Sánchez Cuadrado;Universidad Autónoma de Madrid
-Tony Sloane;Macquarie University
-Massimo Tisi;AtlanMod, INRIA & Ecole des Mines de Nantes
-Tom Verhoeff;Technische Universiteit Eindhoven
-Eelco Visser;Delft University of Technology
-Jeroen Voeten;TU Eindhoven
+Wilbert Alberts|ASML
+Marc Hamilton|Nspyre
+Jozef Hooman|Embedded Systems Institute and Radboud University Nijmegen
+Angelo Hulshout|Delphino Consultancy
+Frédéric Jouault|TRAME Team, ESEO
+Steven Kelly|MetaCase
+Dimitris Kolovos|University of York
+Benoit Langlois|Thales
+Arjan Mooij|Embedded Systems Innovation by TNO
+Adrian Rutle|Department of Computing, Mathematics and Physics
+Jesús Sánchez Cuadrado|Universidad Autónoma de Madrid
+Tony Sloane|Macquarie University
+Massimo Tisi|AtlanMod, INRIA & Ecole des Mines de Nantes
+Tom Verhoeff|Technische Universiteit Eindhoven
+Eelco Visser|Delft University of Technology
+Jeroen Voeten|Eindhoven University of Technology
 
 ### Organizaton Committee
 **Mark van den Brand**, [m.g.j.v.d.brand@tue.nl](mailto:m.g.j.v.d.brand@tue.nl)
