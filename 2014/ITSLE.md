@@ -63,25 +63,25 @@ Mark van den Brand is a full professor Software Engineering and Technology of th
 Ramon Schiffelers is a software architect at ASML, and a part-time assistant professor at the Eindhoven University of Technology, The Netherlands
 
 ### Program Committee
-Member | E-mail | Website | Organization
-:------------- |:------------- |:------------- |:-------------
-Wilbert Alberts|wilbert.alberts@asml.com||ASML|
-Marc Hamilton|marc.hamilton@nspyre.nl||NSpyre|
-Jozef Hooman|hooman@cs.ru.nl|http://www.cs.ru.nl/~hooman/|Embedded Systems Institute and Radboud University Nijmegen|
-Angelo Hulshout|angelo@delphino-consultancy.nl|http://www.delphino-consultancy.nl|Delphino Consultancy|
-Frédéric Jouault|frederic.jouault@eseo.fr|http://trame.eseo.fr/en/people/frederic-jouault|TRAME Team, ESEO|
-Steven Kelly|stevek@metacase.com|http://www.metacase.com|MetaCase|
-Dimitris Kolovos|dimitris.kolovos@york.ac.uk|http://www.cs.york.ac.uk/~dkolovos|University of York|
-Benoit Langlois|benoit.langlois@thalesgroup.com||Thales|
-Arjan Mooij|arjan.mooij@tno.nl|http://www.esi.nl/|Embedded Systems Innovation by TNO|
-Adrian Rutle|aru@hib.no|http://rutle.no|Department of Computing, Mathematics and Physics|
-Jesús Sánchez Cuadrado|jesus.sanchez.cuadrado@uam.es|http://sanchezcuadrado.es|Universidad Autónoma de Madrid|
-Ramon Schiffelers|r.r.h.schiffelers@tue.nl|http://yp.wtb.tue.nl/se/showemp_t3.php/874|Eindhoven University of Technology|
-Tony Sloane|Anthony.Sloane@mq.edu.au|http://www.comp.mq.edu.au/~asloane|Macquarie University|
-Massimo Tisi|massimo.tisi@inria.fr||AtlanMod, INRIA & Ecole des Mines de Nantes|
-Tom Verhoeff|T.Verhoeff@tue.nl|http://www.win.tue.nl/~wstomv|Technische Universiteit Eindhoven|
-Eelco Visser|E.Visser@tudelft.nl|http://eelcovisser.org|Delft University of Technology|
-Jeroen Voeten|J.P.M.Voeten@tue.nl|http://www.ics.ele.tue.nl/~jvoeten|TU Eindhoven|
+Member | Organization
+:------------- |:-------------
+Ramon Schiffelers (Chair);Eindhoven University of Technology
+Wilbert Alberts;ASML
+Marc Hamilton;NSpyre
+Jozef Hooman;Embedded Systems Institute and Radboud University Nijmegen
+Angelo Hulshout;Delphino Consultancy
+Frédéric Jouault;TRAME Team, ESEO
+Steven Kelly;MetaCase
+Dimitris Kolovos;University of York
+Benoit Langlois;Thales
+Arjan Mooij;Embedded Systems Innovation by TNO
+Adrian Rutle;Department of Computing, Mathematics and Physics
+Jesús Sánchez Cuadrado;Universidad Autónoma de Madrid
+Tony Sloane;Macquarie University
+Massimo Tisi;AtlanMod, INRIA & Ecole des Mines de Nantes
+Tom Verhoeff;Technische Universiteit Eindhoven
+Eelco Visser;Delft University of Technology
+Jeroen Voeten;TU Eindhoven
 
 ### Organizaton Committee
 **Mark van den Brand**, [m.g.j.v.d.brand@tue.nl](mailto:m.g.j.v.d.brand@tue.nl)
