@@ -65,7 +65,7 @@ Ramon Schiffelers is a software architect at ASML, and a part-time assistant pro
 ### Program Committee
 Member | Organization
 :------------- |:-------------
-Ramon Schiffelers (Chair);Eindhoven University of Technology
+Ramon Schiffelers (Chair)|Eindhoven University of Technology
 Wilbert Alberts|ASML
 Marc Hamilton|Nspyre
 Jozef Hooman|Embedded Systems Institute and Radboud University Nijmegen
