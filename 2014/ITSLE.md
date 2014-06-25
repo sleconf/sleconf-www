@@ -52,7 +52,7 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 - Workshop: September 14
 
 ##  Keynote
-We are currently looking for a keynote speaker for ITSLE 2014. Please contact us in case you are interested.
+Stephane Bonnet (Thales Corporate Engineering) will give a keynote to share his rich experience in delivering MDE-based and DSL-based solutions in industrial context. The exact topic of the keynote will be determined on short notice.
 
 ## Committees
 ### Program Co-chairs
