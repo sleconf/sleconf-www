@@ -39,14 +39,14 @@ Submissions will be evaluated based on the following criteria:
 - Tool demonstration papers will be evaluated on technical foundations, novelty, and on industrial relevance like stability, robustness and its potential for broad application.
 
 These workshop contributions have to be submitted via EasyChair:
-[https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014). The submission deadline is June 30. For these submissions no particular style is required.
+[https://www.easychair.org/conferences/?conf=itsle2014](https://www.easychair.org/conferences/?conf=itsle2014). The submission deadline is July 15. For these submissions no particular style is required.
 
 ##  Proceedings
 Proceedings
 The workshop proceedings will be published as a CEUR Workshop Proceedings. For the workshop proceedings accepted papers must be formatted according to the CEUR one-column style.
 
 ##  Important Dates
-- Submission deadline of papers: June 30
+- Submission deadline of papers: July 15
 - Notification to authors: August 15
 - Final papers due: August 30
 - Workshop: September 14
