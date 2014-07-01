@@ -55,6 +55,7 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 Stéphane Bonnet (Thales Corporate Engineering) will give a keynote to share his rich experience in delivering MDE-based and DSL-based solutions in industrial context. 
 
 Thales is a major electronic systems company that designs, builds and provides services for the aerospace, defense, transportation, space and security markets. For the last ten years, Thales has massively invested on model driven approaches, both from methodological and tooling perspectives. The Thales DSL for system architecture definition is named Capella and is both an enrichment and a simplification of UML and SysML. It is now at the core of the Thales engineering practices.
+
 - What was the initial rationale for a DSL?
 - What technologies have been used or developed to build this DSL?
 - What are the key enabling factors to massively deploy a DSL in such a large organization?
