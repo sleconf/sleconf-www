@@ -55,10 +55,10 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 Stéphane Bonnet (Thales Corporate Engineering) will give a keynote to share his rich experience in delivering MDE-based and DSL-based solutions in industrial context. 
 
 Thales is a major electronic systems company that designs, builds and provides services for the aerospace, defense, transportation, space and security markets. For the last ten years, Thales has massively invested on model driven approaches, both from methodological and tooling perspectives. The Thales DSL for system architecture definition is named Capella and is both an enrichment and a simplification of UML and SysML. It is now at the core of the Thales engineering practices.
-·         What was the initial rationale for a DSL?
-·         What technologies have been used or developed to build this DSL?
-·         What are the key enabling factors to massively deploy a DSL in such a large organization?
-·         How did the Thales strategy evolve over the years to end up with open sourcing both Capella and the major technological bricks it relies on (Sirius, Kitalpha)?
+- What was the initial rationale for a DSL?
+- What technologies have been used or developed to build this DSL?
+- What are the key enabling factors to massively deploy a DSL in such a large organization?
+- How did the Thales strategy evolve over the years to end up with open sourcing both Capella and the major technological bricks it relies on (Sirius, Kitalpha)?
 
 Stéphane Bonnet has joined Thales in 2005 after completing a PhD on model driven engineering and software factories for the smart card manufacturer Gemalto. He has been involved in the first significant Thales efforts to provide model driven engineering solutions through advanced UML profiles. From 2008 onwards, he has led the development of Capella, the Thales modeling DSL for system engineering, now used by hundreds of engineers from various engineering domains. He now spends most of his time helping Thales system engineers deploy model driven engineering approaches on operational projects worldwide. He is also contributing to the Thales effort to open source Capella and the core technological bricks it is based on (in particular Sirius and Kitalpha).
 
