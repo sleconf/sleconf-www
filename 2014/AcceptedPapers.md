@@ -1,7 +1,7 @@
 ---
 published: true
 layout: default2014
-title: Accepted Research Papers
+title: Accepted Papers
 ---
 
    * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
@@ -35,8 +35,6 @@ title: Accepted Research Papers
    * **Evaluating the usability of a visual notation when developing new feature models**, Aleksandar Jaksic, Robert France, Philippe Collet and Sudipto Ghosh
 
    * **Respect Your Parents: How Attribution and Rewriting Can Get Along**, Tony Sloane, Matthew Roberts and Leonard Hamey
-   
-#Accepted Tool Papers:
 
    * **Monto: A Disintegrated Development Environment**, Tony Sloane, Matthew Roberts, Scott Buckley and Shaun Muscat
 
