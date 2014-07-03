@@ -18,6 +18,10 @@
 {% assign link="/2014/Registration.html" %}
 {% include 2014/menu_item %}
 
+{% assign title="Accepted Papers" %}
+{% assign link="/2014/AcceptedPapers.html" %}
+{% include 2014/menu_item %}
+
 {% assign title="Call for Papers" %}
 {% assign link="/2014/CFP.html" %}
 {% include 2014/menu_item %}
