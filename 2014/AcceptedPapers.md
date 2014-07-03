@@ -1,4 +1,8 @@
-#Accepted Research Papers:
+---
+published: true
+layout: default2014
+title: Accepted Research Papers
+---
 
    * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
    
