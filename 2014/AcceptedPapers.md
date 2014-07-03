@@ -1,7 +1,9 @@
 #Accepted Research Papers:
 
    * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
+   
    * **The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers**, Andrei Chis, Tudor Girba and Oscar Nierstrasz
+
    * **Streamlining Control Flow Graph Construction with DCFlow**, Mark Hills
    * **Bounded Islands**, Jan Kurs, Mircea Lungu and Oscar Nierstrasz
    * **Origin Tracking in Attribute Grammars**, Kevin Williams and Eric Van Wyk
