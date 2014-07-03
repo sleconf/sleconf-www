@@ -1,4 +1,4 @@
-Accepted Research Papers:
+#Accepted Research Papers:
 
    * A SAT-based Debugging Tool for State Machines and Sequence Diagrams
    * The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers
@@ -17,7 +17,7 @@ Accepted Research Papers:
    * Evaluating the usability of a visual notation when developing new feature models
    * Respect Your Parents: How Attribution and Rewriting Can Get Along
    
-Accepted Tool Papers:
+#Accepted Tool Papers:
 
    * Monto: A Disintegrated Development Environment
    * AIOCJ: A Choreographic Framework for Safe Adaptive Distributed Applications
