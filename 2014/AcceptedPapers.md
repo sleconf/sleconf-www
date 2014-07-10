@@ -28,7 +28,7 @@ title: Accepted Papers
 
    * **ProMoBox: A Framework for Generating Domain-Specific Property Languages**, Bart Meyers, Romuald Deshayes, Levi Lucio, Eugene Syriani, Manuel Wimmer and Hans Vangheluwe
 
-   * **A Metamodel Family for Role-based Modelling and Programming Languages**, Thomas Kühn, Max Leuthäuser, Sebastian Götz, Uwe Aßmann and Christoph Seidl
+   * **A Metamodel Family for Role-based Modeling and Programming Languages**, Thomas Kühn, Max Leuthäuser, Sebastian Götz, Uwe Aßmann and Christoph Seidl
 
    * **fUML as an Assembly Language for Model Transformation**, Massimo Tisi, Frédéric Jouault, Jérôme Delatour, Zied Saidi and Hassene Choura
 
