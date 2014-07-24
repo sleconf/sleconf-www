@@ -24,7 +24,7 @@ The goal of this workshop is to bring together today's experts in the fields of 
 
 We solicit talk proposals in the form of short abstracts (max. 2 pages). A good talk proposal describes an interesting position, demonstration, or early achievement. The submissions will be reviewed on relevance and clarity, and used to plan the mostly interactive sessions of the workshop day. Publication of accepted abstracts and slides on the website is voluntarily.
 
-* **Deadline for talk proposals: July 25, 2014**
+* **Deadline for talk proposals: August 5, 2014** (was July 25, 2014)
 * Workshop: September 14, 2014
 * Notification: August 6, 2014
 * Submission website: [https://www.easychair.org/conferences/?conf=parsingsle2014](https://www.easychair.org/conferences/?conf=parsingsle2014)
