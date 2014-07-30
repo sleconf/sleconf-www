@@ -4,11 +4,7 @@ title: Program
 published: true
 ---
 
-SLE 2008 was held in September 2008. You can download the abstract reader of SLE 2008SLE 2008 Program and Abstract Reader. Papers are also available on line for registered participants. If you have not received information about the account, do not hesitate to contact Jean-Marie.Favre@imag.fr
-
-SLE 2009 will be held in Denver.
-
-### Monday, September 29, 2008 --- Room Ariane 1
+### Monday, September 29, 2008
 
  	
 Session 1: Welcome and Keynote
@@ -35,7 +31,7 @@ Session 4: Language Engineering Techniques
 * __A Model Engineering Approach to Tool Interoperability__<br/>Yu Sun, Zekai Demirezen, Frederic Jouault, Robert Tairas, Jeff Gray
 
 
-### Tuesday, September 30, 2008 --- Room Ariane 1
+### Tuesday, September 30, 2008 
  	
 Session 5: Keynote
 
