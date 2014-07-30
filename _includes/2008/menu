@@ -1,9 +1,13 @@
+{% assign title="Welcome" %}
+{% assign link="/2008/index.html" %}
+{% include 2008/menu_item %}
+
 {% assign title="Program" %}
 {% assign link="/2008/program.html" %}
 {% include 2008/menu_item %}
 
-{% assign title="Welcome" %}
-{% assign link="/2008/index.html" %}
+{% assign title="Proceedings" %}
+{% assign link="/2008/Proceedings.html" %}
 {% include 2008/menu_item %}
 
 {% assign title="About SLE 2008" %}
@@ -28,10 +32,6 @@
 
 {% assign title="Venue" %}
 {% assign link="/2008/Venue.html" %}
-{% include 2008/menu_item %}
-
-{% assign title="Proceedings" %}
-{% assign link="/2008/Proceedings.html" %}
 {% include 2008/menu_item %}
 
 {% assign title="Committees" %}
