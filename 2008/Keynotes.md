@@ -3,11 +3,11 @@ title: Keynotes
 layout: default2008
 ---
 
-## Model-driven Engineering meets Generic Language Technology
+### Model-driven Engineering meets Generic Language Technology
 
 **Mark van den Brand, Technical University of Eindhoven**
 
-### Abstract
+#### Abstract
 
 One of the key points of model-driven engineering is the raise of
 abstraction with respect to software development.  However, this
@@ -26,7 +26,7 @@ engineering community. By means of a number of case studies I will
 show how generic language technology research can be useful for the
 development of model-driven engineering technology.
 
-### Bio
+#### Bio
 
 Mark van den Brand started his study computer science in 1982 at the
 Radboud University Nijmegen (The Netherlands). In 1987 he became a PhD
@@ -58,11 +58,11 @@ conferences and summer schools in the field of reverse engineering,
 language technology, and software engineering in general.
 
 
-## Software Language Engineering: Chartin' the Map
+### Software Language Engineering: Chartin' the Map
 
-**Anneke Kleppe, Cap Gemini
+**Anneke Kleppe, Cap Gemini**
 
-### Abstract
+#### Abstract
 
 No doubt that in the world of software, languages are of the utmost
 importance. From the early days of computing we had to tackle two
@@ -87,7 +87,7 @@ topics that are not well understood and need further research. In
 short, this presentation gives an overview of the field, its roots,
 its highlights, and its uncharted territories.
 
-### Bio
+#### Bio
 
 Anneke Kleppe has over 20 years of experience in IT. She started her
 carrier in telecommunications, after which she worked as independent
