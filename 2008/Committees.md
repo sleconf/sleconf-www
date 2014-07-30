@@ -3,7 +3,7 @@ title: Committees
 layout: default2008
 ---
 
-***General Chair
+### General Chair
 
 * Ralf Leammel, University Koblenz-Landau, Germany 
 
@@ -65,7 +65,7 @@ layout: default2008
 * Eric Van Wyk, University of Minnesota, USA
 * Andreas Winter, Johannes Gutenberg-University Mainz, Germany
 
-### Organization Committee<
+### Organization Committee
 
 * Jean-Marie Favre, University of Grenoble, France
 * Jean-Sebastien Sottet, University of Grenoble, France (Web Site Chair)
