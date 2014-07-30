@@ -26,7 +26,3 @@
 {% assign link="/2008/Committees.html" %}
 {% include 2008/menu_item %}
 
-{% assign title="Sponsors" %}
-{% assign link="/2008/Sponsors.html" %}
-{% include 2008/menu_item %}
-

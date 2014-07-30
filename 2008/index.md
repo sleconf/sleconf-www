@@ -26,4 +26,7 @@ This year SLE will be co-located with the 11th IEEE/ACM International
 Conference on Model Driven Engineering Languages and Systems (MODELS
 2008), in Toulouse, France. 
 
+### Sponsors
+
+<img src="/assets/2013/umseclogo.gif" alt="UMSEC"> 
 

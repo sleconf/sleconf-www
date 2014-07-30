@@ -80,6 +80,4 @@ accepted papers will be made available at the conference in the
 pre-proceedings and published in the post-proceedings of the
 conference, which will appear in Springer's Lecture Notes in Computer
 Science series. Authors will have the opportunity to revise their
-accepted paper for the pre and post- proceedings. See conference web
-page for full details regarding paper types, length and submission.
-
+accepted paper for the pre and post- proceedings.
