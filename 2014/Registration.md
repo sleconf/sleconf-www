@@ -4,4 +4,6 @@ title: Registration
 published: true
 ---
 
-To be announced.
+Registration for SLE 2014 is handled by the ASE conference organizers.
+
+Please register for SLE on the ASE 2014 site:  [ase2014.org].
