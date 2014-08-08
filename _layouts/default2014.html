@@ -22,13 +22,33 @@
       .timetable {
 
       }
-      .timetable td {
+      .timetable>td {
 	      padding: 0.5em 0.5em 0.5em 0;
 	      vertical-align: top;
       }
-      .timetable thead th {
+      .timetable>thead>th {
 	      padding-right: 1em;
 	      text-align: left;
+      }
+      .timetable .dayCell {
+         text-align:center;
+         font-weight: bold;
+         font-size:1.3em;
+      }
+      .timetable .trackCell {
+         text-align:center;
+         font-weight: bold;
+         font-size:1.1em;
+      }
+      .timetable .sessionCell {
+         text-align:center;
+         font-weight: bold;
+      }
+      .timetable table>td {
+	      padding: 0.5em 0;
+      }
+      .timetable .authors {
+         font-style: italic;
       }
    </style>
    <script src="/assets/2014/media/system/js/mootools-core.js" type="text/javascript"></script>
