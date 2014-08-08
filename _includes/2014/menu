@@ -6,6 +6,10 @@
 {% assign link="/2014/Program.html" %}
 {% include 2014/menu_item %}
 
+{% assign title="Venue" %}
+{% assign link="http://ase2014.org/index.php?choice=local" %}
+{% include 2014/menu_item %}
+
 {% assign title="Invited speaker" %}
 {% assign link="/2014/Invited.html" %}
 {% include 2014/menu_item %}
