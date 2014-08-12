@@ -9,23 +9,23 @@ Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/),
 
 ### Accepted Talks
 
-    * Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar
-      Nierstrasz
-    * LR Parsing Challenges in Java 8, by Erik Hogeman, Jesper Öqvist
-      and Gorel Hedin 
-    * Staging Parser Combinator for Efficient Data Processing, by
-      Manohar Jonnalagedda 
-    * Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido
-      Wachsmuth 
-    * Meerkat Parsers: General Top-down Parser Combinator Library, by
-      Anastasia Izmaylova, Ali Afroozeh and Tijs Van der Storm 
-    * A domain-specific debugger for the PetitParser parser framework,
-      by Andrei Chis, Tudor Girba and Oscar Nierstrasz 
-    * Verified parsing in the real world, by Tom Ridge
-    * Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya
-      Helene Bagge 
-    * Homomorphic Language Representations Provide Efficient
-      Recognition and Parsing, by Anssi Yli-Jyrä 
+* Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar
+  Nierstrasz
+* LR Parsing Challenges in Java 8, by Erik Hogeman, Jesper Öqvist
+  and Gorel Hedin 
+* Staging Parser Combinator for Efficient Data Processing, by
+  Manohar Jonnalagedda 
+* Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido
+  Wachsmuth 
+* Meerkat Parsers: General Top-down Parser Combinator Library, by
+  Anastasia Izmaylova, Ali Afroozeh and Tijs Van der Storm 
+* A domain-specific debugger for the PetitParser parser framework,
+  by Andrei Chis, Tudor Girba and Oscar Nierstrasz 
+* Verified parsing in the real world, by Tom Ridge
+* Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya
+  Helene Bagge 
+* Homomorphic Language Representations Provide Efficient
+  Recognition and Parsing, by Anssi Yli-Jyrä 
 
 
 
