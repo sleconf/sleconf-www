@@ -7,6 +7,28 @@ published: true
 September 14, 2014 in [Västerås, Sweden](http://goo.gl/maps/W2COv).
 Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/), and [GPCE](http://gpce.org).
 
+### Accepted Talks
+
+    * Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar
+      Nierstrasz
+    * LR Parsing Challenges in Java 8, by Erik Hogeman, Jesper Öqvist
+      and Gorel Hedin 
+    * Staging Parser Combinator for Efficient Data Processing, by
+      Manohar Jonnalagedda 
+    * Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido
+      Wachsmuth 
+    * Meerkat Parsers: General Top-down Parser Combinator Library, by
+      Anastasia Izmaylova, Ali Afroozeh and Tijs Van der Storm 
+    * A domain-specific debugger for the PetitParser parser framework,
+      by Andrei Chis, Tudor Girba and Oscar Nierstrasz 
+    * Verified parsing in the real world, by Tom Ridge
+    * Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya
+      Helene Bagge 
+    * Homomorphic Language Representations Provide Efficient
+      Recognition and Parsing, by Anssi Yli-Jyrä 
+
+
+
 ### Topic
 
 While parsing and parser generation, both in theory and in practice, are mature topics, there are challenging problems with respect to the construction, maintenance, optimization, and application of parsers in real-world scenarios.
