@@ -77,7 +77,8 @@ published: true
             <td class="sessionContentCell">
                 <table>
                     <tbody><tr><td><span class="paperTitle">Unifying and Generalizing Relations in Role-Based Data Modeling and Navigation</span>, D. Harkes, E. Visserr</td></tr>
-                    <tr><td><span class="paperTitle">A Metamodel Family for Role-based Modelling and Programming Languages</span>, T. Kuhn, M. Leuthauser, S. Gotz and U. Assmann</td></tr>
+                    <tr><td><span class="paperTitle">A Metamodel Family for
+					Role-based Modeling and Programming Languages</span>, T. K&uuml;hn, M. Leuth&auml;user, S. G&ouml;tz, Christoph Seidl and U. A&szlig;mann</td></tr>
                     <tr><td><span class="paperTitle">Streamlining Control Flow Graph Construction with DCFlow</span>, M. Hills</td></tr>
                 </tbody></table>
             </td>
