@@ -6,7 +6,7 @@ published: true
 
 ### PC co-chairs
 
-* [Benoît Combemale](http://people.irisa.fr/Benoit.Combemale/), University of Rennes 1 / INRIA, France 
+* [Benoît Combemale](http://people.irisa.fr/Benoit.Combemale/), University of Rennes 1, France 
 * [David J. Pearce](http://homepages.ecs.vuw.ac.nz/~djp/), Victoria University of Wellington, New Zealand 
 
 ### Program committee
