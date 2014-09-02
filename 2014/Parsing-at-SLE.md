@@ -11,11 +11,11 @@ Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/),
 
 The workshop will take place in Room 201 of the [Aros Congress Center in Västerås](http://ase2014.org/index.php?choice=local).
 
-Time       | Content
------------|:------------------------------------------
-9:00-10:00 | Session 1
-	   | Introduction (30 min)
-	   | Talk 1: Verified parsing in the real world, by Tom Ridge
+Time        | Content
+------------|:------------------------------------------
+9:00-10:00  | Session 1
+	    | Introduction (30 min)
+	    | Talk 1: Verified parsing in the real world, by Tom Ridge
 10:00-10:30 | Coffee break
 10:30-12:30 | Session 2
 	    | Talk 2: Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido Wachsmuth
