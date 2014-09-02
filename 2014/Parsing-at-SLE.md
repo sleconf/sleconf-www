@@ -9,7 +9,7 @@ Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/),
 
 ### Program
 
------------------------------------------------------
+-----------|------------------------------------------
 9:00-10:00 | Session 1
 	   | Introduction (30 min)
 	   | Talk 1: Verified parsing in the real world
@@ -28,7 +28,7 @@ Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/),
 16:00-17:30 | Session 4
 	    | Talk 9: LR Parsing Challenges in Java 8
 	    | Group discussion on the future of parsing (60 min)
------------------------------------------------------
+------------|-----------------------------------------
 
 
 * Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar
