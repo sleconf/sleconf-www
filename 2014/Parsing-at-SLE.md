@@ -9,31 +9,26 @@ Co-located with [SLE](http://www.sleconf.org/2014/), [ASE](http://ase2014.org/),
 
 ### Program
 
-
+-----------------------------------------------------
 9:00-10:00 | Session 1
 	   | Introduction (30 min)
 	   | Talk 1: Verified parsing in the real world
------------------------------------------------------
 10:00-10:30 | Coffee break
------------------------------------------------------
 10:30-12:30 | Session 2
 	    | Talk 2: Developing SDF3
 	    | Talk 3: Homomorphic Language Representations Provide Efficient Recognition and Parsing
 	    | Talk 4: Modelling Parsing and Unparsing
 	    | Talk 5: Parsing Contexts for PEGs
------------------------------------------------------
 12:30-14:00 | Lunch
------------------------------------------------------
 14:00-15:30 | Session 3
 	    | Talk 6: Meerkat Parsers: General Top-down Parser Combinator Library
 	    | Talk 7: A domain-specific debugger for the PetitParser parser framework
 	    | Talk 8: Staging Parser Combinator for Efficient Data Processing
------------------------------------------------------
 15:30-16:00 | Coffee break
------------------------------------------------------
 16:00-17:30 | Session 4
 	    | Talk 9: LR Parsing Challenges in Java 8
 	    | Group discussion on the future of parsing (60 min)
+-----------------------------------------------------
 
 
 * Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar
