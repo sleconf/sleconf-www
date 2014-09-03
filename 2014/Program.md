@@ -131,9 +131,13 @@ published: true
                     <tr><td><span class="paperTitle">Dynamic Scope Discovery for Model Transformations</span>, <span class="authors">M. Jukss, C. Verbrugge, D. Varro and H. Vangheluwe</span></td></tr>
                     <tr><td><span class="paperTitle">ProMoBox: A Framework for Generating Domain-Specific Property Languages</span>, <span class="authors">B. Meyers, R. Deshayes, L. Lucio, E. Syriani, M. Wimmer, H. Vangheluwe</span></td></tr>
                     <!--<tr><td><span class="paperTitle">Awards SLE 2014 (best paper, best student paper and best reviewer)</span></td></tr>-->
-                    <tr><td><span class="paperTitle">SLE Education Panel</span></td></tr>
                 </tbody></table>
             </td>
+            
+        </tr>
+        <tr>
+            <td class="timeCell">12:00</td>
+            <td class="sessionCell">SLE Education Panel</td>
             
         </tr>
         <tr>
