@@ -136,7 +136,7 @@ published: true
         </tr>
         <tr>
             <td class="timeCell">12:00</td>
-            <td class="sessionCell"><a href="2014/Panel.html">SLE Education Panel</a></td>
+            <td class="sessionCell"><a href="Panel.html">SLE Education Panel</a></td>
             
         </tr>
         <tr>
