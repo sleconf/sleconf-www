@@ -31,7 +31,7 @@ Time        | Content
 16:00-17:30 | Session 4
 	    | Talk 9: LR Parsing Challenges in Java 8, by Erik Hogeman, Jesper Öqvist and Gorel Hedin
 	    | Group discussion on the future of parsing (60 min)
-18.00       | Workshop dinner (non-sponsored) at [LaxMi](http://www.laxmiindisk.se) (Indian), [Snickaregatan 1](https://www.google.com/maps/dir/Aros+Congress+Center+AB,+Munkgatan+7,+722+12+V%C3%A4ster%C3%A5s,+Sweden/Laxmi+Indisk+Restaurang+HB,+Snickargatan+1,+722+13+V%C3%A4ster%C3%A5s,+Sweden/@59.6104817,16.5469364,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x465e613ea1b19555:0x239219bc8c6f652c!2m2!1d16.549235!2d59.609526!1m5!1m1!1s0x465e61393585e925:0x4a7d151686a272fb!2m2!1d16.548214!2d59.611209!3e2)
+18:00       | Workshop dinner (non-sponsored) at [LaxMi](http://www.laxmiindisk.se) (Indian), [Snickaregatan 1](https://www.google.com/maps/dir/Aros+Congress+Center+AB,+Munkgatan+7,+722+12+V%C3%A4ster%C3%A5s,+Sweden/Laxmi+Indisk+Restaurang+HB,+Snickargatan+1,+722+13+V%C3%A4ster%C3%A5s,+Sweden/@59.6104817,16.5469364,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x465e613ea1b19555:0x239219bc8c6f652c!2m2!1d16.549235!2d59.609526!1m5!1m1!1s0x465e61393585e925:0x4a7d151686a272fb!2m2!1d16.548214!2d59.611209!3e2)
 
 
 ### Topic
