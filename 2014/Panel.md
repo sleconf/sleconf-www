@@ -28,6 +28,7 @@ This 45min (short!) panel is about the role of software language engineering in 
 ### Panelists
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/) (University of Bergen, Norway)
 * [Jaakko Järvi](https://parasol.tamu.edu/~jarvi/) (Texas A&M University, USA) 
+* [Ulrik Pagh Schultz](http://websrv0a.sdu.dk/ups/) (University of Southern Denmark)
 * [Anthony Sloane](https://wiki.mq.edu.au/display/plrg/Anthony+Sloane) (Macquarie University, Australia)
 * [Massimo Tisi](http://www.massimotisi.org/) (Ecole des Mines de Nantes, France)
 * [Eric Van Wyk](http://www-users.cs.umn.edu/~evw/) (University of Minnesota, USA)
