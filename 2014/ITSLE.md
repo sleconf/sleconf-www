@@ -103,7 +103,7 @@ Ramon Schiffelers is a software architect at ASML, and a part-time assistant pro
 Ivan Kurtev is a management consultant at Nspyre.
 
 **Niels Brouwers**, [niels.brouwers@nspyre.nl](mailto:niels.brouwers@nspyre.nl)
-Niels Brouwers is a senior software designer at Nspyre and lead of the Model Driven Engineering technology group.
+Niels Brouwers is a software architect at Nspyre and lead of the Model Driven Engineering technology group.
 
 
 
