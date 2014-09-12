@@ -51,6 +51,22 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 - Final papers due: August 30
 - Workshop: September 14
 
+## Workshop Program
+ | 
+:------------- |:-------------
+09:00 |	Welcome
+09:05 | Keynote: Delivering MDE-based and DSL-based solutions in industrial context (see below for detailed information)
+        Stéphane Bonnet (Thales Corporate Engineering)
+10:00 |	Coffee break
+10:30 |	Talks
+ 	      Industrial experience with DSLs for power control - Mathijs Schuts and Jozef Hooman
+        Using Crowd-sourcing to Improve the Semantic Transparency of Committee-Designed Languages - Amine El Kouhen,                  Abdelouahed Gherbi and Cédric Dumoulin
+        Towards a Generated and Integrated Environment to Develop Applications for the Domain of Process Systems Engineering:         a Roadmap -Rob Faessen
+12:15 |	Inventarization topics for Discussion Forum
+12:30 |	Lunch
+14:00 | Discussion Forum
+15:00 - 15:15 | Workshop closing
+
 ##  Keynote
 Stéphane Bonnet (Thales Corporate Engineering) will give a keynote to share his rich experience in delivering MDE-based and DSL-based solutions in industrial context. 
 
