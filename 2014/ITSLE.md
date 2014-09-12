@@ -52,7 +52,7 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 - Workshop: September 14
 
 ## Workshop Program
-{|
+|
 ! Time
 ! Event
 |-
@@ -62,7 +62,7 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 |09:05
 |Keynote: Delivering MDE-based and DSL-based solutions in industrial context (see below for detailed information)
         Stéphane Bonnet (Thales Corporate Engineering)
-|-|}
+|-|
 
  | 
 :------------- |:-------------
