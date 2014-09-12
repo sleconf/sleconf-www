@@ -55,24 +55,12 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 Time | Event
 :------------- |:-------------
 09:00 |	Welcome
-09:05 | Keynote: Delivering MDE-based and DSL-based solutions in industrial context (see below for detailed information) -  Stéphane Bonnet (Thales Corporate Engineering)
+09:05 | **Keynote**: Delivering MDE-based and DSL-based solutions in industrial context (see below for detailed information) -  _Stéphane Bonnet (Thales Corporate Engineering)_
 10:00 |	Coffee break
 10:30 |	Talks
-12:15 |	Inventarization topics for Discussion Forum
-12:30 |	Lunch
-14:00 | Discussion Forum
-15:00 - 15:15 | Workshop closing
-
- | 
-:------------- |:-------------
-09:00 |	Welcome
-09:05 | Keynote: Delivering MDE-based and DSL-based solutions in industrial context (see below for detailed information)
-        Stéphane Bonnet (Thales Corporate Engineering)
-10:00 |	Coffee break
-10:30 |	Talks
- 	      Industrial experience with DSLs for power control - Mathijs Schuts and Jozef Hooman
-        Using Crowd-sourcing to Improve the Semantic Transparency of Committee-Designed Languages - Amine El Kouhen,                  Abdelouahed Gherbi and Cédric Dumoulin
-        Towards a Generated and Integrated Environment to Develop Applications for the Domain of Process Systems Engineering:         a Roadmap -Rob Faessen
+      | Industrial experience with DSLs for power control - _Mathijs Schuts and Jozef Hooman_
+      | Using Crowd-sourcing to Improve the Semantic Transparency of Committee-Designed Languages - _Amine El Kouhen, Abdelouahed Gherbi and Cédric Dumoulin_
+      | Towards a Generated and Integrated Environment to Develop Applications for the Domain of Process Systems Engineering: a Roadmap - _Rob Faessen_
 12:15 |	Inventarization topics for Discussion Forum
 12:30 |	Lunch
 14:00 | Discussion Forum
