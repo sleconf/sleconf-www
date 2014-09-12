@@ -54,9 +54,15 @@ The workshop proceedings will be published as a CEUR Workshop Proceedings. For t
 ## Workshop Program
 Time | Event
 :------------- |:-------------
+09:00 |	Welcome
 09:05 | Keynote: Delivering MDE-based and DSL-based solutions in industrial context (see below for detailed information)
         Stéphane Bonnet (Thales Corporate Engineering)
-
+10:00 |	Coffee break
+10:30 |	Talks
+12:15 |	Inventarization topics for Discussion Forum
+12:30 |	Lunch
+14:00 | Discussion Forum
+15:00 - 15:15 | Workshop closing
 
  | 
 :------------- |:-------------
