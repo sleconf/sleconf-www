@@ -20,7 +20,7 @@ Time        | Content
 10:30-12:30 | Session 2
 	    | Talk 2: Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido Wachsmuth [slides](parsing-slides/2-sdf3-slides.pdf)
 	    | Talk 3: Homomorphic Language Representations Provide Efficient Recognition and Parsing, by Anssi Yli-Jyrä
-	    | Talk 4: Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya Helene Bagge
+	    | Talk 4: Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya Helene Bagge [slides](parsing-slides/4-zaytsev-bagge.pdf)
 	    | Talk 5: Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar Nierstrasz
 12:30-14:00 | Lunch
 14:00-15:30 | Session 3
