@@ -15,7 +15,7 @@ Time        | Content
 :-----------|:------------------------------------------
 9:00-10:00  | Session 1
 	    | Introduction (30 min)
-	    | Talk 1: Verified parsing in the real world, by Tom Ridge
+	    | Talk 1: Verified parsing in the real world, by Tom Ridge [slides](parsing-slides/1-slides.standalone.html)
 10:00-10:30 | Coffee break
 10:30-12:30 | Session 2
 	    | Talk 2: Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido Wachsmuth [slides](parsing-slides/2-sdf3-slides.pdf)
