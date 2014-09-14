@@ -18,7 +18,7 @@ Time        | Content
 	    | Talk 1: Verified parsing in the real world, by Tom Ridge
 10:00-10:30 | Coffee break
 10:30-12:30 | Session 2
-	    | Talk 2: Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido Wachsmuth
+	    | Talk 2: Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido Wachsmuth [slides](parsing-slides/2-sdf3-slides.pdf)
 	    | Talk 3: Homomorphic Language Representations Provide Efficient Recognition and Parsing, by Anssi Yli-Jyrä
 	    | Talk 4: Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya Helene Bagge
 	    | Talk 5: Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar Nierstrasz
@@ -26,7 +26,7 @@ Time        | Content
 14:00-15:30 | Session 3
 	    | Talk 6: Meerkat Parsers: General Top-down Parser Combinator Library, by Anastasia Izmaylova, Ali Afroozeh and Tijs Van der Storm
 	    | Talk 7: A domain-specific debugger for the PetitParser parser framework, by Andrei Chis, Tudor Girba and Oscar Nierstrasz
-	    | Talk 8: Staging Parser Combinator for Efficient Data Processing, by Manohar Jonnalagedda 
+	    | Talk 8: Staging Parser Combinator for Efficient Data Processing, by Manohar Jonnalagedda [slides](parsing-slides/8-Staging Parser Combinators.pdf)
 15:30-16:00 | Coffee break
 16:00-17:30 | Session 4
 	    | Talk 9: LR Parsing Challenges in Java 8, by Erik Hogeman, Jesper Öqvist and Gorel Hedin
