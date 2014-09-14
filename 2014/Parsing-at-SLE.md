@@ -25,7 +25,7 @@ Time        | Content
 12:30-14:00 | Lunch
 14:00-15:30 | Session 3
 	    | Talk 6: Meerkat Parsers: General Top-down Parser Combinator Library, by Anastasia Izmaylova, Ali Afroozeh and Tijs Van der Storm
-	    | Talk 7: A domain-specific debugger for the PetitParser parser framework, by Andrei Chis, Tudor Girba and Oscar Nierstrasz
+	    | Talk 7: A domain-specific debugger for the PetitParser parser framework, by Andrei Chis, Tudor Girba and Oscar Nierstrasz [slides](parsing-slides/7-PetitParserDebugger.pdf)
 	    | Talk 8: Staging Parser Combinator for Efficient Data Processing, by Manohar Jonnalagedda [slides](parsing-slides/8-Staging Parser Combinators.pdf)
 15:30-16:00 | Coffee break
 16:00-17:30 | Session 4
