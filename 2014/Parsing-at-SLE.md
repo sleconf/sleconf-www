@@ -21,7 +21,7 @@ Time        | Content
 	    | Talk 2: Developing SDF3, by Luís Eduardo Amorim, Eelco Visser and Guido Wachsmuth [slides](parsing-slides/2-sdf3-slides.pdf)
 	    | Talk 3: Homomorphic Language Representations Provide Efficient Recognition and Parsing, by Anssi Yli-Jyrä
 	    | Talk 4: Modelling Parsing and Unparsing, by Vadim Zaytsev and Anya Helene Bagge [slides](parsing-slides/4-zaytsev-bagge.pdf)
-	    | Talk 5: Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar Nierstrasz
+	    | Talk 5: Parsing Contexts for PEGs, by Jan Kurs, Mircea Lungu and Oscar Nierstrasz [slides](parsing-slides/5-Parsing Contexts-expanded.pdf)
 12:30-14:00 | Lunch
 14:00-15:30 | Session 3
 	    | Talk 6: Meerkat Parsers: General Top-down Parser Combinator Library, by Anastasia Izmaylova, Ali Afroozeh and Tijs Van der Storm
