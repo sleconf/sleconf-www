@@ -75,5 +75,6 @@ This emphasized a mathematical view on what a parser is and what the set of pars
 
 It is indeed interesting when reading about parsing algorithms that the definition of what soundness and completeness for a parser actually is, let alone complexity analysis, is not at all consistent, neither over different (recent) papers, nor over time. I believe Adrian Johnstone and Elizabeth Scott have reminded us of this fact at the SLE conference as well in the past.
 
-Noteworthy is that Tom sticks with a definition of correctness which can only be satisfied by generalized parsing algorithms. 
+Noteworthy is that Tom sticks with a definition of correctness which can only be satisfied by generalized parsing algorithms.
 
+BTW, next to correctness proving, Tom presents how combinator parsing with "side-effects" (counting wiht memoization) can still be polynomial as opposed to exponential by memoizing the "side-effects" themselves. 
