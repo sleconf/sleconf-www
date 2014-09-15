@@ -127,7 +127,7 @@ Thomas gave a very nice overview of how features of roles have been evolving in 
 
 BTW, the unfortunate outcome that Thomas presented was that the literature was fragmented and inconsistent and therefore hard to learn from. Caveat lector :-)
 
-
+My question to Thomas, since he talked about the problematic state of the literature and the inconsistencies there, did he make sure Friedrich also agrees with his new ontology?
 
 
 
