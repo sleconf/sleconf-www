@@ -134,4 +134,3 @@ My question to Thomas, since he talked about the problematic state of the litera
 
 
 
-
