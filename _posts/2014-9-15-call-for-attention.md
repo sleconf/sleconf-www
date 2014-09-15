@@ -99,7 +99,9 @@ Yes, indeed: now Frans argues for textual again, which I am biased for, for some
 
 ### 15:23
 
-We are still listening to Robert Frans and his presentation was well prepared and easy to follow. Luckily! 
+We are still listening to Robert Frans and his presentation was well prepared and easy to follow. Luckily! His conclusion is that the graphical notation increases the usability of the feature moduling tool and the quality of output of the tasks of the studied subjects (people). The conclusions are preliminary because the study has some threats to validity in the size of the group of subjects and the size of their tasks in the experimental setup. Future work will show more.
+
+
 
 
 
