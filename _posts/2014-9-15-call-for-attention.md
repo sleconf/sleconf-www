@@ -52,6 +52,20 @@ For example, "heritage, containment and classification", which Colin claims to h
 
 "Omission perspecuity" (making clear the difference between something that is missing, placeholders, and actually non-existent). Is this where (programming) languages use formal parameters or templates with holes? So that confirms what Colin is saying: language engineering should start supporting viewpoint engineering. Perhaps this interpretation is to low brow: views should have formal parameters? Opinions appreciated.
 
+### 10:00am
+
+Question from the audience: ok there is this platonic integrated core model of the software "the sum", but what about the constraints between the different orthographic projections? 
+
+_Answer (interpreted by y.t.): well, the constraints should be part of the projections somewhere. the sum is complete and redundancy free.
+
+Question: what about lossy abstractions in the views? like metrics for example?
+
+_Answer (interpreted by y.t.)_: well, the trick is that we have to make the sum stored somewhere to be able to solve partiality caused by abstraction.
+
+Question: language technology can have an important role in defining the "sum". Its good to have large part of the sum as "text" and not hidden as a semantic object which is hard to standardize.
+
+_Answer_: yes, for example togetherj did this. But we have to led go that code and textual form is superior. That's a historical accident. "You can model Java code".
+
 
 
 ---
