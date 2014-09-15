@@ -131,9 +131,13 @@ My question to Thomas, since he talked about the problematic state of the litera
 
 ### 17:00
 
+_warning:  biased report :-)_
+
 Mark Hills is talking about his experience building a control flow graph constructor generator (for any given language). He's jumping right into it, since everybody knows what a CFG is here (control flow graph, not context-free grammar).
 
 Its about Rascal code that might be reusable between different languages because its the same all the time for control flow extraction. Reminiscent of Stratego strategies: control flow extraction can be factored as a higher-order strategy with parameters for detecting the relevant AST nodes and then extract the edges of the graph. Here we go the other route, where a DSL specific for control flow graph extraction is designed and would generate Rascal or any other language to do the task.
+
+
 
 
 
