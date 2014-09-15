@@ -68,6 +68,4 @@ _Answer_: yes, for example togetherj did this. But we have to led go that code a
 
 (Note: I couldn't disagree more. Programming language concepts are not in the surface syntax, they are just as the concepts he is talking about, fundamental to the way we think and explain things to computers and each-other)
 
-
-
 ---
