@@ -44,6 +44,9 @@ Colin opens the discussion and puts up a few interesting visions to agree or dis
    
 _Its interesting that Colin does not see code as a projective view. Is a view just  code (like SLE looks at it), or is code just a view?_
 
+### 9:45
+
+Colin Atkinson's talk is full of nuggets of insight. Have a look at the slides later if you have missed this. Also check the @sleconf twitter stream.
 
 
 
