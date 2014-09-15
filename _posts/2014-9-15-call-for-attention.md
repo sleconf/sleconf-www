@@ -80,3 +80,11 @@ Noteworthy is that Tom sticks with a definition of correctness which can only be
 BTW, next to correctness proving, Tom presents how combinator parsing with "side-effects" (counting wiht memoization) can still be polynomial as opposed to exponential by memoizing the "side-effects" themselves. 
 
 One more impression, if you look at parser combinators all the "squiglies" for different kinds of prefix and infix and postfix operators are hard to avoid. So here's a slogan: "Parser combinators are to EBNF what Perl is to Haskell" :-) Don't throw tomatoes.
+
+### 12:00
+
+Now Jan Kurs talks about Island Grammars. Fixing the problems of Island Grammars. And there are many problems with island grammars as we all know. Eelco just whispered in my ear that even ANTLR now has support for Island Grammars.
+
+Greediness is the enemy of island parsing. Jan has a sinking ship or island on his slides. To fix these problems follow restrictions ("predicates") are used to prevent water to overrun the text that we are interested in. This is problematics: now we have the worst of regular expressions combined with the worst of context-free grammars. We don't know which language we accept anymore: it's magic.
+
+Jan's solution is a notation which resembles skeleton grammars a bit and its conceptually clear. The implementation is by using automatic follow restrictions on the boundaries of water.
