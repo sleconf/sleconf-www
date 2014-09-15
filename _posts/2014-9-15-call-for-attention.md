@@ -106,6 +106,10 @@ We are still listening to Robert Frans and his presentation was well prepared an
 Daco Harkes is not presenting his research on object relational modeling and unifying the OO and the ER models. 
 
 
+### 16:00
 
+Daco Harkes is not presenting his research on object relational modeling and unifying the OO and the ER models. He proposes a language design which solves many different kinds of issues with the difference between relations and objects. The integrated model offers bi-direction navigation between objects via first class relations and the type system handles multiplicities.
+
+I am wondering what is the solution for the temporal dimension of relations. Maybe that is still coming.
 
 
