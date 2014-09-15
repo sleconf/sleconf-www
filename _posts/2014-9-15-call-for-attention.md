@@ -70,7 +70,7 @@ _Answer_: yes, for example togetherj did this. But we have to led go that code a
 
 ### 11:35
 
-I popped in at the end of Tony Sloanes talk on integrating term rewriting and attribute grammars as embedded in Scala, and Tom Ridge went after explaining what a correct parser actually is and how one would mechanically prove this.
+I popped in at the end of Tony Sloane's talk on integrating term rewriting and attribute grammars as embedded in Scala, and Tom Ridge went after explaining what a correct parser actually is and how one would mechanically prove this.
 This emphasized a mathematical view on what a parser is and what the set of parse trees is that a parser should produce. 
 
 It is indeed interesting when reading about parsing algorithms that the definition of what soundness and completeness for a parser actually is, let alone complexity analysis, is not at all consistent, neither over different (recent) papers, nor over time. I believe Adrian Johnstone and Elizabeth Scott have reminded us of this fact at the SLE conference as well in the past.
