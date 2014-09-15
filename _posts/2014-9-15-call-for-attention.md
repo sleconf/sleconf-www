@@ -143,6 +143,10 @@ _Question_: So we can make any kind of graph from a tree somehow with this. Coul
 
 _Question_: can this be done generically with a library (Ralf Laemmel) asking. Answer, yes, that is also possible also under the hood of the generated code.
 
+### 18:00 
+
+So the official program has ended (except for the reception with the prizes!) At this point everybody is either quickly catching up with work, or family, or (and this is a great sign) people are huddled together in discussion groups shop talking, exchanging citations and ideas on the future of SLE. Great!
+
 
 
 
