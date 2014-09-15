@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "2014-15-9-SLE-call-for-attention"
-author: Jurgen Vinju
+author: "Jurgen Vinju"
 authorlink: "http://homepages.cwi.nl~/jurgenv"
 ---
 
