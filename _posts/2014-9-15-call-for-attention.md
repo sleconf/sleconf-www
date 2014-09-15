@@ -28,6 +28,8 @@ I hope you will enjoy the 7th instance of SLE. Please feel free to provide any c
 
 ### SLE 2014 starts at 8:30 in the room called "Hörsalen".
 
+--- 
+
 ### 9:00am
 
 Colin Atkinson bridges viewpoint engineering to language engineering in his invited talk. It's about time! It emphasizes that the language view on software engineering also includes the field of software architecture.
