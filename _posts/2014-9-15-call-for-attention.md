@@ -85,6 +85,6 @@ One more impression, if you look at parser combinators all the "squiglies" for d
 
 Now Jan Kurs talks about Island Grammars. Fixing the problems of Island Grammars. And there are many problems with island grammars as we all know. Eelco just whispered in my ear that even ANTLR now has support for Island Grammars.
 
-Greediness is the enemy of island parsing. Jan has a sinking ship or island on his slides. To fix these problems follow restrictions ("predicates") are used to prevent water to overrun the text that we are interested in. This is problematics: now we have the worst of regular expressions combined with the worst of context-free grammars. We don't know which language we accept anymore: it's magic.
+Greediness is the enemy of island parsing. Jan has a sinking ship or island on his slides. To fix these problems follow restrictions ("predicates") are used to prevent water to overrun the text that we are interested in. This is problematic: now we have the worst of regular expressions combined with the worst of context-free grammars. We don't know which language we accept anymore: it's magic.
 
 Jan's solution is a notation which resembles skeleton grammars a bit and its conceptually clear. The implementation is by using automatic follow restrictions on the boundaries of water.
