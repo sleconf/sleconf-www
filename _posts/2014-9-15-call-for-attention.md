@@ -64,7 +64,9 @@ _Answer (interpreted by y.t.)_: well, the trick is that we have to make the sum 
 
 Question: language technology can have an important role in defining the "sum". Its good to have large part of the sum as "text" and not hidden as a semantic object which is hard to standardize.
 
-_Answer_: yes, for example togetherj did this. But we have to led go that code and textual form is superior. That's a historical accident. "You can model Java code".
+_Answer_: yes, for example togetherj did this. But we have to led go that code and textual form is superior. That's a historical accident. "You can model Java code". There is a more fundamental set of concepts than what is in programming languages. 
+
+(Note: I couldn't disagree more)
 
 
 
