@@ -137,6 +137,9 @@ Mark Hills is talking about his experience building a control flow graph constru
 
 Its about Rascal code that might be reusable between different languages because its the same all the time for control flow extraction. Reminiscent of Stratego strategies: control flow extraction can be factored as a higher-order strategy with parameters for detecting the relevant AST nodes and then extract the edges of the graph. Here we go the other route, we go generated instead of generic: where a DSL specific for control flow graph extraction is designed and would generate Rascal or any other language to do the task.
 
+The DSL Mark propose is rule-based, identifying language constructors on the left-hand side and generating graph edges on the righ-hand side. Pure and simply elegant stuff.
+
+
 
 
 
