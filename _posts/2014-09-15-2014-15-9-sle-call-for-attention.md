@@ -1,0 +1,23 @@
+---
+layout: post
+published: false
+title: "2014-15-9-SLE-call-for-attention"
+---
+
+Welcome to the 7th International Conference on Software Language Engineering.
+
+---
+
+This is a semi-live blog from the audience. We are in parallel sessions with GPCE and it is clear that we've been working together as a team uptil now, but from here on we are in competition for the attention of the audience :-)
+
+What is SLE to us, the community? It is a conference where artificial boundaries between sub-fields in software engineering have been lifted. It is a community in which we freely switch between _technological spaces_ -even studying them from a distance-, not bound by any social/cultural limitations. This generates the cross-overs and AHA!'s that bring us a deeper understanding of what software is and how we may predict and control its quality.
+
+We study language engineering without exceptions: 
+
+   * It is the computer science perspective on _model driven engineering_ 
+   * It is the generalization of compiler construction to _meta programming_
+   * It is the programming languages perspective on _information engineering_
+
+---
+
+Jurgen Vinju
