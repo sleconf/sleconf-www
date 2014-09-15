@@ -108,8 +108,15 @@ Daco Harkes is not presenting his research on object relational modeling and uni
 
 ### 16:00
 
-Daco Harkes is not presenting his research on object relational modeling and unifying the OO and the ER models. He proposes a language design which solves many different kinds of issues with the difference between relations and objects. The integrated model offers bi-direction navigation between objects via first class relations and the type system handles multiplicities.
+Daco Harkes is not presenting his research on object relational modeling and unifying the OO and the ER models. He proposes a language design which solves many different kinds of issues with the difference between relations and objects. The integrated model offers bi-direction navigation between objects via first class relations and the type system handles multiplicities. Good 
 
-I am wondering what is the solution for the temporal dimension of relations. Maybe that is still coming.
+I am wondering what is the solution for the temporal dimension of relations. Maybe that is still coming. No, that was out of scope because its not a requirement of most web-based systems.
 
+### 16:31 
 
+Thomas Kuhne cites Shakespeare "all the world's a stage ...". Nice opening :-)
+Then he says: my research had a for me infortunate outcome, the suspense is rising...
+
+The idea is separation of concerns via role based modeling, such that software becomes more maintainable, and adaptable. I.e. you can assign new roles or remove roles from existing objects, even at run-time. This sounds very plausible and its the basic premise of the role based programming.
+
+The thoughts that pop up: why did we ever bind data to computation in the first place. Here we are trying to separate it all again. OO <sigh>. 
