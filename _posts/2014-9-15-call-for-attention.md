@@ -125,6 +125,11 @@ The thoughts that pop up: why did we ever bind data to computations in the first
 
 Thomas gave a very nice overview of how features of roles have been evolving in programming and modeling languages in the last 10 years. He harshly judges language designs which do not improve but rather go back on elements of design that he considers good. It's good to have this overview, but the factors of language design are not all present in this discussion. Perhaps the authors made great trade-off discussions in their context and just had to not satisfy Thomas' requirements.
 
+BTW, the unfortunate outcome that Thomas presented was that the literature was fragmented and inconsistent and therefore hard to learn from. Caveat lector :-)
+
+
+
+
 
 
 
