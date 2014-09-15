@@ -34,7 +34,14 @@ I hope you will enjoy the 7th instance of SLE. Please feel free to provide any c
 
 Colin Atkinson bridges viewpoint engineering to language engineering in his invited talk. It's about time! It emphasizes that the language view on software engineering also includes the field of software architecture.
 
+### 9:30am
 
+Colin opens the discussion and puts up a few interesting visions to agree or disagree with:
+
+   * language engineering will be viewpoint engineering in the future
+   * software engineering will be governed by viewpoint engineering in the future
+   * Summarized by "orthographic software mdodeling (OSM)"; orthogonal, compositional views on the same software.
+   
 
 
 
