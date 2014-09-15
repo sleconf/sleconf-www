@@ -88,3 +88,15 @@ Now Jan Kurs talks about Island Grammars. Fixing the problems of Island Grammars
 Greediness is the enemy of island parsing. Jan has a sinking ship or island on his slides. To fix these problems follow restrictions ("predicates") are used to prevent water to overrun the text that we are interested in. This is problematic: now we have the worst of regular expressions combined with the worst of context-free grammars. We don't know which language we accept anymore: it's magic.
 
 Jan's solution is a notation which resembles skeleton grammars a bit and its conceptually clear. The implementation is by using automatic follow restrictions on the boundaries of water.
+
+### 15:00
+
+Sorry for the gap. Emergencies happen :-) Markus Voelter presented his work on evaluating the improvements in MPS for usability. This was quite interesting and I was wondering how often we evaluate UX from the programmers' perspective. The methods used by Markus do not translate easily to textual languages and their IDE's (as he explained) , but I believe the gap is not this wide. 
+
+Now we are listening to a previously recorded talk because the authors could not come (beyond their control). Robert Frans is explaining and also online on Skype. The talk is about #UX of humonguous feature models. Scaling modeling is an interesting topic and ways heavily on the discussion between text and graphical representations. 
+
+Yes, indeed: now Frans argues for textual again, which I am biased for, for some reason. This discussion which is often led by Markus Voelter is sometimes fuzzy. Since we are actually talking about the concept of User Experience and we have not been trained in modeling or understanding this concept, the discussion about the usability difference between programming languages and their IDEs as compared to projectional editing and as compared to graphical is not very satisfactory. One thing which is missing in my view is experimental reports on the _baseline experiences_ of programming in textual editors, semantics-directed editors, structural-editors, etc. Then we would have something to compare to.
+
+
+
+
