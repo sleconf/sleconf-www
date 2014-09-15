@@ -40,7 +40,7 @@ Colin opens the discussion and puts up a few interesting visions to agree or dis
 
    * language engineering will be viewpoint engineering in the future
    * software engineering will be governed by viewpoint engineering in the future
-   * Summarized by "orthographic software mdodeling (OSM)"; orthogonal, compositional views on the same software.
+   * Summarized by "orthographic software modeling (OSM)"; orthogonal, compositional projections on the same software. An integral idea of which is completeness.
    
 
 
