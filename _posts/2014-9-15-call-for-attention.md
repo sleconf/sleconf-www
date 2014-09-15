@@ -42,7 +42,9 @@ Colin opens the discussion and puts up a few interesting visions to agree or dis
    * software engineering will be governed by viewpoint engineering in the future
    * Summarized by "orthographic software modeling (OSM)"; orthogonal, compositional projections on the same software. An integral idea of which is completeness.
    
-Its interesting that Colin does not see code as a projective view. Is a view just  code (like SLE looks at it), or is code just a view? 
+_Its interesting that Colin does not see code as a projective view. Is a view just  code (like SLE looks at it), or is code just a view?_
+
+
 
 
 
