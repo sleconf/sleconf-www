@@ -48,8 +48,7 @@ _Its interesting that Colin does not see code as a projective view. Is a view ju
 
 Colin Atkinson's talk is full of nuggets of insight. Have a look at the slides later if you have missed this. Also check the @sleconf twitter stream.
 
-
-
+For example, "heritage, containment and classification", which Colin claims to have to be made explicit (perspecuity) for any model element, remind me of principle design elements of not only modeling languages but also programming languages and their IDEs. Where is code derived from (import, inheritence), where does it reside (files, namespaces), what kind of code is it (methods, classes, data, control)?
 
 
 
