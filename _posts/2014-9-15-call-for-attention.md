@@ -78,3 +78,5 @@ It is indeed interesting when reading about parsing algorithms that the definiti
 Noteworthy is that Tom sticks with a definition of correctness which can only be satisfied by generalized parsing algorithms.
 
 BTW, next to correctness proving, Tom presents how combinator parsing with "side-effects" (counting wiht memoization) can still be polynomial as opposed to exponential by memoizing the "side-effects" themselves. 
+
+One more impression, if you look at parser combinators all the "squiglies" for different kinds of prefix and infix and postfix operators are hard to avoid. So here's a slogan: "Parser combinators are to EBNF what Perl is to Haskell" :-) Don't throw tomatoes.
