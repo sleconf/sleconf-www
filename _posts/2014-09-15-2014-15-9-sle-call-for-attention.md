@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: "2014-15-9-SLE-call-for-attention"
+author: Jurgen Vinju
+authorlink: "http://homepages.cwi.nl~/jurgenv"
 ---
 
 Welcome to the 7th International Conference on Software Language Engineering.
@@ -14,10 +16,8 @@ What is SLE to us, the community? It is a conference where artificial boundaries
 
 We study language engineering without exceptions: 
 
-   * It is the computer science perspective on _model driven engineering_ 
-   * It is the generalization of compiler construction to _meta programming_
-   * It is the programming languages perspective on _information engineering_
+   * SLE provides the computer science perspective on _model driven engineering_ 
+   * SLE is the generalization of compiler construction conferences to _meta programming_ in-the-large.
+   * SLE introduces a programming languages perspective on _information engineering_
 
----
 
-Jurgen Vinju
