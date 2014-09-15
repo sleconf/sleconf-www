@@ -66,7 +66,7 @@ Question: language technology can have an important role in defining the "sum". 
 
 _Answer_: yes, for example togetherj did this. But we have to led go that code and textual form is superior. That's a historical accident. "You can model Java code". There is a more fundamental set of concepts than what is in programming languages. 
 
-(Note: I couldn't disagree more)
+(Note: I couldn't disagree more. Programming language concepts are not in the surface syntax, they are just as the concepts he is talking about, fundamental to the way we think and explain things.
 
 
 
