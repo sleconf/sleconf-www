@@ -50,7 +50,7 @@ Colin Atkinson's talk is full of nuggets of insight. Have a look at the slides l
 
 For example, "heritage, containment and classification", which Colin claims to have to be made explicit (perspecuity) for any model element, remind me of principle design elements of not only modeling languages but also programming languages and their IDEs. Where is code derived from (import, inheritence), where does it reside (files, namespaces), what kind of code is it (methods, classes, data, control)?
 
-"Omision perspecuity" is where (programming) languages use formal parameters or templates with holes. Right? So that confirms what Colin is saying: language engineering should start supporting viewpoint engineering.
+"Omission perspecuity" (making clear the difference between something that is missing, placeholders, and actually non-existent). Is this where (programming) languages use formal parameters or templates with holes? So that confirms what Colin is saying: language engineering should start supporting viewpoint engineering. Perhaps this interpretation is to low brow: views should have formal parameters? Opinions appreciated.
 
 
 
