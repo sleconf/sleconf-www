@@ -129,6 +129,13 @@ BTW, the unfortunate outcome that Thomas presented was that the literature was f
 
 My question to Thomas, since he talked about the problematic state of the literature and the inconsistencies there, did he make sure Friedrich also agrees with his new ontology?
 
+### 17:00
+
+Mark Hills is talking about his experience building a control flow graph constructor generator (for any given language). He's jumping right into it, since everybody knows what a CFG is here (control flow graph, not context-free grammar).
+
+
+
+
 
 
 
