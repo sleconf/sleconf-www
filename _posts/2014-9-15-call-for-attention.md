@@ -26,4 +26,6 @@ We study language engineering without exceptions, for example:
    
 I hope you will enjoy the 7th instance of SLE. Please feel free to provide any constructive feedback that we may use to make it even better.
 
+### SLE 2014 starts at 8:30 in the room called "Hörsalen".
+
 ---
