@@ -139,7 +139,8 @@ Its about Rascal code that might be reusable between different languages because
 
 The DSL Mark propose is rule-based, identifying language constructors on the left-hand side and generating graph edges on the righ-hand side. Pure and simply elegant stuff.
 
-_Question_: So we can make any kind of graph from a tree somehow with this. Could we let's say, abstract from the concept of control flow and move to generic graphs? Like DeFacto?
+_Question_: So we can make any kind of graph from a tree somehow with this. Could we let's say, abstract from the concept of control flow and move to generic graphs? Like DeFacto? 
+
 
 
 
