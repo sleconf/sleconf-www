@@ -157,4 +157,4 @@ The best student paper was awarded to "The Moldable Debugger: a Framework for De
 
 ### 24:00
 
-We had a very nice dinner and then some drinks in the hotel. I learned about whay is happening in Saarbrücken concernig GPU and FPGA generated code from functional programs for example, while exchanging at the same time epistemic puzzles.
+We had a very nice dinner and then some drinks in the hotel. I learned about what is happening in Saarbrücken concernig GPU and FPGA generated code from functional programs for example, while exchanging at the same time epistemic puzzles.
