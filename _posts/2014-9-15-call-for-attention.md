@@ -119,6 +119,6 @@ Then he says: my research had a for me infortunate outcome, the suspense is risi
 
 The idea is separation of concerns via role based modeling, such that software becomes more maintainable, and adaptable. I.e. you can assign new roles or remove roles from existing objects, even at run-time. This sounds very plausible and its the basic promise of the role based programming we also see in Balzer's work.
 
-The thoughts that pop up: why did we ever bind data to computation in the first place? Here we are trying to separate it all again. OO <sigh>. 
+The thoughts that pop up: why did we ever bind data to computations in the first place? Here we are trying to separate it all again. OO <sigh>. 
 
 
