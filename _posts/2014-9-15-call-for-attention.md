@@ -95,7 +95,9 @@ Sorry for the gap. Emergencies happen :-) Markus Voelter presented his work on e
 
 Now we are listening to a previously recorded talk because the authors could not come (beyond their control). Robert Frans is explaining and also online on Skype. The talk is about #UX of humonguous feature models. Scaling modeling is an interesting topic and ways heavily on the discussion between text and graphical representations. 
 
-Yes, indeed: now Frans argues for textual again, which I am biased for, for some reason. This discussion which is often led by Markus Voelter is sometimes fuzzy. Since we are actually talking about the concept of User Experience and we have not been trained in modeling or understanding this concept, the discussion about the usability difference between programming languages and their IDEs as compared to projectional editing and as compared to graphical is not very satisfactory. One thing which is missing in my view is experimental reports on the _baseline experiences_ of programming in textual editors, semantics-directed editors, structural-editors, etc. Then we would have something to compare to. One thing is sure: MPS is a very cool and smooth tool which makes projectional editing a very attractive alternative. 
+Yes, indeed: now Frans argues for textual again, which I am biased for, for some reason. This discussion which is often led by Markus Voelter is sometimes fuzzy. Since we are actually talking about the concept of User Experience and we have not been trained in modeling or understanding this concept, the discussion about the usability difference between programming languages and their IDEs as compared to projectional editing and as compared to graphical is not very satisfactory. One thing which is missing in my view is experimental reports on the _baseline experiences_ of programming in textual editors, semantics-directed editors, structural-editors, etc. Then we would have something to compare to. 
+
+Anyway, one thing is sure: MPS is a very cool and smooth tool which makes projectional editing a very attractive alternative. 
 
 ### 15:23
 
@@ -120,5 +122,9 @@ Then he says: my research had a for me infortunate outcome, the suspense is risi
 The idea is separation of concerns via role based modeling, such that software becomes more maintainable, and adaptable. I.e. you can assign new roles or remove roles from existing objects, even at run-time. This sounds very plausible and its the basic promise of the role based programming we also see in Balzer's work.
 
 The thoughts that pop up: why did we ever bind data to computations in the first place? Here we are trying to separate it all again. OO <sigh>. 
+
+Thomas now harshly judges language designs which do not improve but rather go back on elements of design that he considers good. It's good to have this overview, but the factors of language design are not all present in this discussion. Perhaps the authors made great trade-off discussions in their context and just had to not satisfy Thomas' requirements.
+
+
 
 
