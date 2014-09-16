@@ -333,8 +333,16 @@ This is all about grammar-based testing. The result of a class Ralf taught about
 Essential elements:
    * incrementally constraining the test data generator to generate more interesting sequences
    * post-processing to implement semantic constraints on the resulting 
+   * extended by a grammar customization step where we rewrite the grammar to generate fewer sentences. Elegant and reminiscent of the grammar transformation operators of Vadim Zaytsev, Ralf and Jan Kort.
    
 Ralf is lecturing sentence generation actually. Explaining it to us clearly. If you know the kind of elegant yet incomprehensible and also incompressible Prolog code that Ralf has written to generate sentences from grammars with specfic coverage criteria, you have to appreciate how he manages to tell the story today clearly.
+
+And Ralf now shows a screencast of how to use the tool and generate input. 
+
+### 17:00
+
+The final talk, _sniff_, of SLE 2014 is _"AIOCJ: A Choreographic Framework for Safe Adaptive Distributed Applications, M. D. Preda, M. Gabbrielli, S. Giallorenzo, I. Lanese, J. Maurio"_
+
 
 
    
