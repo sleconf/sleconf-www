@@ -215,6 +215,10 @@ Wait: the conclusion of this research is interesting: the Java VM is a better op
 
 Now "Dynamic Scope Discovery for Model Transformation". It's about a performance model for graph-based model transformation. It makes a heat map of the nodes which are being matched. This can be used to strategically search for matches with a higher chance of success using machine learning.
 
+### 11:24
+
+Next up: "ProMoBox: framework for generating domain-soecific property languages"
+
 
 
 
