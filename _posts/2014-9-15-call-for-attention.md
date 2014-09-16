@@ -179,4 +179,6 @@ Since TouchDevelop collects statistics about language usage and also about usage
 D. E. Knuth. An Empirical Study of FORTRAN Programs. Software: Practice and Experience, 1(2):105–133, 1971.
 ```
 
+Another part of the story of programming language experience is library design. Here TouchDevelop goes the WebDSL route, where the most important libraries for application development are integrated linguistically: data binding, UI elements, events.
+
 
