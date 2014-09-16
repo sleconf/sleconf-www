@@ -8,7 +8,7 @@ authorlink: "http://homepages.cwi.nl~/jurgenv"
 
 Welcome to the 7th International Conference on Software Language Engineering.
 
-* all tweets about SLE are here: https://twitter.com/search?q=%40sleconf&src=typd
+* all tweets about SLE are here: https://twitter.com/search?q=%40sleconf&src=typd, since they are all mentioning `@sleconf`
 * we did not use the #sle2014 hash tag because some marathon people stole it on the first day :-)
 
 ---
