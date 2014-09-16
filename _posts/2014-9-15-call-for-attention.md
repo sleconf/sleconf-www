@@ -289,6 +289,13 @@ Starting point: sequence diagrams show scenarios of state machines running (badl
 
 Goal: check whether a sequence diagram is consistent with a set of state machines? So this is a lighweight version of a model checking problem. But the problem is how to map state machines to the input languages to model checkers, so we mapped it directly to SAT. 
 
+Héj, this is the first greek letters I am seeing at SLE this year :-) We are getting a short brain-refresh on propositional logic and satisfiability.
+
+The encoding of sequence diagrams and state machines to propositional formulas works quite nicely. It shows how skipping a generic intermediate formalism in the middle can sometimes make things a lot easier. Normally we think that by standing on a plateau of some reusable language or framework gives benefit, but here we have evidence to the contrary. The generic model checking API/languages have an impedance mismatch with the kinds of sequence diagrams and state machines that Magdalena wants to model. It is easier to think of a mapping to logical variables and conjunctions then it is to find the mapping to the intermediate language.
+
+Propositional logic is a great language.
+
+   
 
 
 
