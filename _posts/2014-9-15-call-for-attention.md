@@ -310,6 +310,10 @@ Sebastian Gabmeyer presents: _Model Checking of CTL-Extended OCL Specifications,
 
 This looks good. I have some trouble positioning the work to general CTL-based model checking literature. One thing I believe is essential: the inclusion of CTL in the OCL language such that it is readily available in the OCL and Eclipse context. 
 
+I found the explanation at the end a bit too detailed, because we lost the story line a bit there. What we have here is cOCL (OCL + CTL) and a model checker  (MocOCL) for this new language. A solid contribution, also from the engineering perspective.
+
+You can try it at http://modelevolution.org/mococl 
+
 
 
 
