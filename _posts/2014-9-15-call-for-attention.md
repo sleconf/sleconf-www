@@ -254,9 +254,11 @@ Panel Discussion!
 
 * Tony: not every student is the same and also in time requirements for students  evolve. How do you generalize from a language if you haven't seen one from the inside? Ulrik says you can do simpler languages (domain specific). Eric says you should start with Scheme or Smalltalk.
 
-* Ralf: what material do you use to teach language design? Martin Erweg's paper (? which one), and "Cognitive Dimensions".
+* Ralf: what material do you use to teach language design? Martin Erweg's paper (? which one), and "Cognitive Dimensions". Fowler's DSL book (language implementation patterns) and Terence Parr's book.
 
 * Massimo: this is bigger than SLE!
+
+* Jaakko: there is a distinction between how language work and how to design languages.
 
 
    
