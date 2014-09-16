@@ -270,9 +270,9 @@ Panel Discussion!
 
 _The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers, A. Chis, T. Girba and O. Nierstrasz_
 
-I dropped into the _best student paper_ talk by Andrei Chis. Andrei explains the actions a programmer takes when doing deduction and abduction steps while browsing the code in an advanced IDE. Like a good debugger he makes the decision steps, choices and the stack of reasoning explicit while clicking in the IDE and reading the information the debugger provides. Conclusion: debugging is repetitive for framework code (let's say an even handler).
+I dropped into the _best student paper_ talk by Andrei Chis. Andrei demonstrates the actions a programmer takes when doing deduction and abduction steps while browsing the code in an advanced IDE. Like a good debugger he makes the decision steps, choices and the stack of reasoning explicit while clicking in the IDE and reading the information the debugger provides. Conclusion: debugging is repetitive and confusion for framework code (let's say an even handler).
 
-The solution is to have a debugging perspective which is specialized for the framework. In this case an even debugger. The contribution of the paper lies in the rapid prototyping/engineering of such debuggers. It can be applied to any domain, even very complex ones such as parsing frameworks.
+The solution is to have a debugging perspective which is specialized for the framework. In this case an event framework. The contribution of the paper lies in the rapid prototyping/engineering of such debuggers. It can be applied to any domain, even very complex ones such as parsing frameworks.
 
 The contribution of this paper lies at the core of SLE:
    * It helps software engineers solve complex daily problems
@@ -286,6 +286,8 @@ We want more!
 Now Magdalena Widl on the _best paper of SLE_: _A SAT-based Debugging Tool for State Machines and Sequence Diagrams, P. Kaufmann, M. Kronegger, A. Pfandler, M. Seidl, M. Widl_
 
 Starting point: sequence diagrams show scenarios of state machines running (badly or not)
+
+
 
 
 
