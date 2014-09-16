@@ -14,6 +14,8 @@ Welcome to the 7th International Conference on Software Language Engineering.
 
 ---
 
+## Day one
+
 ### 7:30am
 
 This is a semi-live blog from the audience of SLE. We are in parallel sessions with GPCE and it is clear that we've been working together as a team uptil now, but from here on we are in competition for the attention of the audience :-)
