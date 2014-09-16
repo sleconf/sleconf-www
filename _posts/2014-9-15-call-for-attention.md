@@ -322,9 +322,11 @@ First up: Tony Sloane on _"Monto: A Disintegrated Development Environment"_
 
 First impression: it's like a modernized ToolBus of the Meta-Environment with JSON instead of ATerms and Python instead of T-script. Tony nicely mentioned ToolBus in his presentation btw. 
 
-What we have is a truly simplified interaction model which allows one to quickly prototype an IDE-like experience. Quite cool, and all together in 146+32+17+34+10+9+62+35+43 = 388 lines of code.
+What we have is a truly simplified interaction model which allows one to quickly prototype an IDE-like experience. Quite cool, and all together in 146+32+17+34+10+9+62+35+43+57+4+5+309 = 763 lines of code.
 
+### 16:28 
 
+Next up
 
 
 
