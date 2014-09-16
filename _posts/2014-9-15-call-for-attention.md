@@ -10,6 +10,7 @@ Welcome to the 7th International Conference on Software Language Engineering.
 
 * all tweets about SLE are here: https://twitter.com/search?q=%40sleconf&src=typd, since they are all mentioning `@sleconf`
 * we did not use the #sle2014 hash tag because some marathon people stole it on the first day :-)
+* please find pictures of the two SLE days [here](https://www.dropbox.com/sh/denmlgj3b2ksr3f/AABXFADQgiG25_5c62uNfV23a?dl=0)
 * the SLE report, day 2, continues <a href="#daytwo">here</a>.
 
 ---
@@ -204,9 +205,15 @@ We continue with SLE and immediately dive into technological spaces: interoperab
 
 "A modeling virtual machine (MVM) abstracts from programming language and modeling framework"
 
-fUML serves as the VM. The case study is to port ATL to fUML and see if this satisfies the requirements of having a VM and inter-operability etc. Interesting!
+fUML serves as the MVM. The case study is to port ATL to fUML and see if this satisfies the requirements of having a VM and inter-operability etc. Interesting!
 
-I am waiting to see if we take a modeling language which is not OO but rather algebraic/functional. And while listening I am wondering how we test the compilers.
+I am waiting to see if we take a modeling language which is not OO but rather algebraic/functional. And while listening I am wondering how we test the compilers or even verify them. Let's see.
+
+Wait: the conclusion of this research is interesting: the Java VM is a better option now for modeling interoperability. 
+
+### 11:01
+
+Now "Dynamic Scope Discovery for Model Transformation". It's about a performance model for graph-based model transformation. It makes a heat map of the nodes which are being matched. This can be used to strategically search for matches with a higher chance of success using machine learning.
 
 
 
