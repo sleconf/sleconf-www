@@ -185,5 +185,7 @@ On a personal note; I have developed a lot of applications with Ms. Access. It h
 
 Otherwise now we are going into sales pitch mode. The thing is nice and has lots of features. What do we learn from all this? Well, the internet has definitely come to programming and its not going away anymore. The internet connectivity is now _necessary_ to able to effectively work with your IDE. 
 
+Cool: now we can chat with him online right now using his own app he just online developed during his keynote. So we're all sold on this :-)
+
 
 
