@@ -293,6 +293,8 @@ Goal: check whether a sequence diagram is consistent with a set of state machine
 
 
 
+
+
    
 
 
