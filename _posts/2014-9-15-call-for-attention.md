@@ -260,6 +260,14 @@ Panel Discussion!
 
 * Jaakko: there is a distinction between how language work and how to design languages.
 
+* Thomas Kuhn: where do you cross the border between language design and using tools to build languages. Will the tools be there when the students have graduated? No!
+   * Tony teaches attribute grammars and stuff from a conceptual level and provides the tools to practise with them.
+   * Eric says the same. Don't teach Java, teach them OO and then use Java in the lab.
+   * Ralf says the same: we use labs to exercise different kinds of technologies in the same classroom.
+   
+   
+   
+
 
    
 
