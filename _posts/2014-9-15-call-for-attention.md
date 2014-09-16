@@ -158,7 +158,7 @@ The best student paper was awarded to "The Moldable Debugger: a Framework for De
 
 We had a very nice dinner and then some drinks in the hotel. I learned about what is happening in Saarbrücken concerning GPU and FPGA generated code from functional programs for example and we exchanged epistemic puzzles.
 
-## <a target="daytwo">Day Two</a>
+## <a target="#daytwo">Day Two</a>
 
 Good morning!
 
