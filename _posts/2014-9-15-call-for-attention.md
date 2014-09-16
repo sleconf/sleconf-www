@@ -187,5 +187,7 @@ Otherwise now we are going into sales pitch mode. The thing is nice and has lots
 
 Cool: now we can chat with him [online right now](http://tdev.ly/svoea) using his own app he just online developed during his keynote. So we're all sold on this :-)
 
+We now move to the education _viewpoint_. The tutoring environment is totally interactive and scripts the learning experience. It makes you go through the moves of creating an app and you get cudo's. Of course we want this for all of our tools and I wonder if we can have generic or generated tutoring functionality.
+
 
 
