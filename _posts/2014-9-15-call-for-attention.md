@@ -148,7 +148,7 @@ The best reviewer of SLE 2014 was Emilie Balland from INRIA Bordeaux. Unfortunat
 
 The best  paper was won by "A SAT-based Debugging Tool for State Machines and Sequence Diagrams", P. Kaufmann, M. Kronegger, A. Pfandler, M. Seidl, M. Widl. The prize was 500 euro worth and just-in-time Magdalena Widl arrived to accept it.
 
-The best student paper was awarded to "The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers", A. Chis, T. Girba and O. Nierstrasz. The prize was 500 euro again and we wish Andrei a bright future, expecting to see many more exciting results from him in the SLE conference.
+The best student paper was awarded to "The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers", Andrei Chis, Tudor Girba and Oscar Nierstrasz. The prize was 500 euro again and we wish Andrei a bright future, expecting to see many more exciting results from him in the SLE conference.
 
 ### 24:00
 
