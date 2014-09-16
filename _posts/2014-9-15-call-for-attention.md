@@ -326,7 +326,9 @@ What we have is a truly simplified interaction model which allows one to quickly
 
 ### 16:28 
 
-Next up
+Next up is Ralf Lämmel demoing _"Test-data generation for Xtext with Xtextgen"_.
+
+
 
 
 
