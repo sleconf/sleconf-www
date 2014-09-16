@@ -219,6 +219,18 @@ Now "Dynamic Scope Discovery for Model Transformation". It's about a performance
 
 Next up: "ProMoBox: framework for generating domain-soecific property languages"
 
+### 12:00 
+
+Panel Discussion!
+
+* Anya Helee Bagge starts of and explains how her experience shows that students learn more about semantics of programming from the SLE course than SLE concepts per sé.
+* Jaakko Järvi says that SLE is also about the fact that programs are malleable things and there exists a toolbox for this. The current curricula don't have this aspect and students are missing out because of that. Where do we put this?
+* Ulrik Schultz teaches roboticists and Java programmers (bachelors). He learns them internal and external DSLs and the students are motivated by the fact that they are learning how languages work. The few computer science students he has get a different perspective on compilers as well. Ulrik in effect agrees with Anya in this. Eclipse is too complex. You can learn DSLs without knowing about programming languages.
+* Anthony Sloane: has been teaching a cross-over between compiler and SLE. From hard core back-ends to front-end and API and modeling. The goal is to focus the students minds on the commonality between languages. Scala is used for the implementation (Kiama for attribute grammars and term rewriting). They see a lot of stuff without seeing lots of code. They build type systems and translators.
+* Massimo Tisi teached Model Driven Engineering and Domain Specific Modeling Languages. They use language workbenches and then a project where the students have to design a new language. The problem is that although the students like the tools, the language _design_ is the problem. They don't know how to shape the abstractions. This is harder than API design because in other courses the students can design an E/R model or an OO model, but the language abstraction seems a bridge too far.
+* Eric Van Wyk: traditional compiler courses are valuable too. Understanding how a compiler works makes people better programmers. We have a new second year course on advanced programming principles: Programs as data, ADTs, representing complex hierarchically structured data (ASTs). And in another course we build little compilers. Little things like ASTs are enlightening for the students.
+
+
 
 
 
