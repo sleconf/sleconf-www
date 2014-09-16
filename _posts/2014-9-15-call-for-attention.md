@@ -266,7 +266,20 @@ Panel Discussion!
    * Ralf says the same: we use labs to exercise different kinds of technologies in the same classroom.
    
    
+### 14:06
+
+I dropped into the _best student paper_ talk by Andrei Chis. Andrei explains the actions a programmer takes when doing deduction and abduction steps while browsing the code in an advanced IDE. Like a good debugger he makes the decision steps, choices and the stack of reasoning explicit while clicking in the IDE and reading the information the debugger provides. Conclusion: debugging is repetitive for framework code (let's say an even handler).
+
+The solution is to have a debugging perspective which is specialized for the framework. In this case an even debugger. The contribution of the paper lies in the rapid prototyping/engineering of such debuggers. It can be applied to any domain, even very complex ones such as parsing frameworks.
+
+The contribution of this paper lies at the core of SLE:
+   * It helps software engineers solve complex daily problems
+   * It takes the language perspective on API/frameworks
+   * It generates IDE tools from higher level descriptions/API
    
+We want more!
+
+
 
 
    
