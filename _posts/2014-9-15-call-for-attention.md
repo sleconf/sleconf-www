@@ -239,9 +239,9 @@ Panel Discussion!
    * teach abstraction, shaping abstraction, modeling. Abstraction as an activity.
    * building libraries and APIs with reusability as a starting point
    * doing SLE earlier makes more students interested in PL
-   * Jurgen: language prototyping: core of SLE
+   * language prototyping: core of SLE teaches people making abstractions
    
-* 
+
    
 
 
