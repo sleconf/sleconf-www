@@ -160,6 +160,8 @@ We had a very nice dinner and then some drinks in the hotel. I learned about wha
 
 ## Day Two
 
+Good morning!
+
 ### 09:00
 
 Nikolai Tillmann from Microsoft research is the second shared keynote speaker. He will talk about touch develop. Great! He starts with the Commodore 64 Basic  prompt saying "program me!". :-)
