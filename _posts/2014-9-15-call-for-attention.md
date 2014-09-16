@@ -314,6 +314,14 @@ I found the explanation at the end a bit too detailed, because we lost the story
 
 You can try it at http://modelevolution.org/mococl 
 
+### 16:02 
+
+Finally: the tools sessions
+
+First up: Tony Sloane on _"Monto: A Disintegrated Development Environment"_
+
+First thought: Hej! It's like a modernized ToolBus of the Meta-Environment with JSON instead of ATerms and Python instead of T-script. Tony nicely mentioned ToolBus in his presentation.
+
 
 
 
