@@ -347,6 +347,13 @@ Saverio is motivating high-level modeling of system coordination, i.e. separatio
 
 The starting question is: dynamic update of the communication protocol, to get a safely adaptable distributed system. 
 
+(personal note: the ToolBus perspective comes back many times this year :-)
+
+Saverio explains the syntax and semantics of the AIOC language which has many features I would have loved in ToolBus scripts. Scopes for messages is the best example. Second deadlock and race freedom by construction.. or should that one go first? The syntax is nice and clear.
+
+Website: http://bit.do/aiocj
+
+
 
 
 
