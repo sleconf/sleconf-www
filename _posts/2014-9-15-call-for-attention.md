@@ -320,7 +320,11 @@ Finally: the tools sessions
 
 First up: Tony Sloane on _"Monto: A Disintegrated Development Environment"_
 
-First thought: Hej! It's like a modernized ToolBus of the Meta-Environment with JSON instead of ATerms and Python instead of T-script. Tony nicely mentioned ToolBus in his presentation.
+First impression: it's like a modernized ToolBus of the Meta-Environment with JSON instead of ATerms and Python instead of T-script. Tony nicely mentioned ToolBus in his presentation btw. 
+
+What we have is a truly simplified interaction model which allows one to quickly prototype an IDE-like experience. Quite cool.
+
+
 
 
 
