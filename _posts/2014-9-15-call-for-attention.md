@@ -343,6 +343,9 @@ And Ralf now shows a screencast of how to use the tool and generate input and he
 
 The final talk, _sniff_, of SLE 2014 is presented by Saverio: _"AIOCJ: A Choreographic Framework for Safe Adaptive Distributed Applications, M. D. Preda, M. Gabbrielli, S. Giallorenzo, I. Lanese, J. Maurio"_
 
+Saverio is motivating high-level modeling of system coordination, i.e. separation of computation from coordinational protocol. 
+
+
 
 
 
