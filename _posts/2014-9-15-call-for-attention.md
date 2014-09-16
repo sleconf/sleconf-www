@@ -189,7 +189,7 @@ Cool: now we can chat with him [online right now](http://tdev.ly/sjdi) using his
 
 We now move to the education _viewpoint_. The tutoring environment is totally interactive and scripts the learning experience. It makes you go through the moves of creating an app and you get cudo's. Of course we want this for all of our tools and I wonder if we can have generic or generated tutoring functionality.
 
-_Now the pressing question from the SLE perspective_: what kind of language engineering is fundamental to this entire TouchDevelop experience, including "tutoral engine".
+_Now the pressing question from the SLE perspective_: what kind of language engineering is fundamental to this entire TouchDevelop experience, including "tutoral engine", etc. We will ask him during the break.
 
 One answer: we get data immediately from our users and use this to improve our language design. One lesson: speech is also a good way to program! 
 
