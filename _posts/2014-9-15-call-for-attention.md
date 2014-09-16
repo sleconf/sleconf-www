@@ -191,4 +191,6 @@ We now move to the education _viewpoint_. The tutoring environment is totally in
 
 _Now the pressing question from the SLE perspective_: what kind of language engineering is fundamental to this entire TouchDevelop experience, including "tutoral engine".
 
+One answer: we get data immediately from our users and use this to improve our language design. One lesson: speech is also a good way to program! 
+
 
