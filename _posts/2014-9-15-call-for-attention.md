@@ -181,4 +181,9 @@ D. E. Knuth. An Empirical Study of FORTRAN Programs. Software: Practice and Expe
 
 Another part of the story of programming language experience is library design. Here TouchDevelop goes the WebDSL route, where the most important libraries for application development are integrated linguistically: data binding, UI elements, events.
 
+On a personal note; I have developed a lot of applications with Ms. Access. It had a kind of immediacy and integrated feeling "everything at your fingertips". Ever since I learned about web programming I wanted to go back to this experience. I thing TouchDevelop does this and goes quite a bit further. 
+
+Otherwise now we are going into sales pitch mode. The thing is nice and has lots of features. What do we learn from all this? Well, the internet has definitely come to programming and its not going away anymore. The internet connectivity is now _necessary_ to able to effectively work with your IDE. 
+
+
 
