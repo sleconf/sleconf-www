@@ -198,4 +198,19 @@ Open challenges for Touch Develop:
    * real-time collaborative editing
    * running server side code
    
+### 10:30
+
+We continue with SLE and immediately dive into technological spaces: interoperability between modeling platforms with the paper "UML as an Assembly Language for Model Transformation". 
+
+"A modeling virtual machine (MVM) abstracts from programming language and modeling framework"
+
+fUML serves as the VM. The case study is to port ATL to fUML and see if this satisfies the requirements of having a VM and inter-operability etc. Interesting!
+
+I am waiting to see if we take a modeling language which is not OO but rather algebraic/functional. And while listening I am wondering how we test the compilers.
+
+
+
+
+
+   
 
