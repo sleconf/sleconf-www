@@ -332,7 +332,11 @@ This is all about grammar-based testing. The result of a class Ralf taught about
 
 Essential elements:
    * incrementally constraining the test data generator to generate more interesting sequences
-   * post-processing to implement semantic constraints on the resulting models
+   * post-processing to implement semantic constraints on the resulting 
+   
+Ralf is lecturing sentence generation actually. Explaining it to us clearly. If you know the kind of elegant yet incomprehensible and also incompressible Prolog code that Ralf has written to generate sentences from grammars with specfic coverage criteria, you have to appreciate how he manages to tell the story today clearly.
+
+
    
 
 
