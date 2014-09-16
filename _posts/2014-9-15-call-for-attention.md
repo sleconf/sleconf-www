@@ -193,4 +193,9 @@ _Now the pressing question from the SLE perspective_: what kind of language engi
 
 One answer: we get data immediately from our users and use this to improve our language design. One lesson: speech is also a good way to program! 
 
+Open challenges for Touch Develop:
+   * tree diff
+   * real-time collaborative editing
+   * running server side code
+   
 
