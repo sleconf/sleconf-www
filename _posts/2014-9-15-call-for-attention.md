@@ -306,7 +306,9 @@ Sebastian Gabmeyer presents: _Model Checking of CTL-Extended OCL Specifications,
 * Running example: the mission-critical software system: pacman
 * Problem: check liveness and safety properties
 * Solution: CTL-based model checking
-* Enabler: model transformation
+* Enabler: extending OCL with CTL semantics: cOCL.
+
+This looks good. I have some trouble positioning the work to general CTL-based model checking literature. One thing I believe is essential: the inclusion of CTL in the OCL language such that it is readily available in the OCL and Eclipse context. 
 
 
 
