@@ -330,7 +330,10 @@ Next up is Ralf Lämmel demoing _"Test-data generation for Xtext with Xtextgen"_
 
 This is all about grammar-based testing. The result of a class Ralf taught about this topic.
 
-
+Essential elements:
+   * incrementally constraining the test data generator to generate more interesting sequences
+   * post-processing to implement semantic constraints on the resulting models
+   
 
 
 
