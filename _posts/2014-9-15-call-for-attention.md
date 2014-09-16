@@ -301,6 +301,9 @@ Now this paper also uses random testing to evaluate the efficiency and the corre
 
 Sebastian Gabmeyer presents: _Model Checking of CTL-Extended OCL Specifications, S. Gabmeyer, R. Bill, M. Seidl, P. Kaufmann_
 
+Starting point: we need automatic bug hunting tools because we have more and more software and it runs faster and faster. You can't keep up "manually".
+
+
 
 
    
