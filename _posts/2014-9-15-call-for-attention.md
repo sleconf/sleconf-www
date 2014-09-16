@@ -328,7 +328,8 @@ What we have is a truly simplified interaction model which allows one to quickly
 
 Next up is Ralf Lämmel demoing _"Test-data generation for Xtext with Xtextgen"_.
 
-This is all about grammar-based testing. The result of a class Ralf taught about this topic. 
+This is all about grammar-based testing. The result of a class Ralf taught about this topic.
+
 
 
 
