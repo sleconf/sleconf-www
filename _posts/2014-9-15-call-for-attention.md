@@ -168,3 +168,4 @@ Nikolai Tillmann from Microsoft research is the second shared keynote speaker. H
 
 Nikolai now says: "Programming languages follow input paradigms", now that drives the discussion about projectional editing home. See yesterday's discussion with Markus Voelter.
 
+The great thing about this keynote is that Nikolai is giving a live demo. TouchDevelop is a projectional editor for HTML5 scripting, but only with program text not images. It is driven by the touch input paradigm and by learning algorithms for online API suggestions. Looks like fun!
