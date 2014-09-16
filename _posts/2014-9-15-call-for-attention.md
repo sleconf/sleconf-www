@@ -345,6 +345,9 @@ The final talk, _sniff_, of SLE 2014 is presented by Saverio: _"AIOCJ: A Choreog
 
 Saverio is motivating high-level modeling of system coordination, i.e. separation of computation from coordinational protocol. 
 
+The starting question is: dynamic update of the communication protocol, to get a safely adaptable distributed system. 
+
+
 
 
 
