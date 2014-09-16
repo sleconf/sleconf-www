@@ -230,6 +230,18 @@ Panel Discussion!
 * Massimo Tisi teached Model Driven Engineering and Domain Specific Modeling Languages. They use language workbenches and then a project where the students have to design a new language. The problem is that although the students like the tools, the language _design_ is the problem. They don't know how to shape the abstractions. This is harder than API design because in other courses the students can design an E/R model or an OO model, but the language abstraction seems a bridge too far.
 * Eric Van Wyk: traditional compiler courses are valuable too. Understanding how a compiler works makes people better programmers. We have a new second year course on advanced programming principles: Programs as data, ADTs, representing complex hierarchically structured data (ASTs). And in another course we build little compilers. Little things like ASTs are enlightening for the students.
 
+---
+
+* Discussion from the audience: better languages, safer languages. What other things should SLE education would be about?
+   * data is software too. Anya we include data formats, ontologies.
+   * non-lossy technological space travel
+   * better support for non-functional properties
+   * teach abstraction, shaping abstraction, modeling. Abstraction as an activity.
+   * building libraries and APIs with reusability as a starting point
+   * Jurgen: language prototyping: core of SLE
+   
+* 
+   
 
 
 
