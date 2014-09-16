@@ -172,3 +172,9 @@ The great thing about this keynote is that Nikolai is giving a live demo. TouchD
 
 "The app store model is not the best way to share creativity fast", with TouchDevelop you can share your code fast. The code is in the public domain the moment you publish your app.
 
+Since TouchDevelop collects statistics about language usage and also about usage of your app it really and finally brings Knuth's vision of learning from language use to the mainstream. Knuth proposed this long ago in this 1971 paper:
+```
+D. E. Knuth. An Empirical Study of FORTRAN Programs. Software: Practice and Experience, 1(2):105–133, 1971.
+```
+
+
