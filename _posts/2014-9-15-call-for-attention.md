@@ -287,6 +287,7 @@ Now Magdalena Widl on the _best paper of SLE_: _A SAT-based Debugging Tool for S
 
 Starting point: sequence diagrams show scenarios of state machines running (badly or not)
 
+Goal: check whether a sequence diagram is consistent with a set of state machines? So this is a lighweight version of a model checking problem. But the problem is how to map state machines to the input languages to model checkers, so we mapped it directly to SAT. 
 
 
 
