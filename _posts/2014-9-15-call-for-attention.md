@@ -248,7 +248,11 @@ Panel Discussion!
 
 * Ralf proposes the subliminal SLE by just giving the students the tools and asking them to build something.
 
+* Jurgen: There is the requirements and design perspective. The DDD perspective and modeling tools. Can we hook this all in? Mark says that DSL design is only after the requirements elicitation and the domain modeling. 
 
+* Tony: not every student is the same and also in time requirements for students  evolve
+
+* 
    
 
 
