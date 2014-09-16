@@ -250,9 +250,11 @@ Panel Discussion!
 
 * Jurgen: There is the requirements and design perspective. The DDD perspective and modeling tools. Can we hook this all in? Mark says that DSL design is only after the requirements elicitation and the domain modeling. We have to link these things together. Ulrik agrees but the language the students design are lacking the proper abstractions. 
 
+* It's a bridge too far to teach language design? No says Ralf. If you evaluate how students are using the tools then you can see their progress. Anya says the students make usable languages sometimes using language workbenches, but maybe API is a better way of teaching how to design abstractions.
+
 * Tony: not every student is the same and also in time requirements for students  evolve
 
-* 
+* Ralf: what material do you use to teach language design? 
    
 
 
