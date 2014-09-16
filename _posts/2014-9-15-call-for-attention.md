@@ -232,7 +232,7 @@ Panel Discussion!
 
 ---
 
-* Discussion from the audience: better languages, safer languages. What other things should SLE education would be about?
+* Discussion from the audience: better languages, safer languages is what we want the students to learn about and think about. Ralf asks what other things should SLE education would be about? Answers:
    * data is software too. Anya we include data formats, ontologies.
    * non-lossy technological space travel
    * better support for non-functional properties
@@ -241,6 +241,13 @@ Panel Discussion!
    * doing SLE earlier makes more students interested in PL
    * language prototyping: core of SLE teaches people making abstractions
    
+* Discussion what should we teach before SLE is taught?
+   * compiler construction
+   * operational semantics
+   * type systems
+
+* Ralf proposes the subliminal SLE by just giving the students the tools and asking them to build something.
+
 
    
 
