@@ -337,11 +337,12 @@ Essential elements:
    
 Ralf is lecturing sentence generation actually. Explaining it to us clearly. If you know the kind of elegant yet incomprehensible and also incompressible Prolog code that Ralf has written to generate sentences from grammars with specfic coverage criteria, you have to appreciate how he manages to tell the story today clearly.
 
-And Ralf now shows a screencast of how to use the tool and generate input. 
+And Ralf now shows a screencast of how to use the tool and generate input and he explains at the end how this work came about: out of an SLE course!
 
-### 17:00
+### 17:05
 
-The final talk, _sniff_, of SLE 2014 is _"AIOCJ: A Choreographic Framework for Safe Adaptive Distributed Applications, M. D. Preda, M. Gabbrielli, S. Giallorenzo, I. Lanese, J. Maurio"_
+The final talk, _sniff_, of SLE 2014 is presented by Saverio: _"AIOCJ: A Choreographic Framework for Safe Adaptive Distributed Applications, M. D. Preda, M. Gabbrielli, S. Giallorenzo, I. Lanese, J. Maurio"_
+
 
 
 
