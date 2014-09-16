@@ -10,6 +10,7 @@ Welcome to the 7th International Conference on Software Language Engineering.
 
 * all tweets about SLE are here: https://twitter.com/search?q=%40sleconf&src=typd, since they are all mentioning `@sleconf`
 * we did not use the #sle2014 hash tag because some marathon people stole it on the first day :-)
+* the SLE report, day 2, continues <a href="#daytwo">here</a>.
 
 ---
 
@@ -156,3 +157,12 @@ The best student paper was awarded to "The Moldable Debugger: a Framework for De
 ### 24:00
 
 We had a very nice dinner and then some drinks in the hotel. I learned about what is happening in Saarbrücken concerning GPU and FPGA generated code from functional programs for example and we exchanged epistemic puzzles.
+
+## Day Two
+
+### 09:00
+
+Nikolai Tillmann from Microsoft research is the second shared keynote speaker. He will talk about touch develop. Great! He starts with the Commodore 64 Basic  prompt saying "program me!". :-)
+
+Nikolai now says: "Programming languages follow input paradigms", now that drives the discussion about projectional editing home. See yesterday's discussion with Markus Voelter.
+
