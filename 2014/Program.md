@@ -4,7 +4,7 @@ title: Program
 published: true
 ---
 
-Note that the PDF of the full [proceedings](http://www.sleconf.org/2014/proceedings) is temporarily available during the conference.
+Note that the PDF of the full [proceedings](http://www.sleconf.org/2014/proceedings) is available online.
 
 <table class="timetable">
     <thead>
