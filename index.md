@@ -7,17 +7,23 @@ published: true
 
 This is the community website of the International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
-* Check out [SLE 2014](2014), Västerås, Sweden.
+* Check out [SLE 2015](2015)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
+
+### Future
+
+* [SLE 2015](http://www.sleconf.org/2015)
+* [SLE 2016](http://www.sleconf.org/2016)
 
 ### History
 
 <ul>
-<li><a href="http://planet-sl.org/sle2008/" >SLE 2008</a>, Toulouse, France.</li>
-                        <li><a href="http://planet-sl.org/sle2009" >SLE 2009</a>, Denver, Colorado, U.S.A.</li>
-                        <li><a href="http://planet-sl.org/sle2010/" >SLE 2010</a>, Eindhoven, The Netherlands.</li>
-                        <li><a href="http://planet-sl.org/sle2011/" >SLE 2011</a>, Braga, Portugal.</li>
-                        <li><a href="http://planet-sl.org/sle2012/" >SLE 2012</a>, Dresden, Germany.</li>
-                        <li><a href="http://planet-sl.org/sle2013/" >SLE 2013</a>, Indianapolis, Indiana, U.S.A.</li>
-                        </ul>
+<li><a href="http://www.sleconf.org/2008" >SLE 2008</a>, Toulouse, France.</li>
+<li><a href="http://www.sleconf.org/2009" >SLE 2009</a>, Denver, Colorado, U.S.A.</li>
+<li><a href="http://www.sleconf.org/2010" >SLE 2010</a>, Eindhoven, The Netherlands.</li>
+<li><a href="http://www.sleconf.org/2011" >SLE 2011</a>, Braga, Portugal.</li>
+<li><a href="http://www.sleconf.org/2012" >SLE 2012</a>, Dresden, Germany.</li>
+<li><a href="http://www.sleconf.org/2013" >SLE 2013</a>, Indianapolis, Indiana, U.S.A.</li>
+<li><a href="http://www.sleconf.org/2014" >SLE 2014</a>, Västerås, Sweden</li>
+</ul>
