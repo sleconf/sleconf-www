@@ -1,10 +1,12 @@
 ---
-published: true
 layout: default2014
+published: true
 title: Accepted Papers
 ---
 
-   * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
+Please find the full proceedings [here](./proceedings)
+
+* **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
    
    * **The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers**, Andrei Chis, Tudor Girba and Oscar Nierstrasz
 
