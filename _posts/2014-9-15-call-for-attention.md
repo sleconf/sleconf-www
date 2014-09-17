@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: SLE call for attention
+title: "SLE call for attention - liveblog"
 author: Jurgen Vinju
 authorlink: "http://homepages.cwi.nl~/jurgenv"
 ---
@@ -356,35 +356,3 @@ Website: http://bit.do/aiocj
 ### 17:30 - The End
 
 Thank you for your attention for the talks at SLE. Also thanks for your continued work in the field of SLE and we are looking forward to your submissions for [SLE 2015](http://www.sleconf.org/2015) at SPLASH 2015.
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-   
-   
-
-
-
-
-
-
-   
-
-
-
-
-
-   
-
