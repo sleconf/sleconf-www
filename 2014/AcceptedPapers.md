@@ -4,11 +4,29 @@ published: true
 title: Accepted Papers
 ---
 
+## Best paper awards:
+
+Thanks to our sponsors, Google, the GEMOC initiative and Itemis we could offer the following great papers a prize:
+
+The winner of the 2014 best paper award is:
+
+   * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
+
+The winner of the 2014 best student paper award is:
+
+   * **The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers**, Andrei Chis, Tudor Girba and Oscar Nierstrasz (best student paper)
+
+The winner of the 2014 best reviewer award is:
+
+   * Emilie Balland
+
+## Accepted papers:
+
 Please find the full proceedings [here](./proceedings)
 
 * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
    
-   * **The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers**, Andrei Chis, Tudor Girba and Oscar Nierstrasz
+   * **The Moldable Debugger: a Framework for Developing Domain-Specific Debuggers**, Andrei Chis, Tudor Girba and Oscar Nierstrasz (best student paper)
 
    * **Streamlining Control Flow Graph Construction with DCFlow**, Mark Hills
 
