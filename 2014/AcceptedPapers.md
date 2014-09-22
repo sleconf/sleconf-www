@@ -1,10 +1,8 @@
 ---
 layout: default2014
 published: true
-title: Accepted Papers
+title: Accepted Papers and Best Papers
 ---
-
-## Best paper awards:
 
 Thanks to our sponsors, Google, the GEMOC initiative and Itemis we could offer the following great papers a prize:
 
@@ -20,9 +18,7 @@ The winner of the 2014 best reviewer award is:
 
 * Emilie Balland
 
-## Accepted papers:
-
-Please find the full proceedings [here](./proceedings)
+Please find the full proceedings [here](./proceedings), offering the following accepted papers:
 
 * **A SAT-based Debugging Tool for State Machines and Sequence Diagrams**, Petra Kaufmann, Martin Kronegger, Andreas Pfandler, Martina Seidl and Magdalena Widl
 
