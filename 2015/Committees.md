@@ -21,6 +21,7 @@ published: true
 * Jordi Cabot, INRIA research group at Ecole des Mines de Nantes, France
 * Benoit Combemale, University of Rennes 1, France
 * Zinovy Diskin, McMaster University / University of Waterloo, Canada
+* Sebastian Erdweg, TU Darmstadt, Germany
 * Jean-Marie Favre, University of Grenoble, France
 * Holger Giese, Hasso Plattner Institute at the University of Potsdam, Germany
 * Martin Gogolla, University of Bremen, Germany
