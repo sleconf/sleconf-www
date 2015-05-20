@@ -9,14 +9,7 @@ published: true
 
 ### IMPORTANT DATES
 
-* Deadline for abstracts: 1 June 2015 
-* Deadline for papers: 15 June 2015
-* Author notification: 24 July 2015
-* Camera ready copies due: 7 August 2015
-* SLE workshops: TBD
-* Conference: End of October 2015
-
-All dates are Anywhere on Earth.
+{% include 2015/dates %}
 
 ### SCOPE
 
