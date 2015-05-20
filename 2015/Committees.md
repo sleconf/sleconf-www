@@ -46,7 +46,7 @@ published: true
 
 ### Workshop organization chair
 
-* TBA
+* SLE Workshops are handled through [SPLASH](http://2015.splashcon.org/track/splash2015-workshops)
 
 
 ### Publicity chair
