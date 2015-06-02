@@ -30,6 +30,7 @@ published: true
 * Angelo Hulshout, Independent Consultant, The Netherlands
 * Zhenjiang Hu, National Institute of Informatics, Japan
 * Adrian Johnstone, Royal Holloway, UK
+* Paul Klint, CWI, Netherlands
 * Dimitris Kolovos, University of York, UK
 * Juan de Lara, Universidad Autonoma de Madrid, Spain
 * Terence Parr, University of San Francisco, US
