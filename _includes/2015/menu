@@ -2,6 +2,10 @@
 {% assign link="/2015/" %}
 {% include 2015/menu_item %}
 
+{% assign title="Accepted Papers" %}
+{% assign link="/2015/Papers" %}
+{% include 2015/menu_item %}
+
 {% assign title="Call for Papers" %}
 {% assign link="/2015/CFP.html" %}
 {% include 2015/menu_item %}
