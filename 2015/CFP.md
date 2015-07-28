@@ -49,7 +49,7 @@ Submissions may be made through Easychair: <https://easychair.org/conferences/?c
 
 ### PUBLICATIONS
 
-All submitted papers will be reviewed by at least three members of the program committee. Authors will be given a brief opportunity for a reply to the reviews. The replies will be considered in the PC's discussions, and considered in the selection of the best reviewer. All accepted papers will be published in ACM Digital Library.  
+All submitted papers will be reviewed by at least three members of the program committee. All accepted papers will be published in ACM Digital Library.  
 
 Authors of best papers from the conference will be invited to revise and submit extended versions of their papers for a Journal special issue.
 
