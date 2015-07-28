@@ -1,6 +1,6 @@
 ---
 layout: default2015
-title: Committees
+title: Accepted Papers
 published: true
 ---
 
@@ -29,8 +29,8 @@ Gómez-Llana](http://www.emn.fr/z-info/atlanmod/index.php/User:Agomez),
 Massimo Tisi and [Jordi Cabot](http://jordicabot.com). *Distributed
 Model-to-Model Transformation with ATL on MapReduce*
 * [Erwan Bousse](http://people.irisa.fr/Erwan.Bousse/), Jonathan Corley,
-[Benoit Combemale](http://www.combemale.fr/), *Jeff Gray and Benoit
-Baudry. A Generative Approach for Rich Omniscient Model Debugging*
+[Benoit Combemale](http://www.combemale.fr/), Jeff Gray and Benoit
+Baudry. *A Generative Approach for Rich Omniscient Model Debugging*
 * Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
 Anthony Anjorin. *On Integrating Graphical and Textual Editors for a
 UML-based Domain Specific Language*
