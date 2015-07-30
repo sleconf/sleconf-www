@@ -15,6 +15,7 @@ Minnesota, USA
 
 ### Program Committee
 
+* Jeremy Gibbons, Oxford University, UK
 * Emilie Balland, INRIA, France
 * Olaf Chitil, University of Kent, UK
 * James R. Cordy, Queen's University, Canada
