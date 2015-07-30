@@ -21,7 +21,7 @@ and Christian Glodt. *Designing Languages using Lightning* (Tool paper)
 * Eric Umuhoza, [Marco Brambilla](http://home.dei.polimi.it/mbrambil/),
 [Jordi Cabot](http://jordicabot.com) and Davide Ripamonti. *An Empirical
 Study on Simplification of Business Process Modeling Languages*
-* Nicolas Laurent and Kim Mens. Parsing Expression Grammars Made Practical
+* Nicolas Laurent and Kim Mens. *Parsing Expression Grammars Made Practical* (Tool paper)
 * Jesús J. López-Fernández, Esther Guerra and Juan de Lara. *Example-based
 Validation of Domain-Specific Visual Languages*
 * Amine Benelallam, [Abel
