@@ -14,8 +14,7 @@ layout: default2012
 
 
 
-	<p>The schedules below are preliminary and might change until the beginning of the conference(s). The full program of all conferences and workshops is now available as <a class="wf_file" href="images/sle/sle2012/documents/program_full.pdf"><img class="wf_file_icon" style="border: 0px; vertical-align: middle;" src="media/jce/icons/pdf.png" alt="pdf"><span class="wf_file_text">PDF</span></a>.</p>
-<p>
+	<p>The schedules below are preliminary and might change until the beginning of the conference(s). </p>
     <style scoped="scoped" type="text/css"><!--
         /* Font Definitions */
         @font-face
