@@ -48,7 +48,7 @@ layout: default2011
 
 <b>Session 6</b> Formalisation
 10:30-11:00 Frank Stappers, Sven Weber, Michel Reniers, Suzana Andova and Istvan Nagy
-*Formalizing a domain speci?c language using SOS: An industrial case study*
+*Formalizing a domain specific language using SOS: An industrial case study*
 11:00-11:30 Martin Erwig and Eric Walkingshaw.
 *Semantics First! Rethinking the Language Design Process*
 11:30-12:00 Ted Kaminski and Eric Van Wyk
@@ -73,7 +73,7 @@ layout: default2011
 *Metacompiling OWL Ontologies (Tool demonstration)*
 16:10-16:30 Arif Wider
 *Towards Combinators for Bidirectional Model Transformations in Scala (Language demonstration)*
-16:30-16:50 Pawe? T. Wojciechowski
+16:30-16:50 Pawel T. Wojciechowski
 *Typed First-class Communication Channels and Mobility for Concurrent Scripting Languages (Language demonstration)*
 
 16:50-17:00&nbsp; Closing
