@@ -35,7 +35,7 @@ layout: default2011
 <i>Reusing Pattern Solutions in Modeling: a Generic Approach Based on a Role Language</i>
 16:00-16:30 Heiko Paulheim, Daniel Oberle, Roland Plendl and Florian Probst
 *An Architecture for Information Exchange based on Reference Models*
-16:30-17:00 Wolfgang Kling, Frédéric Jouault, Dennis Wagelaar, Marco Brambilla and Jordi Cabot
+16:30-17:00 Wolfgang Kling, Frederic Jouault, Dennis Wagelaar, Marco Brambilla and Jordi Cabot
 *MoScript: A DSL for querying and manipulating model repositories*
 17:00-17:30 Sander Vermolen, Guido Wachsmuth and Eelco Visser
 *Reconstructing Complex Metamodel Evolution*
@@ -69,7 +69,7 @@ layout: default2011
 <b>Session 8</b> Tool/Language Demonstrations, Short Papers
 15:30-15:50 Mark Hills, Paul Klint and Jurgen Vinju
 *RLSRunner: Linking Rascal with K for Program Analysis (Tool demonstration)*
-15:50-16:10 Anders Nilsson and Görel Hedin
+15:50-16:10 Anders Nilsson and Gorel Hedin
 *Metacompiling OWL Ontologies (Tool demonstration)*
 16:10-16:30 Arif Wider
 *Towards Combinators for Bidirectional Model Transformations in Scala (Language demonstration)*
