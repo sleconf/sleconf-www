@@ -3,18 +3,18 @@ title: Keynotes
 layout: default2011
 ---
 
-## Designing Variability Modeling Languages
-###Krzysztof Czarnecki
+### Designing Variability Modeling Languages
+####Krzysztof Czarnecki
 The essence of software product line engineering (SPLE) is the process of factoring out commonalities and systematizing variabilities, that is, differences, among the products in a SPL. A key discipline in SPLE is variability modeling. It focuses on abstracting the variability realized in the many development artifacts of an SPL, such as code, models, and documents. This talk will explore the design space of languages that abstract variability, from feature modeling and decision modeling to highly expressive domain-specific languages. This design space embodies a progression of structural complexity, from lists and trees to graphs, correlating with the increasing closeness to implementation. I will also identify a set of basic variability realization mechanisms. I will illustrate the variability abstraction and realization concepts using Clafer, a modeling language designed to support these concepts using a minimal number of constructs. I will also report on the progress towards a Common Variability Language, the Object Management Group?s effort to standardize variability modeling, which embodies many of these concepts. I will close with an outlook on the future research challenges in variability modeling.
 
-###Bio
+####Bio
 Krzysztof Czarnecki is Associate Professor in the Department of Electrical and Computer Engineering at the University of Waterloo and NSERC/Bank of Nova Scotia Industrial Research Chair in Requirements Engineering of Service-oriented Software Systems. He received the MS degree in Computer Science from California State University, Sacramento, and his PhD in Computer Science from Technical University of Ilmenau, Germany. Before coming to University of Waterloo in 2003, he worked for eight years at DaimlerChrysler Research, Germany, focusing on improving software development practices and technologies in enterprise and embedded domains. He is a co-author of the book "Generative Programming" (Addison- Wesley, 2000). He received the Premier's Research Excellence Award in 2004 and the British Computing Society in Upper Canada Award for Outstanding Contributions to IT Industry in 2008. He is the Principal Investigator of a $9.3 million project on "Model-Based Software Service Engineering", funded by the Province of Ontario (2008-2013). His work focuses on developing model-based approaches to software engineering that work in industrial practice.
 
 
-## Towards a One-Stop-Shop for Analysis, Transformation and Visualization
-### Paul Klint
+### Towards a One-Stop-Shop for Analysis, Transformation and Visualization
+#### Paul Klint
 
 Over the last two years we have been developing the meta-programming language Rascal (see http://www.rascalmpl.org/) that aims at providing a concise and effective language for performing meta-programming tasks such as the analysis and transformation of existing source code and models, and the implementation of domain-specific languages. Rascal is completely written in Java, integrates with Eclipse and gives access to programmable IDE features using IMP (The IDE Meta-Tooling Platform). However, meta-programming tasks also require seamlessly integrated visualization facilities. We are therefore now aiming at a "One-Stop-Shop" for analysis, transformation and visualization. In this talk we give a status report on this ongoing effort and sketch the requirements for an interactive visualization framework and describe the solutions we came up with. In brief, we propose a coordinate-free, declarative, visualization framework, with fully automatic placement, scaling and alignment. It also provides for user interaction. The current framework can handle various kinds of charts, trees, and graphs but can be easily extended to more advanced layouts. This work can be seen as a study in domain engineering that will in the end enable us to create a domain-specific language for software visualization. We conclude with examples that emphasize the integration of software analysis and software visualization. This is joint work with Bert Lisser and Atze van der Ploeg.
 
-### Bio
+#### Bio
 Paul Klint is head of the software engineering department at Centrum Wiskunde en Informatica in Amsterdam, full professor in Computer Science at the University of Amsterdam and theme leader of Software Analysis and Transformation at CWI. His research interests include generic language technology, domain-specific languages, software renovation, and technology transfer.
