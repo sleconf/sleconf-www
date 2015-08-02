@@ -3,6 +3,7 @@
 title: Committees
 layout: default2011
 ---
+
 <p>General Chair</p>
 <ul>
 <li>Joao Saraiva, University of Minho Portugal</li>
