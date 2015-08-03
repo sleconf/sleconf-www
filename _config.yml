@@ -1,5 +1,7 @@
 permalink: /blog/:month-:day-:year-:title
 
+gems:
+  - jekyll-redirect-from
 
 markdown: redcarpet
 safe: true

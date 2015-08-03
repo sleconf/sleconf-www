@@ -18,6 +18,10 @@
 {% assign link="/2015/Committees.html" %}
 {% include 2015/menu_item %}
 
+{% assign title="Parsing@SLE" %}
+{% assign link="/2015/ParsingAtSle.html" %}
+{% include 2015/menu_item %}
+
 {% assign title="Blog" %}
 {% assign link="/blog" %}
 {% include 2015/menu_item %}
