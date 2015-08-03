@@ -10,38 +10,6 @@
 {% assign link="/2011/Program.html" %}
 {% include 2011/menu_item %}
 
-{% assign title="Accepted Papers" %}
-{% assign link="/2011/Accepted_Papers.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Important Dates" %}
-{% assign link="/2011/Important_Dates.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Registration" %}
-{% assign link="/2011/Registration.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Venue" %}
-{% assign link="/2011/Venue.html" %}
-{% include 2011/menu_item %}
-
 {% assign title="Committees" %}
 {% assign link="/2011/Committees.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Paper Submission" %}
-{% assign link="/2011/Paper_Submission.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Call for Papers" %}
-{% assign link="/2011/Call_for_Papers.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Student Workshop" %}
-{% assign link="/2011/Student_Workshop.html" %}
-{% include 2011/menu_item %}
-
-{% assign title="Call for Workshop Proposals" %}
-{% assign link="/2011/Call_for_Workshop_Proposals.html" %}
 {% include 2011/menu_item %}
