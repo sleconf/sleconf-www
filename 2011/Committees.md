@@ -1,4 +1,3 @@
-
 ---
 title: Committees
 layout: default2011
