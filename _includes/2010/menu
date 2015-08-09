@@ -2,42 +2,15 @@
 {% assign link="/2010/index.html" %}
 {% include 2010/menu_item %}
 
-{% assign title="Call for Papers" %}
-{% assign link="/2010/Call_for_Papers.html" %}
-{% include 2010/menu_item %}
-
-{% assign title="Registration" %}
-{% assign link="/2010/Registration.html" %}
+{% assign title="Keynotes" %}
+{% assign link="/2010/Keynotes.html" %}
 {% include 2010/menu_item %}
 
 {% assign title="Program" %}
 {% assign link="/2010/Program.html" %}
 {% include 2010/menu_item %}
 
-{% assign title="Important Dates" %}
-{% assign link="/2010/Important_Dates.html" %}
-{% include 2010/menu_item %}
-
-{% assign title="Paper Submission" %}
-{% assign link="/2010/Paper_Submission.html" %}
-{% include 2010/menu_item %}
-
-{% assign title="Accepted Papers" %}
-{% assign link="/2010/Accepted_Papers.html" %}
-{% include 2010/menu_item %}
-
-{% assign title="Venue" %}
-{% assign link="/2010/Venue.html" %}
-{% include 2010/menu_item %}
-
-{% assign title="Doctoral Symposium" %}
-{% assign link="/2010/Doctoral_Symposium.html" %}
-{% include 2010/menu_item %}
-
 {% assign title="Committees" %}
 {% assign link="/2010/Committees.html" %}
 {% include 2010/menu_item %}
 
-{% assign title="Contacts" %}
-{% assign link="/2010/Contacts.html" %}
-{% include 2010/menu_item %}
