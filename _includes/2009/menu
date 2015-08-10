@@ -6,14 +6,6 @@
 {% assign link="/2009/Program.html" %}
 {% include 2009/menu_item %}
 
-{% assign title="Registration" %}
-{% assign link="/2009/Registration.html" %}
-{% include 2009/menu_item %}
-
-{% assign title="Visa Support" %}
-{% assign link="/2009/Visa_Support.html" %}
-{% include 2009/menu_item %}
-
 {% assign title="Call for Papers" %}
 {% assign link="/2009/Call_for_Papers.html" %}
 {% include 2009/menu_item %}
@@ -22,26 +14,10 @@
 {% assign link="/2009/Important_Dates.html" %}
 {% include 2009/menu_item %}
 
-{% assign title="Paper Submission" %}
-{% assign link="/2009/Paper_Submission.html" %}
-{% include 2009/menu_item %}
-
 {% assign title="Keynotes" %}
 {% assign link="/2009/Keynotes.html" %}
 {% include 2009/menu_item %}
 
-{% assign title="Venue" %}
-{% assign link="/2009/Venue.html" %}
-{% include 2009/menu_item %}
-
-{% assign title="Sponsors" %}
-{% assign link="/2009/Sponsors.html" %}
-{% include 2009/menu_item %}
-
 {% assign title="Committees" %}
 {% assign link="/2009/Committees.html" %}
-{% include 2009/menu_item %}
-
-{% assign title="Contacts" %}
-{% assign link="/2009/Contacts.html" %}
 {% include 2009/menu_item %}
