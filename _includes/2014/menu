@@ -2,6 +2,10 @@
 {% assign link="/2014/" %}
 {% include 2014/menu_item %}
 
+{% assign title="Proceedings" %}
+{% assign link="/2014/Proceedings.html" %}
+{% include 2014/menu_item %}
+
 {% assign title="Program" %}
 {% assign link="/2014/Program.html" %}
 {% include 2014/menu_item %}
