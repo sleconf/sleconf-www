@@ -2,6 +2,10 @@
 {% assign link="/2010/index.html" %}
 {% include 2010/menu_item %}
 
+{% assign title="Proceedings" %}
+{% assign link="/2010/Proceedings.html" %}
+{% include 2010/menu_item %}
+
 {% assign title="Keynotes" %}
 {% assign link="/2010/Keynotes.html" %}
 {% include 2010/menu_item %}
