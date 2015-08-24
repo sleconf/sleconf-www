@@ -52,8 +52,7 @@ for modular and reusable development of DSLs*
 [Alexander Bergmayr](http://www.big.tuwien.ac.at/staff/abergmayr),
 [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer),
 [Javier Troya](http://www.big.tuwien.ac.at/staff/jtroya) and [Manuel
-Wimmer](http://www.big.tuwien.ac.at/staff/mwimmer). *From Markup
-Languages to Modeling Languages Revisited* (Tool paper)
+Wimmer](http://www.big.tuwien.ac.at/staff/mwimmer). *XMLText: From XML Schema to Xtext* (Tool paper)
 * Gianni Rosa, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and
 Romina Eramo. *Managing Uncertainty in Bidirectional Model
 Transformations*
