@@ -9,6 +9,8 @@ published: true
 *(In presentation order.)*
 
 ## Language Development and Evaluation
+*(Monday 26 Oct 2015 10:30–12:00)*
+
 * Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
 Anthony Anjorin. **On Integrating Graphical and Textual Editors for a
 UML-based Domain Specific Language**
@@ -33,6 +35,8 @@ for modular and reusable development of DSLs**
     Domain-Specific Languages (DSLs) are now developed for a wide variety of domains to address specific concerns in the development of complex systems. When engineering new DSLs, it is likely that previous efforts spent on the development of other languages could be leveraged, especially when their domains overlap. However, legacy DSLs may not fit exactly the end user requirements and thus require further extension, restriction, or specialization. While current language workbenches provide import mechanisms, they usually lack an explicit support for such customizations of imported artifacts. In this paper, we propose an approach for building DSLs by safely assembling and customizing legacy DSLs artifacts. This approach is based on a dedicated type system that provides a reasoning layer for manipulating DSLs while ensuring type safety. On top of this type system, we provide an algebra of operators for extending, restricting, and assembling separate DSL artifacts. We implemented the type system and algebra into the Melange meta-language. We illustrate Melange through the modular definition of an executable modeling language for the Internet Of Things domain. We show how it eases the definition of new DSLs by maximizing the reuse of legacy artifacts without introducing issues in terms of performance, technical ecosystem compatibility, or generated code volume.
 
 ## Formal Modeling and Language Validation
+*(Monday 26 Oct 2015 13:30–15:00)*
+
 * Thomas Kühn, Stephan Böhme, [Sebastian
 Götz](http://www.inf.tu-dresden.de/~sebgoetz) and [Uwe
 Assmann](http://st.inf.tu-dresden.de/). **A Combined Formal Model for
@@ -62,6 +66,8 @@ Rewriting: Motivation & Overview**
     My main focus is to motivate and explain these techniques; their realisation is only sketched.
     
 ## Tools I
+*(Monday 26 Oct 2015 15:30–17:00)*
+
 * [Patrick Neubauer](http://www.big.tuwien.ac.at/staff/pneubaue),
 [Alexander Bergmayr](http://www.big.tuwien.ac.at/staff/abergmayr),
 [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer),
@@ -88,7 +94,18 @@ Transformation with the Nuthatch Tree-Walking Library** (Tool paper)
 
     Transformations are described as walks that proceed in programmer-defined  steps. Each step can perform actions based on observed properties of  current node and walk, and affect state associated with the walk and also  rewrite the walked tree. A step ends by walking to a different node in  the tree, following the tree branches, and the walk ends by returning to  the top.
 
+## Keynote
+*(Monday 26 Oct 2015 08:30–10:00)*
+
+*  Stephane Ducasse. **What's the value of an end user? Platforms and Research: The case of Pharo and Moose**
+
+    This talk will present the synergy arising from building platforms on top of which do our research. [RMOD our team](http://rmod.lille.inria.fr/) is developing two platforms: Pharo (a dynamic reflective object-oriented language supporting live programming) and [Moose](http://www.moosetechnology.org/) (an open-source software analysis platform). Developing platforms forces us to develop really usable systems. While some activities are more engineering than research per se, it is really interesting to deeply understand problems or impacts of certain design decisions. Developing platforms is rewarding because it is more a long term effort and ensures a degree of stability. Platforms also often exhibit non-linear growth that is really exciting. Finally this setup raises many interesting questions such as “What is the value in terms of citations or published papers of a couple of end-users”, or “Is it not really stupid not to work on latest hype language?” To try to open our minds, I will draw parallels with the notion of wealth of an ecosystem in biology. In the second part of the talk I will present some selected results around Pharo and Moose such as: automatic minimal system core generation, dynamic core updates, selector namespace, dependencies in past commit branches and automatic migration rule generation.
+    
+    
+
 ## Model and Program Transformation
+*(Tuesday 27 Oct 2015 10:30–12:00)*
+
 * Amine Benelallam, [Abel
 Gómez-Llana](http://www.emn.fr/z-info/atlanmod/index.php/User:Agomez),
 Massimo Tisi and [Jordi Cabot](http://jordicabot.com). **Distributed
@@ -114,6 +131,8 @@ Program Transformations**
 
 
 ## Model Execution and Verification
+*(Tuesday 27 Oct 2015 13:30–15:00)*
+
 * Florent Latombe, [Xavier Crégut](http://cregut.perso.enseeiht.fr),
 Benoit Combemale, Julien De Antoni and Marc Pantel. **Weaving Concurrency
 in eXecutable Domain-Specific Modeling Languages**
@@ -133,7 +152,8 @@ Rules for Solving Conflicts in Extended Feature Models**
     Software Product Line Engineering has introduced feature modeling as a domain analysis technique used to represent the variability of software products and decision-making scenarios. We present a model-based transformation approach to solve conflicts among configurations performed by different stakeholders on feature models. We propose the usage of a domain-specific language named CoCo to specify attributes as non-functional properties of features, and to describe business-related decision rules in terms of costs, time, and human resources. These specifications along with the stakeholders' configurations and the feature model are transformed into a constraint programming problem, on which decision rules are executed to find a non-conflicting set of solution configurations that are aligned to business objectives. We evaluate CoCo compositionality and model complexity simplification while using a set of motivating decision scenarios.
 
 
-## Tools II
+## Tools II and Closing
+*(Tuesday 27 Oct 2015 15:30–17:00)*
 * David Pearce. **The Whiley Rewrite Language (WyRL)** (Tool paper)
 
     The Whiley Rewrite Language (WyRL) is a standalone tool providing a domain-specific declarative rewrite language and code generator. The tool is currently used to generate a critical component of the Whiley verifying Compiler, namely the automated theorem prover. The tool automatically generates Java source code from a given rule set. The runtime library provides support for different heuristics to control aspects of the generated system, such as the order in which rewrite rules are applied.
