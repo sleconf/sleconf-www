@@ -8,7 +8,7 @@ published: true
 
 *(In presentation order.)*
 
-## Session: Language Development and Evaluation
+## Language Development and Evaluation
 * Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
 Anthony Anjorin. *On Integrating Graphical and Textual Editors for a
 UML-based Domain Specific Language*
@@ -24,7 +24,7 @@ Barais](http://olivier.barais.fr) and [Jean-Marc
 Jézéquel](http://www.irisa.fr/prive/jezequel). *Melange: a meta-language
 for modular and reusable development of DSLs*
 
-## Session: Fomal Modeling and Language Validation
+## Fomal Modeling and Language Validation
 * Thomas Kühn, Stephan Böhme, [Sebastian
 Götz](http://www.inf.tu-dresden.de/~sebgoetz) and [Uwe
 Assmann](http://st.inf.tu-dresden.de/). *A Combined Formal Model for
@@ -36,7 +36,7 @@ Validation of Domain-Specific Visual Languages*
 * Christoff Bürger. *Reference Attribute Grammar Controlled Graph
 Rewriting: Motivation & Overview*
 
-## Session: Tools I
+## Tools I
 * [Patrick Neubauer](http://www.big.tuwien.ac.at/staff/pneubaue),
 [Alexander Bergmayr](http://www.big.tuwien.ac.at/staff/abergmayr),
 [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer),
@@ -50,7 +50,7 @@ and Christian Glodt. *Designing Languages using Lightning* (Tool paper)
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/). *Analysis and
 Transformation with the Nuthatch Tree-Walking Library* (Tool paper)
 
-## Session: Model and Program Transformation
+## Model and Program Transformation
 * Amine Benelallam, [Abel
 Gómez-Llana](http://www.emn.fr/z-info/atlanmod/index.php/User:Agomez),
 Massimo Tisi and [Jordi Cabot](http://jordicabot.com). *Distributed
@@ -63,7 +63,7 @@ Transformations*
 * Nico Ritschel and Sebastian Erdweg. *Modular Capture Avoidance for
 Program Transformations*
 
-## Session: Model Execution and Verification
+## Model Execution and Verification
 * Florent Latombe, [Xavier Crégut](http://cregut.perso.enseeiht.fr),
 Benoit Combemale, Julien De Antoni and Marc Pantel. *Weaving Concurrency
 in eXecutable Domain-Specific Modeling Languages*
@@ -76,7 +76,7 @@ Baudry. *A Generative Approach for Rich Omniscient Model Debugging*
 Thüm](https://www.tu-braunschweig.de/isf/team/thuem). *Using Decision
 Rules for Solving Conflicts in Extended Feature Models*
 
-## Session: Tools II
+## Tools II
 * David Pearce. *The Whiley Rewrite Language (WyRL)* (Tool paper)
 
 * Nicolas Laurent and Kim Mens. *Parsing Expression Grammars Made Practical* (Tool paper)
