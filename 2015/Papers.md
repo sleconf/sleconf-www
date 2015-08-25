@@ -9,7 +9,7 @@ published: true
 *(In presentation order.)*
 
 ## Language Development and Evaluation
-* Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
+#### Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
 Anthony Anjorin. *On Integrating Graphical and Textual Editors for a
 UML-based Domain Specific Language*
 
