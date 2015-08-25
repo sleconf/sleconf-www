@@ -95,7 +95,7 @@ Transformation with the Nuthatch Tree-Walking Library** (Tool paper)
     Transformations are described as walks that proceed in programmer-defined  steps. Each step can perform actions based on observed properties of  current node and walk, and affect state associated with the walk and also  rewrite the walked tree. A step ends by walking to a different node in  the tree, following the tree branches, and the walk ends by returning to  the top.
 
 ## Keynote
-*(Monday 26 Oct 2015 08:30–10:00)*
+*(Tuesday 27 Oct 2015 08:30–10:00)*
 
 *  Stephane Ducasse. **What's the value of an end user? Platforms and Research: The case of Pharo and Moose**
 
