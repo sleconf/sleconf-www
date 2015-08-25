@@ -9,9 +9,11 @@ published: true
 *(In presentation order.)*
 
 ## Language Development and Evaluation
-#### Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
-Anthony Anjorin. *On Integrating Graphical and Textual Editors for a
-UML-based Domain Specific Language*
+* Salome Maro, Matthias Tichy, Lars Gelin, Jan-Philipp Steghöfer and
+Anthony Anjorin. **On Integrating Graphical and Textual Editors for a
+UML-based Domain Specific Language**
+
+     Domain Specific Languages (DSLs) are an established means of reducing the gap between problem and solution domains. DSLs increase productivity and improve quality as they can be tailored to exactly fit the needs of the problem to be solved. A DSL can have multiple types of notations, such as a textual notation or a graphical notation. In some cases, one of these notations for a DSL is enough but there are many cases where one notation does not suffice and there is a demand to support multiple notations for the same DSL. UML Profile, is one of the several approaches that one can use to define a DSL, however most UML tools only come with graphical editors. In this paper, we present our approach and industrial experience on integrating textual and graphical editors for a UML based DSL. This work was conducted as part of an explorative study at Ericsson. The main aim of the study was to find out how to introduce a textual editor to an already existing UML based DSL in an Eclipse environment. We report on the challenges of integrating textual and graphical editors in practice, our chosen approach, specific constraints and requirements of the case study.
 
 * Eric Umuhoza, [Marco Brambilla](http://home.dei.polimi.it/mbrambil/),
 [Jordi Cabot](http://jordicabot.com) and Davide Ripamonti. *An Empirical
