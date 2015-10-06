@@ -116,8 +116,7 @@ Model-to-Model Transformation with ATL on MapReduce**
     In this paper, we propose an approach to automatically distribute the execution of model transformations written in a popular MT language, ATL, on top of a well-known distributed programming model, MapReduce. We show how the execution semantics of ATL can be aligned with the MapReduce computation model. We describe the extensions to the ATL transformation engine to enable distribution, and we experimentally demonstrate the scalability of this solution in a reverse-engineering scenario.
 
 
-* Gianni Rosa, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and
-Romina Eramo. **Managing Uncertainty in Bidirectional Model
+* Romina Eramo, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and Gianni Rosa. **Managing Uncertainty in Bidirectional Model
 Transformations**
 
     In Model-Driven Engineering bidirectionality in transformations is regarded as a key mechanism. Recent approaches to non-deterministic transformations have been proposed for dealing with non-bijectivity. Among them, the JTL language is based on a relational model transformation engine which restores consistency by returning all admissible models. This can be regarded as an uncertainty reducing process: the unknown uncertainty at design-time is translated into known uncertainty at run-time by generating multiple choices. Unfortunately, little changes in a model usually correspond to a combinatorial explosion of the solution space. This paper proposes to represent the multiple solutions in a intensional manner by adopting a model for uncertainty. The technique is applied to JTL demonstrating the advantages of the proposal.
