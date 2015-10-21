@@ -1,6 +1,6 @@
 ---
 layout: default2016
-title: Call for Papers
+title: Instructions for Authors
 published: true
 ---
 
