@@ -10,29 +10,19 @@ published: true
 
 ### PC co-chairs
 
-* TBA
+* Emilie Balland
+* [D&aacute;niel Varr&oacute;(http://home.mit.bme.hu/~varro/)
+
+### Artifact Evaluation Chairs
+
+* [Vadim Zaytsev](http://www.grammarware.net)
+* [Dimitris Kolovos](https://www-users.cs.york.ac.uk/dkolovos/)
 
 ### Program committee
 
 TBA
 
-### Workshop organization chair
-
-* TBA
-
-### Panel organization chair
-
-* TBA
-
 ### Publicity chairs
-
-* TBA
-
-### Publication chair
-
-* TBA
-
-### Local organization chair
 
 * TBA
 
