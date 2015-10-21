@@ -11,7 +11,7 @@ published: true
 ### PC co-chairs
 
 * Emilie Balland
-* [D&aacute;niel Varr&oacute;(http://home.mit.bme.hu/~varro/)
+* [D&aacute;niel Varr&oacute;](http://home.mit.bme.hu/~varro/)
 
 ### Artifact Evaluation Chairs
 
