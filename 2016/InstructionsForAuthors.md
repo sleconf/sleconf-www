@@ -23,7 +23,7 @@ Note that by default the SIGPLAN Conference Format templates produce papers in 9
 
 #### Page Limit
 
-To ensure that papers stay focused on their core contributions, submissions of research papers should be no more than 12 pages, excluding bibliographic references. Tool papers are limited to 4 pages, including bibliographic references.
+To ensure that papers stay focused on their core contributions, submissions of research papers should be no more than 12 pages, excluding bibliographic references. Tool papers are limited to 4 pages, excluding bibliographic references and tool demonstration outline (max. 4 pages).
 
 #### Publication (Digital Library Early Access Warning)
 
