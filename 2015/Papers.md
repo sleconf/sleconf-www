@@ -98,7 +98,7 @@ Wimmer](http://www.big.tuwien.ac.at/staff/mwimmer). **XMLText: From XML Schema t
 
    A multitude of Domain-Specific Languages (DSLs) have been implemented with XML Schemas. While such DSLs are well adopted and flexible, they miss modern DSL editor functionality. Moreover, since XML is primarily designed as a machine-processible format, artifacts defined with XML-based DSLs lack comprehensibility and, therefore, maintainability.
 
-    In order to tackle these shortcomings, we propose a bridge between the XML Schema Definition (XSD) language and text-based metamodeling languages. This bridge exploits existing seams between these two worlds and closes identified gaps. The resulting approach is able to generate Xtext-based editors from XSDs providing powerful editor functionality, customization options for the textual concrete syntax style, and round-trip transformations enabling the exchange of data between these two worlds.
+   In order to tackle these shortcomings, we propose a bridge between the XML Schema Definition (XSD) language and text-based metamodeling languages. This bridge exploits existing seams between these two worlds and closes identified gaps. The resulting approach is able to generate Xtext-based editors from XSDs providing powerful editor functionality, customization options for the textual concrete syntax style, and round-trip transformations enabling the exchange of data between these two worlds.
 
     We evaluate our approach by a case study on TOSCA, which is an XML-based standard for defining Cloud deployments. The results show that our approach enables bridging XMLware with modelware and grammarware in several ways going beyond existing approaches and allows the automated generation of editors that are at least equivalent to editors manually built for XML-based languages.
 
@@ -112,6 +112,8 @@ and Christian Glodt. **Designing Languages using Lightning** (Tool paper)
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/). **Analysis and
 Transformation with the Nuthatch Tree-Walking Library** (Tool paper)
 
+    **Distinguished Research Paper Award**
+    
     Nuthatch is a system for traversing, collecting information from, and  rewriting trees, based on the idea of tree walking. The main application  is software analysis and transformation. Nuthatch traversals are  non-recursive by default and independent of the concrete tree  representation. We provide an extensible library, Nuthatch/J, for doing  tree walking in Java, with adapters for interfacing with popular software  transformation tools like Stratego/XT and Rascal.  
 
     Transformations are described as walks that proceed in programmer-defined  steps. Each step can perform actions based on observed properties of  current node and walk, and affect state associated with the walk and also  rewrite the walked tree. A step ends by walking to a different node in  the tree, following the tree branches, and the walk ends by returning to  the top.
@@ -138,9 +140,10 @@ Model-to-Model Transformation with ATL on MapReduce**
     In this paper, we propose an approach to automatically distribute the execution of model transformations written in a popular MT language, ATL, on top of a well-known distributed programming model, MapReduce. We show how the execution semantics of ATL can be aligned with the MapReduce computation model. We describe the extensions to the ATL transformation engine to enable distribution, and we experimentally demonstrate the scalability of this solution in a reverse-engineering scenario.
 
 
-* Romina Eramo, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and Gianni Rosa. **Managing Uncertainty in Bidirectional Model
-Transformations**
+* Romina Eramo, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and Gianni Rosa. **Managing Uncertainty in Bidirectional Model Transformations**
 
+    **Distinguished Research Paper Award**
+    
     In Model-Driven Engineering bidirectionality in transformations is regarded as a key mechanism. Recent approaches to non-deterministic transformations have been proposed for dealing with non-bijectivity. Among them, the JTL language is based on a relational model transformation engine which restores consistency by returning all admissible models. This can be regarded as an uncertainty reducing process: the unknown uncertainty at design-time is translated into known uncertainty at run-time by generating multiple choices. Unfortunately, little changes in a model usually correspond to a combinatorial explosion of the solution space. This paper proposes to represent the multiple solutions in a intensional manner by adopting a model for uncertainty. The technique is applied to JTL demonstrating the advantages of the proposal.
 
 * Nico Ritschel and Sebastian Erdweg. **Modular Capture Avoidance for
