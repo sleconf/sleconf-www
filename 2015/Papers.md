@@ -96,9 +96,8 @@ Rewriting: Motivation & Overview**
 [Javier Troya](http://www.big.tuwien.ac.at/staff/jtroya) and [Manuel
 Wimmer](http://www.big.tuwien.ac.at/staff/mwimmer). **XMLText: From XML Schema to Xtext** (Tool paper)
 
-   A multitude of Domain-Specific Languages (DSLs) have been implemented with XML Schemas. While such DSLs are well adopted and flexible, they miss modern DSL editor functionality. Moreover, since XML is primarily designed as a machine-processible format, artifacts defined with XML-based DSLs lack comprehensibility and, therefore, maintainability.
-
-   In order to tackle these shortcomings, we propose a bridge between the XML Schema Definition (XSD) language and text-based metamodeling languages. This bridge exploits existing seams between these two worlds and closes identified gaps. The resulting approach is able to generate Xtext-based editors from XSDs providing powerful editor functionality, customization options for the textual concrete syntax style, and round-trip transformations enabling the exchange of data between these two worlds.
+    A multitude of Domain-Specific Languages (DSLs) have been implemented with XML Schemas. While such DSLs are well adopted and flexible, they miss modern DSL editor functionality. Moreover, since XML is primarily designed as a machine-processible format, artifacts defined with XML-based DSLs lack comprehensibility and, therefore, maintainability.
+    In order to tackle these shortcomings, we propose a bridge between the XML Schema Definition (XSD) language and text-based metamodeling languages. This bridge exploits existing seams between these two worlds and closes identified gaps. The resulting approach is able to generate Xtext-based editors from XSDs providing powerful editor functionality, customization options for the textual concrete syntax style, and round-trip transformations enabling the exchange of data between these two worlds.
 
     We evaluate our approach by a case study on TOSCA, which is an XML-based standard for defining Cloud deployments. The results show that our approach enables bridging XMLware with modelware and grammarware in several ways going beyond existing approaches and allows the automated generation of editors that are at least equivalent to editors manually built for XML-based languages.
 
