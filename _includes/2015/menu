@@ -2,7 +2,7 @@
 {% assign link="/2015/" %}
 {% include 2015/menu_item %}
 
-{% assign title="Accepted Papers" %}
+{% assign title="Papers and Awards" %}
 {% assign link="/2015/Papers" %}
 {% include 2015/menu_item %}
 
