@@ -8,26 +8,26 @@ published: true
 
 ## Award Winners SLE 2015
 
-#### Distinguished Research Paper Award
+##### Distinguished Research Paper Award
 
   * **Romina Eramo, Alfonso Pierantonio and Gianni Rosa**. *Managing Uncertainty in Bidirectional Model
 Transformations*
 
-#### Distinguished Tool Paper Award
+##### Distinguished Tool Paper Award
 
   * **Anya Helene Bagge**. *Analysis and Transformation with the Nuthatch Tree-Walking Library*
 
-#### Best Reviewer Award
+##### Best Reviewer Award
 
   * **Zhenjiang Hu**
 
-#### Best Presentation Award
+##### Best Presentation Award
 
   * **Sebastian Erdweg**. *Modular Capture Avoidance for
 Program Transformations* (paper with Nico Ritschel)
 
 ## Papers
-All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2814251&coll=DL&dl=GUIDE&CFID=690637045&CFTOKEN=88375436).
+All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2814251).
 
 *(In presentation order.)*
 
