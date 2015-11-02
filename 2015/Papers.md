@@ -6,24 +6,25 @@ published: true
 
 # SLE 2015 Accepted Papers and Best Papers
 
-## Award Winners
+## Award Winners SLE 2015
 
-Winner of the SLE 2015 Distinguished Research Paper Award is
+#### Distinguished Research Paper Award
 
-  * Romina Eramo, Alfonso Pierantonio and Gianni Rosa. **Managing Uncertainty in Bidirectional Model
-Transformations**
+  * **Romina Eramo, Alfonso Pierantonio and Gianni Rosa**. *Managing Uncertainty in Bidirectional Model
+Transformations*
 
-Winner of the SLE 2015 Distinguished Tool Paper Award is
+#### Distinguished Tool Paper Award
 
-  * Anya Helene Bagge. **Analysis and Transformation with the Nuthatch Tree-Walking Library**
+  * **Anya Helene Bagge**. *Analysis and Transformation with the Nuthatch Tree-Walking Library*
 
-Winner of the SLE 2015 Best Reviewer Award is
+#### Best Reviewer Award
 
-  * Zhenjiang Hu
+  * **Zhenjiang Hu**
 
-Winner of the SLE 2015 Best Presentation Award is
+#### Best Presentation Award
 
-  * Sebastian Erdweg
+  * **Sebastian Erdweg**. *Modular Capture Avoidance for
+Program Transformations* (paper with Nico Ritschel)
 
 ## Papers
 All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2814251&coll=DL&dl=GUIDE&CFID=690637045&CFTOKEN=88375436).
