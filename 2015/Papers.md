@@ -23,7 +23,7 @@ Winner of the SLE 2015 Best Reviewer Award is
 
 Winner of the SLE 2015 Best Presentation Award is
 
-  * TBD
+  * Sebastian Erdweg
 
 ## Papers
 All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2814251&coll=DL&dl=GUIDE&CFID=690637045&CFTOKEN=88375436).
@@ -56,37 +56,35 @@ for modular and reusable development of DSLs**
 
     Domain-Specific Languages (DSLs) are now developed for a wide variety of domains to address specific concerns in the development of complex systems. When engineering new DSLs, it is likely that previous efforts spent on the development of other languages could be leveraged, especially when their domains overlap. However, legacy DSLs may not fit exactly the end user requirements and thus require further extension, restriction, or specialization. While current language workbenches provide import mechanisms, they usually lack an explicit support for such customizations of imported artifacts. In this paper, we propose an approach for building DSLs by safely assembling and customizing legacy DSLs artifacts. This approach is based on a dedicated type system that provides a reasoning layer for manipulating DSLs while ensuring type safety. On top of this type system, we provide an algebra of operators for extending, restricting, and assembling separate DSL artifacts. We implemented the type system and algebra into the Melange meta-language. We illustrate Melange through the modular definition of an executable modeling language for the Internet Of Things domain. We show how it eases the definition of new DSLs by maximizing the reuse of legacy artifacts without introducing issues in terms of performance, technical ecosystem compatibility, or generated code volume.
 
-## Formal Modeling and Language Validation
+## Model and Program Transformation
 *(Monday 26 Oct 2015 13:30–15:00)*
 
-* Thomas Kühn, Stephan Böhme, [Sebastian
-Götz](http://www.inf.tu-dresden.de/~sebgoetz) and [Uwe
-Assmann](http://st.inf.tu-dresden.de/). **A Combined Formal Model for
-Relational Context-Dependent Roles**
+* Amine Benelallam, [Abel
+Gómez-Llana](http://www.emn.fr/z-info/atlanmod/index.php/User:Agomez),
+Massimo Tisi and [Jordi Cabot](http://jordicabot.com). **Distributed
+Model-to-Model Transformation with ATL on MapReduce**
 
-    Role-based modeling has been investigated for over 35 years as a promising paradigm to model complex, dynamic systems. Although current software systems are characterized by increasing complexity and context-dependence, all this research had almost no influence on current software development practice, still being discussed in recent literature. One reason for this is the lack of a coherent, comprehensive, readily applicable notion of roles. Researchers focused either on relational roles or context-dependent roles rather then combining both natures. Currently, there is no role-based modeling language sufficiently incorporating both the relational and context-dependent nature of roles together with the various proposed constraints. Hence, this paper formalizes a full-fledged role-based modeling language supporting both natures. To show its sufficiency and adequacy, a real world example is employed.
+    Efficient processing of very large models is a key requirement for the adoption of Model-Driven Engineering (MDE) in some industrial contexts. One of the central operations in MDE is rule-based model transformation (MT). It is used to specify manipulation operations over structured data coming in the form of model graph. However, being based on computationally expensive operations like subgraph isomorphism, MT tools are facing issues on both memory occupancy and execution time while dealing with the increasing model size and complexity. One way to overcome these issues is to exploit the wide availability of distributed clusters in the Cloud for the distributed execution of MT.
+
+    In this paper, we propose an approach to automatically distribute the execution of model transformations written in a popular MT language, ATL, on top of a well-known distributed programming model, MapReduce. We show how the execution semantics of ATL can be aligned with the MapReduce computation model. We describe the extensions to the ATL transformation engine to enable distribution, and we experimentally demonstrate the scalability of this solution in a reverse-engineering scenario.
+
+
+* Romina Eramo, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and Gianni Rosa. **Managing Uncertainty in Bidirectional Model Transformations**
+
+    **Distinguished Research Paper Award**
     
-* Jesús J. López-Fernández, Esther Guerra and Juan de Lara. **Example-based
-Validation of Domain-Specific Visual Languages**
+    In Model-Driven Engineering bidirectionality in transformations is regarded as a key mechanism. Recent approaches to non-deterministic transformations have been proposed for dealing with non-bijectivity. Among them, the JTL language is based on a relational model transformation engine which restores consistency by returning all admissible models. This can be regarded as an uncertainty reducing process: the unknown uncertainty at design-time is translated into known uncertainty at run-time by generating multiple choices. Unfortunately, little changes in a model usually correspond to a combinatorial explosion of the solution space. This paper proposes to represent the multiple solutions in a intensional manner by adopting a model for uncertainty. The technique is applied to JTL demonstrating the advantages of the proposal.
 
-    The definition of Domain-Specific Languages (DSLs) is a recurrent activity in Model-Driven Engineering. However, their construction is many times an ad-hoc process, partly due to the lack of tools for a proper engineering of DSLs, which should enable domain experts to play an active role. 
+* Nico Ritschel and Sebastian Erdweg. **Modular Capture Avoidance for
+Program Transformations**
 
-    In this paper, our focus is on the validation of meta-models for visual DSLs. For this purpose, we propose a language and tool support for describing properties that instances of meta-models should meet. Then, our system uses a model finder to produce example models, enriched with a graphical concrete syntax, that confirm or refute the assumptions of the meta-model developer. 
-
-    Our language complements metaBEST, a framework for the validation and verification of meta-models that includes two other languages for unit testing and 
-specification-based testing of meta-models. 
-
-    A salient feature of our approach is that it fosters interaction with domain experts by the use, processing and creation of informal drawings constructed in editors liked yED or Dia. We assess the usefulness of the approach in the validation of a DSL for house blueprints, with the participation of 26 4th year computer science undergraduate students.
-
-* Christoff Bürger. **Reference Attribute Grammar Controlled Graph
-Rewriting: Motivation & Overview**
-
-    Reference attribute grammars are a well-known language engineering technique for the implementation of semantic analyses. Reference attributes provide declarative means to extend abstract syntax trees to graphs and analyse such graphs; they are well-suited to deduce and reason about abstract syntax graphs. Efficient attribute re-evaluation in case of abstract syntax graph changes and a systematic integration of attribute-based analyses with further rewrite- based transformations are open research problems however. 
-
-    To solve these problems, I present a novel incremental syntax-directed compiler-compiler technique that seamlessly combines reference attribute grammars and graph rewriting. The presented technique not only permits incremental refer- ence attribute evaluation, but also the reuse of analyses to ease the specification of, and guide, rewrite-based transfor- mations. It enables efficient, mutually dependent, memoized analyses and transformations. 
-
-    My main focus is to motivate and explain these techniques; their realisation is only sketched.
+    **Best Presentation Award**
     
+    The application of program transformations and refactorings involves the risk of capturing variables, which may break the intended semantics of the transformed code. One way to resolve variable capture is by renaming of the involved identifiers. However, in a modular context, the renaming of exported declarations is undesirable (affecting a module's clients), and the renaming of imported declarations is impossible (requiring changes to third-party modules).
+
+    We present an algorithm name-fix that detects and eliminates variable capture modularly. We extend a previous non-modular version of name-fix in order to (i) minimize renamings of exported declarations, (ii) propagate necessary renamings of exported declarations to clients, and (iii) avoid renamings of imported declarations altogether. Together with support for transitive name bindings and conflicting declarations, our extensions to name-fix enable the application to real-world languages that feature separate compilation. To demonstrate the applicability of name-fix, we use it to modularly resolve variable capture for optimizations, refactorings, and desugarings of Lightweight Java.
+
+
 ## Tools I
 *(Monday 26 Oct 2015 15:30–17:00)*
 
@@ -119,34 +117,38 @@ Transformation with the Nuthatch Tree-Walking Library** (Tool paper)
 
     This talk will present the synergy arising from building platforms on top of which do our research. [RMOD our team](http://rmod.lille.inria.fr/) is developing two platforms: Pharo (a dynamic reflective object-oriented language supporting live programming) and [Moose](http://www.moosetechnology.org/) (an open-source software analysis platform). Developing platforms forces us to develop really usable systems. While some activities are more engineering than research per se, it is really interesting to deeply understand problems or impacts of certain design decisions. Developing platforms is rewarding because it is more a long term effort and ensures a degree of stability. Platforms also often exhibit non-linear growth that is really exciting. Finally this setup raises many interesting questions such as “What is the value in terms of citations or published papers of a couple of end-users”, or “Is it not really stupid not to work on latest hype language?” To try to open our minds, I will draw parallels with the notion of wealth of an ecosystem in biology. In the second part of the talk I will present some selected results around Pharo and Moose such as: automatic minimal system core generation, dynamic core updates, selector namespace, dependencies in past commit branches and automatic migration rule generation.
     
-    
 
-## Model and Program Transformation
+## Formal Modeling and Language Validation
 *(Tuesday 27 Oct 2015 10:30–12:00)*
 
-* Amine Benelallam, [Abel
-Gómez-Llana](http://www.emn.fr/z-info/atlanmod/index.php/User:Agomez),
-Massimo Tisi and [Jordi Cabot](http://jordicabot.com). **Distributed
-Model-to-Model Transformation with ATL on MapReduce**
+* Thomas Kühn, Stephan Böhme, [Sebastian
+Götz](http://www.inf.tu-dresden.de/~sebgoetz) and [Uwe
+Assmann](http://st.inf.tu-dresden.de/). **A Combined Formal Model for
+Relational Context-Dependent Roles**
 
-    Efficient processing of very large models is a key requirement for the adoption of Model-Driven Engineering (MDE) in some industrial contexts. One of the central operations in MDE is rule-based model transformation (MT). It is used to specify manipulation operations over structured data coming in the form of model graph. However, being based on computationally expensive operations like subgraph isomorphism, MT tools are facing issues on both memory occupancy and execution time while dealing with the increasing model size and complexity. One way to overcome these issues is to exploit the wide availability of distributed clusters in the Cloud for the distributed execution of MT.
-
-    In this paper, we propose an approach to automatically distribute the execution of model transformations written in a popular MT language, ATL, on top of a well-known distributed programming model, MapReduce. We show how the execution semantics of ATL can be aligned with the MapReduce computation model. We describe the extensions to the ATL transformation engine to enable distribution, and we experimentally demonstrate the scalability of this solution in a reverse-engineering scenario.
-
-
-* Romina Eramo, [Alfonso Pierantonio](http://www.di.univaq.it/alfonso) and Gianni Rosa. **Managing Uncertainty in Bidirectional Model Transformations**
-
-    **Distinguished Research Paper Award**
+    Role-based modeling has been investigated for over 35 years as a promising paradigm to model complex, dynamic systems. Although current software systems are characterized by increasing complexity and context-dependence, all this research had almost no influence on current software development practice, still being discussed in recent literature. One reason for this is the lack of a coherent, comprehensive, readily applicable notion of roles. Researchers focused either on relational roles or context-dependent roles rather then combining both natures. Currently, there is no role-based modeling language sufficiently incorporating both the relational and context-dependent nature of roles together with the various proposed constraints. Hence, this paper formalizes a full-fledged role-based modeling language supporting both natures. To show its sufficiency and adequacy, a real world example is employed.
     
-    In Model-Driven Engineering bidirectionality in transformations is regarded as a key mechanism. Recent approaches to non-deterministic transformations have been proposed for dealing with non-bijectivity. Among them, the JTL language is based on a relational model transformation engine which restores consistency by returning all admissible models. This can be regarded as an uncertainty reducing process: the unknown uncertainty at design-time is translated into known uncertainty at run-time by generating multiple choices. Unfortunately, little changes in a model usually correspond to a combinatorial explosion of the solution space. This paper proposes to represent the multiple solutions in a intensional manner by adopting a model for uncertainty. The technique is applied to JTL demonstrating the advantages of the proposal.
+* Jesús J. López-Fernández, Esther Guerra and Juan de Lara. **Example-based
+Validation of Domain-Specific Visual Languages**
 
-* Nico Ritschel and Sebastian Erdweg. **Modular Capture Avoidance for
-Program Transformations**
+    The definition of Domain-Specific Languages (DSLs) is a recurrent activity in Model-Driven Engineering. However, their construction is many times an ad-hoc process, partly due to the lack of tools for a proper engineering of DSLs, which should enable domain experts to play an active role. 
 
-    The application of program transformations and refactorings involves the risk of capturing variables, which may break the intended semantics of the transformed code. One way to resolve variable capture is by renaming of the involved identifiers. However, in a modular context, the renaming of exported declarations is undesirable (affecting a module's clients), and the renaming of imported declarations is impossible (requiring changes to third-party modules).
+    In this paper, our focus is on the validation of meta-models for visual DSLs. For this purpose, we propose a language and tool support for describing properties that instances of meta-models should meet. Then, our system uses a model finder to produce example models, enriched with a graphical concrete syntax, that confirm or refute the assumptions of the meta-model developer. 
 
-    We present an algorithm name-fix that detects and eliminates variable capture modularly. We extend a previous non-modular version of name-fix in order to (i) minimize renamings of exported declarations, (ii) propagate necessary renamings of exported declarations to clients, and (iii) avoid renamings of imported declarations altogether. Together with support for transitive name bindings and conflicting declarations, our extensions to name-fix enable the application to real-world languages that feature separate compilation. To demonstrate the applicability of name-fix, we use it to modularly resolve variable capture for optimizations, refactorings, and desugarings of Lightweight Java.
+    Our language complements metaBEST, a framework for the validation and verification of meta-models that includes two other languages for unit testing and 
+specification-based testing of meta-models. 
 
+    A salient feature of our approach is that it fosters interaction with domain experts by the use, processing and creation of informal drawings constructed in editors liked yED or Dia. We assess the usefulness of the approach in the validation of a DSL for house blueprints, with the participation of 26 4th year computer science undergraduate students.
+
+* Christoff Bürger. **Reference Attribute Grammar Controlled Graph
+Rewriting: Motivation & Overview**
+
+    Reference attribute grammars are a well-known language engineering technique for the implementation of semantic analyses. Reference attributes provide declarative means to extend abstract syntax trees to graphs and analyse such graphs; they are well-suited to deduce and reason about abstract syntax graphs. Efficient attribute re-evaluation in case of abstract syntax graph changes and a systematic integration of attribute-based analyses with further rewrite- based transformations are open research problems however. 
+
+    To solve these problems, I present a novel incremental syntax-directed compiler-compiler technique that seamlessly combines reference attribute grammars and graph rewriting. The presented technique not only permits incremental refer- ence attribute evaluation, but also the reuse of analyses to ease the specification of, and guide, rewrite-based transfor- mations. It enables efficient, mutually dependent, memoized analyses and transformations. 
+
+    My main focus is to motivate and explain these techniques; their realisation is only sketched.
+ 
 
 ## Model Execution and Verification
 *(Tuesday 27 Oct 2015 13:30–15:00)*
