@@ -91,15 +91,15 @@ Program Transformations**
 
 * [Patrick Neubauer](http://www.big.tuwien.ac.at/staff/pneubaue), [Alexander Bergmayr](http://www.big.tuwien.ac.at/staff/abergmayr), [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer), [Javier Troya](http://www.big.tuwien.ac.at/staff/jtroya) and [Manuel Wimmer](http://www.big.tuwien.ac.at/staff/mwimmer). **XMLText: From XML Schema to Xtext** (Tool paper)
 
-   A multitude of Domain-Specific Languages (DSLs) have been implemented with XML Schemas. While such DSLs are well adopted and flexible, they miss modern DSL editor functionality. Moreover, since XML is primarily designed as a machine-processible format, artifacts defined with XML-based DSLs lack comprehensibility and, therefore, maintainability.
-   In order to tackle these shortcomings, we propose a bridge between the XML Schema Definition (XSD) language and text-based metamodeling languages. This bridge exploits existing seams between these two worlds and closes identified gaps. The resulting approach is able to generate Xtext-based editors from XSDs providing powerful editor functionality, customization options for the textual concrete syntax style, and round-trip transformations enabling the exchange of data between these two worlds.
-   We evaluate our approach by a case study on TOSCA, which is an XML-based standard for defining Cloud deployments. The results show that our approach enables bridging XMLware with modelware and grammarware in several ways going beyond existing approaches and allows the automated generation of editors that are at least equivalent to editors manually built for XML-based languages.
+    A multitude of Domain-Specific Languages (DSLs) have been implemented with XML Schemas. While such DSLs are well adopted and flexible, they miss modern DSL editor functionality. Moreover, since XML is primarily designed as a machine-processible format, artifacts defined with XML-based DSLs lack comprehensibility and, therefore, maintainability.
+    In order to tackle these shortcomings, we propose a bridge between the XML Schema Definition (XSD) language and text-based metamodeling languages. This bridge exploits existing seams between these two worlds and closes identified gaps. The resulting approach is able to generate Xtext-based editors from XSDs providing powerful editor functionality, customization options for the textual concrete syntax style, and round-trip transformations enabling the exchange of data between these two worlds.
+    We evaluate our approach by a case study on TOSCA, which is an XML-based standard for defining Cloud deployments. The results show that our approach enables bridging XMLware with modelware and grammarware in several ways going beyond existing approaches and allows the automated generation of editors that are at least equivalent to editors manually built for XML-based languages.
 
 * [Loïc Gammaitoni](http://loic.gammaitoni.free.fr), [Pierre
 Kelsen](http://wwwen.uni.lu/recherche/fstc/laboratory_of_advanced_software_systems_lassy/members/pierre_kelsen)
 and Christian Glodt. **Designing Languages using Lightning** (Tool paper)
 
-  Modelling languages are defined by specifying their abstract syntax, concrete syntax and semantics. In the Lightning tool the definition of all these language components is based on the lightweight formal language Alloy. Lightning makes use of the powerful automatic analysis features of Alloy to allow language designers to develop and validate the definition of a modelling language in an incremental fashion. By providing immediate visual feedback, it allows errors in the language definition to be quickly identified and corrected. Furthermore Lightning introduces a novel interpretation mechanism that allows efficient execution of transformations used in the language definition. We illustrate the use of the tool on the language of structured business processes.
+    Modelling languages are defined by specifying their abstract syntax, concrete syntax and semantics. In the Lightning tool the definition of all these language components is based on the lightweight formal language Alloy. Lightning makes use of the powerful automatic analysis features of Alloy to allow language designers to develop and validate the definition of a modelling language in an incremental fashion. By providing immediate visual feedback, it allows errors in the language definition to be quickly identified and corrected. Furthermore Lightning introduces a novel interpretation mechanism that allows efficient execution of transformations used in the language definition. We illustrate the use of the tool on the language of structured business processes.
 
 
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/). **Analysis and
@@ -175,6 +175,7 @@ Rules for Solving Conflicts in Extended Feature Models**
 
 ## Tools II and Closing
 *(Tuesday 27 Oct 2015 15:30–17:00)*
+
 * David Pearce. **The Whiley Rewrite Language (WyRL)** (Tool paper)
 
     The Whiley Rewrite Language (WyRL) is a standalone tool providing a domain-specific declarative rewrite language and code generator. The tool is currently used to generate a critical component of the Whiley verifying Compiler, namely the automated theorem prover. The tool automatically generates Java source code from a given rule set. The runtime library provides support for different heuristics to control aspects of the generated system, such as the order in which rewrite rules are applied.
