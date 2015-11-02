@@ -12,7 +12,7 @@ SLE's mission is to fuse several communities that have traditionally looked at s
 
 SLE's proceedings are published by the ACM and will be available in the ACM Digital Library.
 
-**[SLE 2016](http://www.sleconf.org/2016/) will be co-located with SPLASH 2016 at the Mövenpick Hotel, Amsterdam, Netherlands. See you there!**
+The next edition, **[SLE 2016](http://www.sleconf.org/2016/)**, will be co-located with [SPLASH 2016](http://2016.splashcon.org/) at the [Mövenpick Hotel, Amsterdam, Netherlands](http://2016.splashcon.org/venue/movenpick-amsterdam). See you there!
 
 ### Award Sponsors
 
