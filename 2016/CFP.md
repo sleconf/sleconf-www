@@ -60,7 +60,7 @@ Authors of distinguished papers from the conference will be invited to revise an
 
 ### More Information
 
-For additional information, clarification, or answers to questions please contact the Program Chair. 
+For additional information, clarification, or answers to questions please contact the Program Chairs. 
 
 
 

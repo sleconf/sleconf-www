@@ -8,7 +8,7 @@ For fairness reasons, all submitted papers should conform to the formatting inst
 
 #### Submission Site
 
-Please take a moment to read the instructions below before using the [submission site](TODO).
+Please take a moment to read the instructions below before using the submission site [https://sle16.hotcrp.com/](https://sle16.hotcrp.com/).
 Note that camera ready versions will be collected by Conference Publishing Consulting.
 
 #### Concurrent Submissions
