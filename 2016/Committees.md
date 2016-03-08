@@ -4,6 +4,7 @@ title: Committees
 published: true
 ---
 
+
 ### General chair
 
 * [Tijs van der Storm](http://homepages.cwi.nl/~storm)
@@ -22,9 +23,9 @@ published: true
 
 TBA
 
-### Publicity chairs
+### Publicity chair
 
-* TBA
+* [Andrei Chiș](www.andreichis.com)
 
 ### Steering committee members
 
