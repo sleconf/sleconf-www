@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 ### General chair
 
 * [Tijs van der Storm](http://homepages.cwi.nl/~storm)
@@ -60,6 +61,7 @@ published: true
 * Manuel Wimmer, Vienna University of Technology, Austria
 * Tian Zhang
 * Bernhard Schätz
+* Gabriele Taentzer
 
 ### Publicity chair
 
