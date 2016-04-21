@@ -76,6 +76,6 @@ published: true
 * Tony Sloane 
 * Eric Van Wyk
 * Gorel Hedin
-* Jurgen Vinju
+* Jurgen Vinju (chair)
 * Krzysztof Czarnecki 
-* Mark van den Brand (chair)
+* Mark van den Brand 
