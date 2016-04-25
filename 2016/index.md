@@ -4,7 +4,7 @@ title: Welcome
 published: true
 ---
 
-The 9th International Conference on Software Language Engineering (SLE) is devoted to the principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution. 
+The 9th ACM SIGPLAN International Conference on Software Language Engineering (SLE) is devoted to the principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution. 
 
 SLE 2016 is to be held in October 2016, co-located with [SPLASH](http://2016.splashcon.org/) and [GPCE](http://program-transformation.org/GPCE16) in Amsterdam, the Netherlands. More details will be announced as they become available during the course of 2015.
 
