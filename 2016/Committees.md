@@ -23,45 +23,46 @@ published: true
 ### Program committee
 
 * Anya Helene Bagge, University of Bergen, Norway
-* Ruth Breu
+* Ruth Breu, University of Innsbruck, Austria
 * Jordi Cabot, ICREA, Spain
-* Marsha Chechik
+* Marsha Chechik, University of Toronto, Canada
 * Marcus Denker, INRIA Lille, France
 * Davide Di Ruscio, University of L’Aquila, Italy
 * Martin Erwig, Oregon State University, USA
 * Bernd Fischer, Stellenbosch University, South Africa
-* Sebastian Gerard
+* Sebastian Gerard, CEA, France
 * Jeremy Gibbons, University of Oxford, UK
-* Holger Giese
-* Martin Gogolla
+* Holger Giese, Hasso-Plattner Institute, Germany
+* Martin Gogolla, University of Bremen, Germany
 * Jeff Gray, University of Alabama, USA
 * Esther Guerra, Autonomous University of Madrid, Spain
-* Gorel Hedin
+* Gorel Hedin, Lund University, Sweden
 * Michael Homer, Victoria University of Wellington, New Zealand
-* Dimitris Kolovos
+* Dimitris Kolovos, University of York, UK
 * Julia Lawall, Inria/LIP6, France
 * Ralf Lämmel, University of Koblenz-Landau, Germany
+* Tihamer Levendovszky, Microsoft, USA
 * Heather Miller, EPFL, Switzerland 
-* Pierre-Etienne Moreau
-* Gunter Mussbacher
+* Pierre-Etienne Moreau, Loria, France
+* Gunter Mussbacher, McGill University, Canada
 * Bruno Oliveira, University of Hong Kong, Hong Kong
 * Terence Parr, University of San Francisco, USA
 * Julia Rubin, Massachusetts Institute of Technology, USA
 * István Ráth, Budapest University of Technology and Economics, Hungary
-* Sibylle Schupp
+* Sibylle Schupp, University of Hamburg, Germany
+* Bernhard Schätz, Fortiss, Germany
 * Tony Sloane, Macquarie University, Australia
 * Eugene Syriani, University of Montreal, Canada
-* Emma Söderberg, Google
+* Emma Söderberg, Google, USA
+* Gabriele Taentzer, University of Marburg, Germany
 * Eric Van Wyk, University of Minnesota, USA
 * Hans Vangheluwe, University of Antwerp, Belgium and McGill University, Canada
 * Jurgen Vinju, CWI, Netherlands
 * Guido Wachsmuth, Delft University of Technology, The Netherlands
-* Eric Walkingshaw
+* Eric Walkingshaw, Oregon State University, USA
 * Andrzej Wasowski, IT University of Copenhagen, Denmark
 * Manuel Wimmer, Vienna University of Technology, Austria
-* Tian Zhang
-* Bernhard Schätz
-* Gabriele Taentzer
+* Tian Zhang, Nanjing University, China
 
 ### Publicity chair
 
@@ -78,4 +79,4 @@ published: true
 * Gorel Hedin
 * Jurgen Vinju (chair)
 * Krzysztof Czarnecki 
-* Mark van den Brand 
+* Mark van den Brand
