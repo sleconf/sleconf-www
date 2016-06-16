@@ -6,7 +6,7 @@ published: true
 
 # CALL FOR PAPERS
 
-Please also consider the [Instructions for Authors](http://sleconf.org/2016/InstructionsForAuthors.html).
+The submission website is [https://sle16.hotcrp.com/](https://sle16.hotcrp.com/). Please also consider the [Instructions for Authors](http://sleconf.org/2016/InstructionsForAuthors.html) for more information.
 
 ### Topics of Interest
 
@@ -60,7 +60,4 @@ Authors of distinguished papers from the conference will be invited to revise an
 
 ### More Information
 
-For additional information, clarification, or answers to questions please contact the Program Chairs. 
-
-
-
+For additional information, clarification, or answers to questions please contact the Program Chairs.
