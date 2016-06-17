@@ -1,3 +1,9 @@
+---
+layout: default2016
+title: Keynote
+published: true
+---
+
 ## Keynote: Robby Findler
 
 ### Redex: Lightweight Semantics Engineering
