@@ -1,6 +1,6 @@
 ---
 layout: default2016
-title: Keynote: Robby Findler
+title: Keynote - Robby Findler
 published: true
 ---
 
