@@ -2,6 +2,10 @@
 {% assign link="/2016/" %}
 {% include 2016/menu_item %}
 
+{% assign title="Keynote" %}
+{% assign link="/2016/Keynote.html" %}
+{% include 2016/menu_item %}
+
 {% assign title="Call for Papers" %}
 {% assign link="/2016/CFP.html" %}
 {% include 2016/menu_item %}
@@ -10,16 +14,8 @@
 {% assign link="/2016/Dates.html" %}
 {% include 2016/menu_item %}
 
-{% assign title="InstructionsForAuthors" %}
-{% assign link="/2016/InstructionsForAuthors.html" %}
-{% include 2016/menu_item %}
-
 {% assign title="Committees" %}
 {% assign link="/2016/Committees.html" %}
-{% include 2016/menu_item %}
-
-{% assign title="Keynote" %}
-{% assign link="/2016/Keynote.html" %}
 {% include 2016/menu_item %}
 
 {% assign title="Blog" %}
