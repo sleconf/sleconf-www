@@ -4,7 +4,7 @@ title: Keynote - Robby Findler
 published: true
 ---
 
-## Keynote: Robby Findler
+### Redex: Lightweight Semantics Engineering
 
 [Redex](https://redex.racket-lang.org/) is a programming language designed to support semantics engineers as they experiment with programming language models. To explore a model, an engineer writes down grammars, type systems, and operational semantics in a notation inspired by the programming languages literature. Redex breathes life into the model, building typing derivations, running example expressions, and using random generation to falsify claims about the model.
 
