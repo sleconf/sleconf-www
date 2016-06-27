@@ -50,6 +50,7 @@ published: true
 * Julia Rubin, Massachusetts Institute of Technology, USA
 * István Ráth, Budapest University of Technology and Economics, Hungary
 * Sibylle Schupp, University of Hamburg, Germany
+* Bernhard Schätz, Fortiss, Germany
 * Tony Sloane, Macquarie University, Australia
 * Eugene Syriani, University of Montreal, Canada
 * Emma Söderberg, Google, USA
