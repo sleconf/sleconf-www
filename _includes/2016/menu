@@ -10,6 +10,10 @@
 {% assign link="/2016/CFP.html" %}
 {% include 2016/menu_item %}
 
+{% assign title="Instructions for Authors" %}
+{% assign link="/2016/InstructionsForAuthors.html" %}
+{% include 2016/menu_item %}
+
 {% assign title="Important Dates" %}
 {% assign link="/2016/Dates.html" %}
 {% include 2016/menu_item %}
