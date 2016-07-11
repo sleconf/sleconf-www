@@ -64,6 +64,23 @@ published: true
 * Manuel Wimmer, Vienna University of Technology, Austria
 * Tian Zhang, Nanjing University, China
 
+### Artifact Evaluation Committee
+
+* Anthony Anjorin, University of Paderborn, Germany
+* Thomas Degueule, Inria, France
+* Romina Eramo, University of L'Aquila, Italy
+* Ludovico Iovino, Gran Sasso Science Institute, Italy
+* Javier L. Canovas Izquierdo, Universitat Oberta da Catalunya, Spain
+* Patricia Martin-Rodilla, Institute of Heritage Sciences, Spain
+* Andrea Mocci, Università della Svizzera italiana, Switzerland
+* Jesper Öqvist, Lund University, Sweden
+* Matthew Roberts, Macquarie University, Australia
+* Alexandre Sawczuk da Silva, Victoria University of Wellington, New Zealand
+* Jiasi Shen, Massachusetts Institute of Technology, USA
+* Vasco Sousa, University of Montreal, Canada
+* Maria Spichkova, RMIT University, Australia
+* Daniel Strüber, Philipps-Universität Marburg, Germany
+
 ### Publicity chair
 
 * [Andrei Chiș](http://www.andreichis.com)
