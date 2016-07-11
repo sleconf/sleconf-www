@@ -6,7 +6,7 @@ published: true
 
 # CALL FOR PAPERS
 
-The submission website is [https://sle16.hotcrp.com/](https://sle16.hotcrp.com/). Please also consider the [Instructions for Authors](http://sleconf.org/2016/InstructionsForAuthors.html) for more information.
+The submission website is [https://sle16.hotcrp.com/](https://sle16.hotcrp.com/). Please also consider the [Instructions for Authors](http://sleconf.org/2016/InstructionsForAuthors.html) section for more information including formatting instructions.
 
 ### Topics of Interest
 
