@@ -53,7 +53,7 @@ published: true
 * Bernhard Schätz, Fortiss, Germany
 * Tony Sloane, Macquarie University, Australia
 * Eugene Syriani, University of Montreal, Canada
-* Emma Söderberg, Google, USA
+* Emma Söderberg, Google, Denmark
 * Gabriele Taentzer, University of Marburg, Germany
 * Eric Van Wyk, University of Minnesota, USA
 * Hans Vangheluwe, University of Antwerp, Belgium and McGill University, Canada
