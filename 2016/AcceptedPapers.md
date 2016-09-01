@@ -1,3 +1,8 @@
+---
+layout: default2016
+title: Accepted Papers
+published: true
+---
 
 * **Adding Tolerance and Units to Quantity Types in Software Models**, Tanja Mayerhofer, Manuel Wimmer, Antonio Vallecillo
 
