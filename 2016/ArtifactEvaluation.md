@@ -4,7 +4,7 @@ title: Artifact Evaluation
 published: true
 ---
 
-This year, SLE introduceв an evaluation process for assessing the quality of the artifacts on which papers are based, treating them as first-class citizens and fostering the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts.
+This year, SLE introduces an evaluation process for assessing the quality of the artifacts on which papers are based, treating them as first-class citizens and fostering the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts.
 
 Artifacts (tools, grammars, datasets, proofs, links, models, videos, visualizations) that live up to the expectations created by the paper will receive a badge of approval from the Artifact Evaluation Committee (AEC). They will be invited for inclusion as freely downloadable supplementary material, ensuring permanent and durable storage. There is no obligation for authors of accepted papers to participate in this process, but we strongly encourage authors to consider this possibility as availability will greatly benefit readers and increase the impact of their work.
 
