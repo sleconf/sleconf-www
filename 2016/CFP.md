@@ -58,6 +58,8 @@ Authors of distinguished papers from the conference will be invited to revise an
 
 - Distinguished reviewer. Award for distinguished reviewer, as determined by the PC chairs using feedback from the authors.
 
+- Distinguished artefact. Award for the artifact most significantly exceeding expectations, as determined by the AEC chairs based on the recommendations of the artifact evaluation committee.
+
 ### More Information
 
 For additional information, clarification, or answers to questions please contact the Program Chairs.

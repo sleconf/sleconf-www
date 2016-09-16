@@ -8,7 +8,7 @@ This year, SLE introduces an evaluation process for assessing the quality of the
 
 Artifacts (tools, grammars, datasets, proofs, links, models, videos, visualizations) that live up to the expectations created by the paper will receive a badge of approval from the Artifact Evaluation Committee (AEC). They will be invited for inclusion as freely downloadable supplementary material, ensuring permanent and durable storage. There is no obligation for authors of accepted papers to participate in this process, but we strongly encourage authors to consider this possibility as availability will greatly benefit readers and increase the impact of their work.
 
-The submission most significantly exceeding expectations, will receive the Best Artifact Award, sponsored by Raincode.
+The submission most significantly exceeding expectations, will receive the Distinguished Artefact award, sponsored by Raincode.
 
 In a nutshell, a good artifact is:
 
