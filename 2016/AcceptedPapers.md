@@ -4,7 +4,7 @@ title: Accepted Papers
 published: true
 ---
 
-* **Adding Tolerance and Units to Quantity Types in Software Models**, Tanja Mayerhofer, Manuel Wimmer, Antonio Vallecillo
+* **Adding Uncertainty and Units to Quantity Types in Software Models**, Tanja Mayerhofer, Manuel Wimmer, Antonio Vallecillo
 
 * **Automated Testing Support for Reactive Domain-Specific Modelling Languages**, Bart Meyers, Joachim Denil, Istvan David, Hans Vangheluwe
 
