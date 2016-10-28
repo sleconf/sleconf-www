@@ -10,6 +10,9 @@ published: false
 
 ##### Distinguished Paper Award
 
+* Terence Parr and Jurgen Vinju. **[Towards a universal code formatter through machine learning](http://dl.acm.org/authorize?N14140)**
+
+
 
 ### Papers
 All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2997364).
