@@ -1,23 +1,10 @@
 ---
 layout: default2016
-title: Papers and Awards
-published: false
+title: Program
+published: true
 ---
 
-# SLE 2016 Accepted Papers and Awards
 
-## Award Winners SLE 2016
-
-##### Distinguished Paper Award
-
-* Terence Parr and Jurgen Vinju. **[Towards a universal code formatter through machine learning](http://dl.acm.org/authorize?N14140)**
-
-
-
-### Papers
-All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2997364).
-
-*(In presentation order.)*
 
 ### Grammars and Parsing
 *(Monday 31 Oct 2016 10:30–12:10)*

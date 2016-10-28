@@ -1,8 +1,19 @@
 ---
 layout: default2016
-title: Accepted Papers
+title: Accepted Papers and Awards
 published: true
 ---
+
+## Award Winners SLE 2016
+
+##### Distinguished Paper Award
+
+* Terence Parr and Jurgen Vinju. **[Towards a universal code formatter through machine learning](http://dl.acm.org/authorize?N14140)**
+
+
+### Papers
+
+All papers are available in the [online proceedings at the ACM Digital Library](http://dl.acm.org/citation.cfm?id=2997364).
 
 * **Adding Uncertainty and Units to Quantity Types in Software Models**, Tanja Mayerhofer, Manuel Wimmer, Antonio Vallecillo
 
