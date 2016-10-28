@@ -4,11 +4,11 @@ title: Accepted Papers and Awards
 published: true
 ---
 
-## Award Winners SLE 2016
+### Award Winners SLE 2016
 
 ##### Distinguished Paper Award
 
-* Terence Parr and Jurgen Vinju. **[Towards a universal code formatter through machine learning](http://dl.acm.org/authorize?N14140)**
+*  **Towards a universal code formatter through machine learning**, Terence Parr and Jurgen Vinju
 
 
 ### Papers
