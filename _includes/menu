@@ -42,3 +42,7 @@
 {% assign title="SLE 2016" %}
 {% assign link="/2016/" %}
 {% include menu_item %}
+
+{% assign title="SLE 2017” %}
+{% assign link="/2017/“ %}
+{% include menu_item %}
