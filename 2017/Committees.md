@@ -10,7 +10,7 @@ published: true
 
 ### PC co-chairs
 
-* Marjan Mernik
+* [Marjan Mernik](http://lpm.feri.um.si/en/members/mernik/)
 * [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/)
 
 ### Publicity chair
