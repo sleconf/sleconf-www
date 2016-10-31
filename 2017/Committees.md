@@ -28,5 +28,3 @@ published: true
 * Eric Van Wyk
 * Gorel Hedin
 * Jurgen Vinju (chair)
-* Krzysztof Czarnecki 
-* Mark van den Brand

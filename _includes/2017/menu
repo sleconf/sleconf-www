@@ -6,6 +6,10 @@
 {% assign link="/2017/CFP.html" %}
 {% include 2017/menu_item %}
 
+{% assign title="Artifact Evaluation" %}
+{% assign link="/2017/ArtifactEvaluation.html" %}
+{% include 2017/menu_item %}
+
 {% assign title="Instructions for Authors" %}
 {% assign link="/2017/InstructionsForAuthors.html" %}
 {% include 2017/menu_item %}
