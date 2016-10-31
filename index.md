@@ -8,6 +8,7 @@ published: true
 This is the community website of the International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
 * Check out [SLE 2016](2016)
+* Stay tuned for [SLE 2017](2017)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 
