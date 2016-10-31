@@ -6,6 +6,10 @@
 {% assign link="/blog/" %}
 {% include menu_item %}
 
+{% assign title="SLE 2008" %}
+{% assign link="/2008/" %}
+{% include menu_item %}
+
 {% assign title="SLE 2009" %}
 {% assign link="/2009/" %}
 {% include menu_item %}
@@ -38,6 +42,6 @@
 {% assign link="/2016/" %}
 {% include menu_item %}
 
-{% assign title="SLE 2017” %}
-{% assign link="/2017/“ %}
+{% assign title="SLE 2017" %}
+{% assign link="/2017/" %}
 {% include menu_item %}
