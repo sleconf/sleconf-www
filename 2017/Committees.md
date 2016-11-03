@@ -13,6 +13,11 @@ published: true
 * [Marjan Mernik](http://lpm.feri.um.si/en/members/mernik/)
 * [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/)
 
+### Artefact Evaluation Chairs
+
+* [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer)
+* [Laurence Tratt](http://tratt.net/laurie/)
+
 ### Publicity chair
 
 * [Andrei Chiș](http://www.andreichis.com)
