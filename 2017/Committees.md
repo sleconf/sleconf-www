@@ -13,7 +13,7 @@ published: true
 * [Marjan Mernik](http://lpm.feri.um.si/en/members/mernik/)
 * [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/)
 
-### Artefact Evaluation Chairs
+### Artefact evaluation chairs
 
 * [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer)
 * [Laurence Tratt](http://tratt.net/laurie/)
