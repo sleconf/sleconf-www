@@ -33,3 +33,5 @@ published: true
 * Eric Van Wyk
 * Gorel Hedin
 * Jurgen Vinju (chair)
+* Davide DiRuscio
+* Markus Voelter
