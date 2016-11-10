@@ -1,6 +1,6 @@
 ---
 layout: default2016
-title: Award Winners and Nominees
+title: Awards Winners and Nominees
 published: true
 ---
 

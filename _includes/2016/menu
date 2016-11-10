@@ -6,6 +6,10 @@
 {% assign link="/2016/Keynote.html" %}
 {% include 2016/menu_item %}
 
+{% assign title="Awards Winners and Nominees" %}
+{% assign link="/2016/Awards” %}
+{% include 2016/menu_item %}
+
 {% assign title="Accepted Papers" %}
 {% assign link="/2016/AcceptedPapers.html" %}
 {% include 2016/menu_item %}
