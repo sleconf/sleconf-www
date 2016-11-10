@@ -7,7 +7,7 @@
 {% include 2016/menu_item %}
 
 {% assign title="Awards Winners and Nominees" %}
-{% assign link="/2016/Awards” %}
+{% assign link="/2016/Awards" %}
 {% include 2016/menu_item %}
 
 {% assign title="Accepted Papers" %}
