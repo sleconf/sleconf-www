@@ -49,6 +49,10 @@ SLE aims to be broad-minded and inclusive about relevance and scope. We solicit 
 
 **Workshops:** Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience.
 
+### Artifact Evaluation
+
+For the second year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, have a look at the [Artifact Evaluation](http://www.sleconf.org/2017/ArtifactEvaluation.html) page.
+
 
 ### Publications
 
