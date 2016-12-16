@@ -10,10 +10,6 @@
 {% assign link="/2017/ArtifactEvaluation.html" %}
 {% include 2017/menu_item %}
 
-{% assign title="Instructions for Authors" %}
-{% assign link="/2017/InstructionsForAuthors.html" %}
-{% include 2017/menu_item %}
-
 {% assign title="Important Dates" %}
 {% assign link="/2017/Dates.html" %}
 {% include 2017/menu_item %}

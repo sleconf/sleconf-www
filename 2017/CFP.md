@@ -58,7 +58,7 @@ For the second year SLE will use an evaluation process for assessing the quality
 
 All submitted papers will be reviewed by at least three members of the program committee. All accepted papers, including tool papers will be published in ACM Digital Library.  
 
-Authors of distinguished papers from the conference will be invited to revise and submit extended versions of their papers for a Journal special issue.
+__AUTHORS TAKE NOTE__: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.
 
 ### Journal Special Issue 
 
@@ -72,6 +72,20 @@ Selected accepted papers will be invited to a special issue of the Computer Lang
 
 - Distinguished artefact. Award for the artifact most significantly exceeding expectations, as determined by the AEC chairs based on the recommendations of the artifact evaluation committee.
 
+### Concurrent Submissions
+
+Papers must describe unpublished work that is not currently submitted for publication elsewhere as described by [SIGPLAN’s Republication Policy](http://www.sigplan.org/Resources/Policies/Republication). Submitters should also be aware of [ACM’s Policy and Procedures on Plagiarism](http://www.acm.org/publications/policies/plagiarism_policy). 
+
+### Format
+
+Submissions should use the [ACM SIGPLAN Conference Format](http://www.sigplan.org/Resources/Author/), *10 point font*, using the font family [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman). All submissions should be in PDF format. If you use LaTeX or Word, please use the provided ACM SIGPLAN Templates provided [here](http://www.sigplan.org/Resources/Author/). Otherwise, follow the author instructions. 
+
+Note that by default the SIGPLAN Conference Format templates produce papers in 9 point font. If you are formatting your paper using LaTeX, you will need to set the 10pt option in the \documentclass command. If you are formatting your paper using Word, you may wish to use the provided Word template that supports this font size. Please include page numbers in your submission. Setting the preprint option in the LaTeX \documentclass command generates page numbers. Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.
+
+
 ### More Information
+
+For fairness reasons, all submitted papers should conform to the above instructions. Submissions that violate these instructions may be rejected without review, at the discretion of the Program Chair.
+
 
 For additional information, clarification, or answers to questions please contact the Program Chairs.
