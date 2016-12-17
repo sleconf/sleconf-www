@@ -20,33 +20,33 @@ published: true
 
 ### Program committee
 
-* Andreas Wortmann, RWTH Aachen University, Germany
-* Anthony Sloane, Macquarie University, Australia
-* Bernd Fischer, Stellenbosch University, South Africa
-* Emma Söderberg, Google, Denmark
-* Eric Van Wyk, University of Minnesota, USA
-* Eric Walkingshaw, Oregon State University, USA
-* Esther Guerra, Autonomous University of Madrid, Spain
-* Eugene Syriani, University of Montreal, Canada
-* Gunter Mussbacher, McGill University, Canada
-* Jan Ringert, Tel Aviv University, Israel
-* Jaroslav Porubän, University of Košice, Slovakia
-* Jeff Gray, University of Alabama, USA
-* Jordi Cabot, ICREA, Spain
-* Julia Rubin, University of British Columbia, Canada
-* Jurgen Vinju, CWI, Netherlands
 * Mark van den Brand, TU Eindhoven, The Netherlands
+* Ruth Breu, University of Innsbruck, Austria
+* Jordi Cabot, ICREA, Spain
+* Walter Cazzola, University of Milan, Italy
 * Marsha Chechik, University of Toronto, Canada
+* Tony Clark, Middlesex University, UK
+* Tom Dinkelaker, Ericsson, Germany
+* Bernd Fischer, Stellenbosch University, South Africa
+* Sebastian Gerard, CEA, France
+* Jeff Gray, University of Alabama, USA
+* Esther Guerra, Autonomous University of Madrid, Spain
 * Michael Homer, Victoria University of Wellington, New Zealand
 * Ralf Lämmel, University of Koblenz-Landau, Germany
-* Ruth Breu, University of Innsbruck, Austria
-* Sebastian Gerard, CEA, France
-* Terence Parr, University of San Francisco, USA
-* Tian Zhang, Nanjing University, China
 * Tihamer Levendovszky, Microsoft, USA
-* Tom Dinkelaker, Ericsson, Germany
-* Tony Clark, Middlesex University, UK
-* Walter Cazzola, University of Milan, Italy
+* Gunter Mussbacher, McGill University, Canada
+* Terence Parr, University of San Francisco, USA
+* Jaroslav Porubän, University of Košice, Slovakia
+* Jan Ringert, Tel Aviv University, Israel
+* Julia Rubin, University of British Columbia, Canada
+* Tony Sloane, Macquarie University, Australia
+* Eugene Syriani, University of Montreal, Canada
+* Emma Söderberg, Google, Denmark
+* Eric Van Wyk, University of Minnesota, USA
+* Jurgen Vinju, CWI, Netherlands
+* Eric Walkingshaw, Oregon State University, USA
+* Andreas Wortmann, RWTH Aachen University, Germany
+* Tian Zhang, Nanjing University, China
 
 ### Publicity chair
 
