@@ -6,8 +6,6 @@ published: true
 
 # CALL FOR PAPERS
 
-Please consider the [Instructions for Authors](http://sleconf.org/2017/InstructionsForAuthors.html) section for more information including formatting instructions.
-
 ### Topics of Interest
 
 SLE aims to be broad-minded and inclusive about relevance and scope. We solicit high-quality contributions in areas ranging from theoretical and conceptual contributions to tools, techniques, and frameworks in the domain of language engineering. Topics relevant to SLE cover generic aspects of software languages development rather than aspects of engineering a specific language. In particular, SLE is interested in principled engineering approaches and techniques in the following areas:
