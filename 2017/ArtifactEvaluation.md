@@ -19,4 +19,4 @@ In a nutshell, a good artifact is:
 
 ### Evaluation Process
 
-The artifact evaluation process of SLE borrows heavily from processes described at [artifact-eval.org](http://conf.researchr.org/track/sle-2016/artifact-eval.org), [ECOOP 2016](http://2016.ecoop.org/track/ecoop-2016-artifacts) and [ICSME 2016](http://icsme2016.github.io/cfp/artifacts-track.html). We have an open reviewing model in which artifacts will be submitted to a GitHub repository, and reviewing/discussion will be conducted through GitHub issues.
+The artifact evaluation process of SLE borrows heavily from processes described at [artifact-eval.org](http://conf.researchr.org/track/sle-2016/artifact-eval.org), [ECOOP 2016](http://2016.ecoop.org/track/ecoop-2016-artifacts) and [ICSME 2016](http://icsme2016.github.io/cfp/artifacts-track.html).
