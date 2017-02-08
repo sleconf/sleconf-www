@@ -6,7 +6,7 @@ published: true
 
 ### General chair
 
-* [Benoit Combemale](http://people.irisa.fr/Benoit.Combemale/), Univ. Rennes 1, France
+* [Benoit Combemale](http://people.irisa.fr/Benoit.Combemale/), University of Rennes 1, France
 
 ### PC co-chairs
 

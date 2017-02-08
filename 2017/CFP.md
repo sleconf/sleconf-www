@@ -21,7 +21,7 @@ SLE aims to be broad-minded and inclusive about relevance and scope. We solicit 
      - Testing techniques for languages
      - Simulation techniques for languages
 - Language Integration and Composition
-     - Coordination between of heterogeneous languages and tools
+     - Coordination of heterogeneous languages and tools
      - Mappings between languages (incl. transformation languages)
      - Traceability between languages
      - Deployment of languages to different platforms
@@ -86,4 +86,4 @@ Note that by default the SIGPLAN Conference Format templates produce papers in 9
 For fairness reasons, all submitted papers should conform to the above instructions. Submissions that violate these instructions may be rejected without review, at the discretion of the Program Chair.
 
 
-For additional information, clarification, or answers to questions please contact the Program Chairs.
+For additional information, clarification, or answers to questions please contact the organizers by email: sle2017@inria.fr
