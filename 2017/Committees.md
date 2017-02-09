@@ -20,6 +20,7 @@ published: true
 
 ### Program committee
 
+* Christian Berger, Chalmers, Sweden
 * Mark van den Brand, TU Eindhoven, The Netherlands
 * Ruth Breu, University of Innsbruck, Austria
 * Jordi Cabot, ICREA, Spain
