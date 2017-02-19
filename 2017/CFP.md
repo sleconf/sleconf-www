@@ -35,7 +35,7 @@ SLE aims to be broad-minded and inclusive about relevance and scope. We solicit 
       - Performance benchmarks
       - Industrial applications
 
-### Important dates
+### Important Dates
 
 {% include 2017/dates %}
 
