@@ -35,6 +35,10 @@ SLE aims to be broad-minded and inclusive about relevance and scope. We solicit 
       - Performance benchmarks
       - Industrial applications
 
+### Important dates
+
+{% include 2017/dates %}
+
 ### Types of Submissions
 
 - **Research papers**: These should report a substantial research contribution to SLE or successful application of SLE techniques or both. Full paper submissions must not exceed 12 pages including bibliography (in [ACM SIGPLAN conference style](http://www.sigplan.org/Resources/Author/)).
