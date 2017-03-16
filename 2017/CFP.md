@@ -41,13 +41,13 @@ SLE aims to be broad-minded and inclusive about relevance and scope. We solicit 
 
 ### Types of Submissions
 
-- **Research papers**: These should report a substantial research contribution to SLE or successful application of SLE techniques or both. Full paper submissions must not exceed 12 pages including bibliography (in [ACM SIGPLAN conference style](http://www.sigplan.org/Resources/Author/)).
+- **Research papers**: These should report a substantial research contribution to SLE or successful application of SLE techniques or both. Full paper submissions must not exceed 12 pages including bibliography (in [ACM SIGPLAN conference style - acmart](http://sigplan.org/Resources/Author/#acmart-format)).
 
-- **Tool papers**: Because of SLE's interest in tools, we seek papers that present software tools related to the field of SLE. Selection criteria include originality of the tool, its innovative aspects, and relevance to SLE. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must provide a tool description of 4 pages including bibliography (in [ACM SIGPLAN conference style](http://www.sigplan.org/Resources/Author/)), and a demonstration outline including screenshots of up to 6 pages. Tool demonstrations must have the keywords “Tool Demo” or “Tool Demonstration” in the title. The 4-page tool description will, if the demonstration is accepted, be published in the proceedings. The 6-page demonstration outline will be used by the program committee only for evaluating the submission.
+- **Tool papers**: Because of SLE's interest in tools, we seek papers that present software tools related to the field of SLE. Selection criteria include originality of the tool, its innovative aspects, and relevance to SLE. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must provide a tool description of 4 pages including bibliography (in [ACM SIGPLAN conference style - acmart](http://sigplan.org/Resources/Author/#acmart-format)), and a demonstration outline including screenshots of up to 6 pages. Tool demonstrations must have the keywords “Tool Demo” or “Tool Demonstration” in the title. The 4-page tool description will, if the demonstration is accepted, be published in the proceedings. The 6-page demonstration outline will be used by the program committee only for evaluating the submission.
 
-- **Industrial papers**: These should describe real-world application scenarios of SLE in industry, explained in their context with an analysis of the challenges that were overcome and the lessons which the audience can learn from this experience. Industry paper submissions must not exceed 6 pages including bibliography (in [ACM SIGPLAN conference style](http://www.sigplan.org/Resources/Author/)).
+- **Industrial papers**: These should describe real-world application scenarios of SLE in industry, explained in their context with an analysis of the challenges that were overcome and the lessons which the audience can learn from this experience. Industry paper submissions must not exceed 6 pages including bibliography (in [ACM SIGPLAN conference style - acmart](http://sigplan.org/Resources/Author/#acmart-format)).
 
-- **New ideas / vision papers**: New ideas papers should describe new, non-conventional SLE research approaches that depart from standard practice. They are intended to describe well-defined research ideas that are at an early stage of investigation. Vision papers are intended to present new unifying theories about existing SLE research that can lead to the development of new technologies or approaches. New ideas / vision papers must not exceed 4 pages including bibliography (in [ACM SIGPLAN conference style](http://www.sigplan.org/Resources/Author/)).
+- **New ideas / vision papers**: New ideas papers should describe new, non-conventional SLE research approaches that depart from standard practice. They are intended to describe well-defined research ideas that are at an early stage of investigation. Vision papers are intended to present new unifying theories about existing SLE research that can lead to the development of new technologies or approaches. New ideas / vision papers must not exceed 4 pages including bibliography (in [ACM SIGPLAN conference style - acmart](http://sigplan.org/Resources/Author/#acmart-format)).
 
 **Workshops:** Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience.
 
@@ -55,6 +55,9 @@ SLE aims to be broad-minded and inclusive about relevance and scope. We solicit 
 
 For the second year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, have a look at the [Artifact Evaluation](http://www.sleconf.org/2017/ArtifactEvaluation.html) page.
 
+### Submission
+
+Submissions will be accepted at [https://sle17.hotcrp.com](https://sle17.hotcrp.com/).
 
 ### Publications
 
@@ -80,9 +83,11 @@ Papers must describe unpublished work that is not currently submitted for public
 
 ### Format
 
-Submissions should use the [ACM SIGPLAN Conference Format](http://www.sigplan.org/Resources/Author/), *10 point font*, using the font family [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman). All submissions should be in PDF format. If you use LaTeX or Word, please use the provided ACM SIGPLAN Templates provided [here](http://www.sigplan.org/Resources/Author/). Otherwise, follow the author instructions. 
+(NOTE: NEW FORMAT REQUIREMENTS FOR SLE 2017)
 
-Note that by default the SIGPLAN Conference Format templates produce papers in 9 point font. If you are formatting your paper using LaTeX, you will need to set the 10pt option in the \documentclass command. If you are formatting your paper using Word, you may wish to use the provided Word template that supports this font size. Please include page numbers in your submission. Setting the preprint option in the LaTeX \documentclass command generates page numbers. Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.
+Submissions should use the ACM SIGPLAN Conference Format [acmart](http://sigplan.org/Resources/Author/#acmart-format), *10 point font*, with the font family [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman). All submissions should be in PDF format. If you use LaTeX or Word, please use the provided ACM SIGPLAN Templates provided [here](http://www.sigplan.org/Resources/Author/). Otherwise, follow the author instructions. 
+
+For authors using LaTeX, you will need to use the `acmart` LaTeX class (instead of sigplanconf used in the past),  with the "sigplan" option in the template. Note that submissions should have a 10 point font. If you are formatting your paper using Word, you may wish to use the provided Word template that supports this font size. Please include page numbers in your submission. Setting the preprint option in the LaTeX \documentclass command generates page numbers. Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.
 
 
 ### More Information
