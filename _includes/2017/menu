@@ -2,6 +2,10 @@
 {% assign link="/2017/“ %}
 {% include 2017/menu_item %}
 
+{% assign title="Keynote" %}
+{% assign link="/2017/Keynote.html" %}
+{% include 2017/menu_item %}
+
 {% assign title="Call for Papers" %}
 {% assign link="/2017/CFP.html" %}
 {% include 2017/menu_item %}
