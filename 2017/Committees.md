@@ -49,6 +49,24 @@ published: true
 * Andreas Wortmann, RWTH Aachen University, Germany
 * Tian Zhang, Nanjing University, China
 
+### Artifact Evaluation Committee
+
+* Edouard Batot, University of Montreal, Canada
+* Erwan Bousse, TU Wien, Austria
+* Thomas Degueule, CWI, The Netherlands
+* Lukas Diekmann, King’s College London, UK
+* Romina Eramo, University of L'Aquila, Italy
+* Abel Gómez, Open University Catalonia, Spain
+* Manuel Leduc, IRISA, University of Rennes 1, France
+* Julian Mackay, Victoria University of Wellington, New Zealand
+* Matthew Roberts, Macquarie University, Australia
+* Vasco Sousa, University of Montreal, Canada
+* Daniel Strüber, University of Koblenz-Landau, Germany
+* Matúš Sulír, Technical University of Košice, Slovakia
+* Ana Sutii, Eindhoven University of Technology, The Netherlands
+* Andreas Wortmann, RWTH Aachen, Germany
+
+
 ### Publicity chair
 
 * [Andrei Chiș](http://www.andreichis.com), feenk gmbh, Switzerland

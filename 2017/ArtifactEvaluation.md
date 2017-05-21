@@ -16,7 +16,7 @@ Participating in the artifact evaluation and publishing approved artifacts in th
 
 The artifact evaluation process of SLE borrows heavily from processes described at [artifact-eval.org](http://www.artifact-eval.org/), [ECOOP 2016](http://2016.ecoop.org/track/ecoop-2016-artifacts) and [ICSME 2016](http://icsme2016.github.io/cfp/artifacts-track.html). The applied process is detailed in the following.
 
-###Submission
+### Submission
 
 If and when your paper has been accepted for SLE 2017, you will be invited by the AEC chairs to submit the artifacts that underlie your work. This invitation will contain detailed instructions on how to submit your artifacts.
 
@@ -38,7 +38,7 @@ For artifacts that are tools, it is recommended to provide the tool installed an
 
 Please use widely supported open formats for documents (e.g., PDF, HTML) and data (e.g., CSV, JSON).
 
-###Evaluation Process
+### Evaluation Process
 
 Submitted artifacts will be evaluated by the AEC concerning the following criteria: Artifacts should be
 
@@ -68,10 +68,6 @@ Notification about the outcome of the artifact evaluation and reviews including 
 
 - [Tanja Mayerhofer](http://www.big.tuwien.ac.at/staff/tmayerhofer), TU Wien, Austria
 - [Laurence Tratt](http://tratt.net/laurie), King’s College London, UK
-
-### Artifact Evaluation Committee
-
-to be announced
 
 ### Further Information
 
