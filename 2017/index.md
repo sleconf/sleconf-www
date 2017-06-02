@@ -10,6 +10,6 @@ SLE 2017 is to be held on October 23rd and 24rd 2017, co-located with [SPLASH](h
 
 SLE's mission is to fuse several communities that have traditionally looked at software languages from different and yet complementary perspectives: programming languages, model driven engineering, domain specific languages, semantic web, and from different technological spaces: context-free grammars, object-oriented modeling frameworks, rich data, structured data, object-oriented programming, functional programming, logic programming, term-rewriting, attribute grammars, algebraic specification, etc.
 
-- **Community website**: http://www.sleconf.org/2017/
-- **Conference website**: http://conf.researchr.org/track/sle-2017/sle-2017-papers
-- **Submission website**: https://sle17.hotcrp.com
+- **Community website**: [http://www.sleconf.org/2017](http://www.sleconf.org/2017)
+- **Conference website**: [http://conf.researchr.org/track/sle-2017/sle-2017-papers](http://conf.researchr.org/track/sle-2017/sle-2017-papers)
+- **Submission website**: [https://sle17.hotcrp.com](https://sle17.hotcrp.com)
