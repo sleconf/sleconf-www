@@ -57,6 +57,7 @@ published: true
 * Lukas Diekmann, King’s College London, UK
 * Romina Eramo, University of L'Aquila, Italy
 * Abel Gómez, Open University Catalonia, Spain
+* Thomas Kühn, TU Dresden, Germany
 * Manuel Leduc, IRISA, University of Rennes 1, France
 * Julian Mackay, Victoria University of Wellington, New Zealand
 * Matthew Roberts, Macquarie University, Australia
