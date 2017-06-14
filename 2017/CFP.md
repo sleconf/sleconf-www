@@ -85,7 +85,7 @@ Papers must describe unpublished work that is not currently submitted for public
 
 (NOTE: NEW FORMAT REQUIREMENTS FOR SLE 2017)
 
-Submissions should use the ACM SIGPLAN Conference Format [acmart](http://sigplan.org/Resources/Author/#acmart-format), *10 point font*, with the font family [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman). All submissions should be in PDF format. If you use LaTeX or Word, please use the provided ACM SIGPLAN Templates provided [here](http://www.sigplan.org/Resources/Author/). Otherwise, follow the author instructions. 
+Submissions should use the ACM SIGPLAN Conference Format [acmart](http://sigplan.org/Resources/Author/#acmart-format), *10 point font*, with the font family [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman). All submissions should be in PDF format. If you use LaTeX or Word, please use the provided ACM SIGPLAN Templates provided [here](http://www.sigplan.org/Resources/Author/). Otherwise, follow the author instructions. SLE also follows a single-blind review process.
 
 For authors using LaTeX, you will need to use the `acmart` LaTeX class (instead of sigplanconf used in the past),  with the "sigplan" option in the template. Note that submissions should have a 10 point font. If you are formatting your paper using Word, you may wish to use the provided Word template that supports this font size. Please include page numbers in your submission. Setting the preprint option in the LaTeX \documentclass command generates page numbers. Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.
 
