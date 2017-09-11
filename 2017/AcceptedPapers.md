@@ -4,7 +4,6 @@ title: Accepted Papers
 published: true
 ---
 
-### Papers
 
 * **Metacasanova: an optimized meta-compiler for Domain-Specific Languages**, Francesco Di Giacomo, Mohamed Abbadi, Agostino Cortesi, Pieter Spronck, Giuseppe Maggiore
 
