@@ -25,13 +25,13 @@ published: true
 
 * **A Formalisation of Parameterised Reference Attribute Grammars**, Scott Buckley, Anthony Sloane
 
-* **A Symbol-based Extension of Parsing Expression Grammars and Context-Sensitive**, Kimio Kuramitsu
+* **A Symbol-based Extension of Parsing Expression Grammars and Context-Sensitive Packrat Parsing**, Kimio Kuramitsu
 
 * **Structural Model Subtyping with OCL Constraints**, Artur Boronat
 
 * **A Requirements Engineering Approach for Usability-Driven DSL Development**, Ankica Barisic, Dominique Blouin, Vasco Amaral, Miguel Goulao
 
-* **Tool Demonstration: A development environment for the Alf language within the **, Ed Seidewitz
+* **Tool Demonstration: A development environment for the Alf language within the MagicDraw UML tool**, Ed Seidewitz
 
 * **FlowSpec: Declarative Dataflow Analysis Specification**, Jeff Smits, Eelco Visser
 
@@ -41,7 +41,7 @@ published: true
 
 * **Concurrent Circular Reference Attribute Grammars**, Jesper Öqvist, Görel Hedin
 
-* **Better Call the Crowd. Using Crowdsourcing to Shape your Dpmain-Specific Languages**, Marco Brambilla, Jordi Cabot, Javier Luis Canovas Izquierdo, Andrea Mauri
+* **Better Call the Crowd. Using Crowdsourcing to Shape your Domain-Specific Languages**, Marco Brambilla, Jordi Cabot, Javier Luis Canovas Izquierdo, Andrea Mauri
 
 * **Robust Projectional Editing**, Friedrich Steimann, Marcus Frenkel, Markus Voelter
 
