@@ -5,19 +5,19 @@ published: true
 ---
 
 
-* **Metacasanova: an optimized meta-compiler for Domain-Specific Languages**, Francesco Di Giacomo, Mohamed Abbadi, Agostino Cortesi, Pieter Spronck, Giuseppe Maggiore
+* **Metacasanova: An Optimized Meta-compiler for Domain-Specific Languages**, Francesco Di Giacomo, Mohamed Abbadi, Agostino Cortesi, Pieter Spronck, Giuseppe Maggiore
 
 * **Type-Safe Modular Parsing**, Haoyuan Zhang, Huang Li, Bruno C. d. S. Oliveira
 
-* **Concrete Syntax: A Multi-Paradigm Approach**, Yentl Van Tendeloo, Simon Van Mierlo, Bart Meyers, Hans Vangheluwe
+* **Concrete Syntax: A Multi-paradigm Modelling Approach**, Yentl Van Tendeloo, Simon Van Mierlo, Bart Meyers, Hans Vangheluwe
 
 * **A Domain-Specific Controlled English Language for Automated Regulatory Compliance**, Suman Roychoudhury, Sagar Sunkle, Deepali Kholkar, Vinay Kulkarni
 
-* **Debugging with Domain-Specific Events**, Xiangqi Li, Matthew Flatt
+* **Debugging with Domain-Specific Events via Macros**, Xiangqi Li, Matthew Flatt
 
-* **Deep Priority Conflicts in the Wild - A Pilot Study**, Luís Eduardo de Souza Amorim, Michael J. Steindorfer, Eelco Visser
+* **Deep Priority Conflicts in the Wild: A Pilot Study**, Luís Eduardo de Souza Amorim, Michael J. Steindorfer, Eelco Visser
 
-* **Comparison of the Expressiveness and Performance of Template-based Code Generation Tools**, Lechanceux Luhunu, Eugene Syriani
+* **Comparison of the Expressiveness and Performance of Template-Based Code Generation Tools**, Lechanceux Luhunu, Eugene Syriani
 
 * **Incremental Packrat Parsing**, Patrick Dubroy, Alessandro Warth
 
@@ -25,7 +25,7 @@ published: true
 
 * **A Formalisation of Parameterised Reference Attribute Grammars**, Scott Buckley, Anthony Sloane
 
-* **A Symbol-based Extension of Parsing Expression Grammars and Context-Sensitive Packrat Parsing**, Kimio Kuramitsu
+* **A Symbol-Based Extension of Parsing Expression Grammars and Context-Sensitive Packrat Parsing**, Kimio Kuramitsu
 
 * **Structural Model Subtyping with OCL Constraints**, Artur Boronat
 
@@ -37,7 +37,7 @@ published: true
 
 * **Robust Programs with Filtered Iterators**, Jiasi Shen, Martin Rinard
 
-* **Energy Efficiency across Programming Languages: How does energy, time, and memory relate?**, Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva
+* **Energy Efficiency across Programming Languages: How do Energy, Time, and Memory Relate?**, Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva
 
 * **Concurrent Circular Reference Attribute Grammars**, Jesper Öqvist, Görel Hedin
 
@@ -49,7 +49,7 @@ published: true
 
 * **Red Shift: Procedural Shift-Reduce Parsing**, Nicolas Laurent
 
-* **Virtual Textual Model Composition for Supporting Maintenance and Aspect-Orientation**, Robert Bill, Patrick Neubauer, Manuel Wimmer
+* **Virtual Textual Model Composition for Supporting Versioning and Aspect-Orientation**, Robert Bill, Patrick Neubauer, Manuel Wimmer
 
 * **A Chrestomathy of DSL implementations**, Simon Schauss, Ralf Lämmel, Johannes Härtel, Marcel Heinz, Kevin Klein, Lukas Härtel, Thorsten Berger
 
