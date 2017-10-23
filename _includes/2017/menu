@@ -6,7 +6,7 @@
 {% assign link="/2017/Keynote.html" %}
 {% include 2017/menu_item %}
 
-{% assign title=“Program” %}
+{% assign title="Program" %}
 {% assign link="/2017/Program.html" %}
 {% include 2017/menu_item %}
 
