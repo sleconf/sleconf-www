@@ -4,6 +4,8 @@ title: Accepted Papers
 published: true
 ---
 
+All papers are available in the [online proceedings at the ACM Digital Library](https://dl.acm.org/citation.cfm?id=3136014&picked=prox).
+
 
 * **Metacasanova: An Optimized Meta-compiler for Domain-Specific Languages**, Francesco Di Giacomo, Mohamed Abbadi, Agostino Cortesi, Pieter Spronck, Giuseppe Maggiore
 

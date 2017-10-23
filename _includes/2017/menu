@@ -6,7 +6,11 @@
 {% assign link="/2017/Keynote.html" %}
 {% include 2017/menu_item %}
 
-{% assign title="AcceptedPapers" %}
+{% assign title=“Program” %}
+{% assign link="/2017/Program.html" %}
+{% include 2017/menu_item %}
+
+{% assign title="Accepted Papers" %}
 {% assign link="/2017/AcceptedPapers.html" %}
 {% include 2017/menu_item %}
 
