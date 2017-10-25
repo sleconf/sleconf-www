@@ -10,6 +10,10 @@
 {% assign link="/2017/Program.html" %}
 {% include 2017/menu_item %}
 
+{% assign title="Awards winners" %}
+{% assign link="/2017/Awards.html" %}
+{% include 2017/menu_item %}
+
 {% assign title="Accepted Papers" %}
 {% assign link="/2017/AcceptedPapers.html" %}
 {% include 2017/menu_item %}
