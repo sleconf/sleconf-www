@@ -7,13 +7,14 @@ published: true
 
 This is the community website of the International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
-* Check out [SLE 2017](2017)
+* Check out [SLE 2018](2018)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 
 ### History
 
 <ul>
+<li><a href="http://www.sleconf.org/2017" >SLE 2017</a>, Vancouver, Canada</li>
 <li><a href="http://www.sleconf.org/2016" >SLE 2016</a>, Amsterdam, The Netherlands</li>
 <li><a href="http://www.sleconf.org/2015" >SLE 2015</a>, Pittsburg, USA</li>
 <li><a href="http://www.sleconf.org/2014" >SLE 2014</a>, Västerås, Sweden</li>
