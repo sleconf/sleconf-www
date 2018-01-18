@@ -15,5 +15,5 @@ With the ubiquity of computers, software has become the dominating intellectual 
 Like its predecessors, the 11th edition of the SLE conference, SLE 2018, will bring together researchers from different areas united by their common interest in the creation, capture, and tooling of software languages. It overlaps with traditional conferences on the design and implementation of programming languages, model-driven engineering, and compiler construction, and emphasizes the fusion of their communities. To foster the latter, SLE traditionally fills a two-day program with a single track, with the only temporal overlap occurring between co-located events.
 
 - **Community website**: [http://www.sleconf.org/2018](http://www.sleconf.org/2018)
-- **Conference website**: [http://conf.researchr.org/track/sle-2018/sle-2018-papers](http://conf.researchr.org/track/sle-2018/sle-2018)
+- **Conference website**: [https://conf.researchr.org/track/sle-2018/papers](https://conf.researchr.org/track/sle-2018/papers)
 - **Submission website**: [https://sle18.hotcrp.com](https://sle18.hotcrp.com)
