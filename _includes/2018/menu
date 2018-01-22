@@ -1,5 +1,5 @@
 {% assign title="Welcome" %}
-{% assign link="/2018/“ %}
+{% assign link="/2018/index.html" %}
 {% include 2018/menu_item %}
 
 {% assign title="Registration" %}
