@@ -1,5 +1,5 @@
 {% assign title="Welcome" %}
-{% assign link="/2015/" %}
+{% assign link="/2015/index.html" %}
 {% include 2015/menu_item %}
 
 {% assign title="Papers and Awards" %}
