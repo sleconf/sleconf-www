@@ -14,6 +14,6 @@ Like its predecessors, the 11th edition of the SLE conference, SLE 2018, will br
 
 SLE 2018 is to be held on November 5th and 6th 2018, co-located with [SPLASH](http://2018.splashcon.org/) and [GPCE](http://conf.researchr.org/home/gpce-2018) in Boston, USA.
 
-* Community website: http://www.sleconf.org/2018
-* Conference website: https://conf.researchr.org/track/sle-2018/papers
-* Submission website: https://sle18.hotcrp.com
+* Community website: [http://www.sleconf.org/2018](http://www.sleconf.org/2018)
+* Conference website: [https://conf.researchr.org/track/sle-2018/papers](https://conf.researchr.org/track/sle-2018/papers)
+* Submission website: [https://sle18.hotcrp.com](https://sle18.hotcrp.com)

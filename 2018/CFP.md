@@ -53,11 +53,15 @@ For the third year SLE will use an evaluation process for assessing the quality 
 
 #### Format
 
-Submissions have to use the [ACM SIGPLAN Conference Format "acmart"](http://sigplan.org/Resources/Author/#acmart-format), 10 point font, with the font family Times New Roman. All submissions must be in PDF format. If you use LaTeX or Word, please use the [ACM SIGPLAN acmart templates](http://www.sigplan.org/Resources/Author/).
+Submissions have to use the [ACM SIGPLAN Conference Format "acmart"](http://sigplan.org/Resources/Author/#acmart-format); please make sure that you always use the latest [ACM SIGPLAN acmart LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip), and that the document class definition is `\documentclass[sigplan,screen]{acmart}`. Do not make any changes to this format!
 
-For authors using LaTeX, you will need to use the acmart LaTeX class (instead of sigplanconf used in the past), with the “sigplan” option in the template. Note that submissions must have a 10 point font. If you are formatting your paper using Word, you may wish to use the provided Word template that supports this font size. Please include page numbers in your submission. Setting the preprint option in the LaTeX \documentclass command generates page numbers. Please also ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes are legible.
+Using the Word template is strongly discouraged.
+
+Ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes in figures and tables are legible.
 
 SLE follows a single-blind review process. Thus, you do not have to blind your submission.
+
+All submissions must be in PDF format.
 
 #### Concurrent Submissions
 
