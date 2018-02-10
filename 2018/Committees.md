@@ -20,12 +20,44 @@ published: true
 
 ### Program committee
 
-To be announced.
+* Andrew Black, Portland State University, USA
+* Erwan Bousse, TU Wien, Austria
+* Marco Brambilla, Politecnico di Milano, Italy
+* Ruth Breu, University of Innsbruck, Austria
+* Walter Cazzola, University of Milan, Italy
+* Marsha Chechik, University of Toronto, Canada
+* Tony Clark, Sheffield Hallam University, UK
+* Juan de Lara, Universidad Autonoma de Madrid, Spain
+* Thomas Degueule, CWI Amsterdam, Netherlands
+* Juergen Dingel, Queen's University, Canada
+* Tom Dinkelaker, Ericsson, Germany
+* Sebastian Erdweg, Delft University of Technology, Netherlands
+* Bernd Fischer, Stellenbosch University, South Africa
+* Esther Guerra, Autonomous University of Madrid, Spain
+* Daco Harkes, Delft University of Technology, Netherlands
+* Robert Hirschfeld, University of Potsdam, Germany
+* Michael Homer, Victoria University of Wellington, New Zealand
+* Dimitris Kolovos, University of York, UK
+* Ralf Lämmel, University of Koblenz-Landau, Germany
+* Marjan Mernik, University of Maribor, Slovenia
+* Gunter Mussbacher, McGill University, Canada
+* James Noble, Victoria University of Wellington, New Zealand
+* Bruno Oliveira, University of Hong Kong, China
+* Christoph Reichenbach, Lund University, Sweden
+* Jan Oliver Ringert, University of Leicester, UK
+* Bernhard Rumpe, RWTH Aachen University, Germany
+* Anthony Sloane, Macquarie University, Australia
+* Emma Söderberg, Google, Denmark
+* Mark van den Brand, TU Eindhoven, Netherlands
+* Tijs van der Storm, CWI Amsterdam, Netherlands
+* Eelco Visser, Delft University of Technology, Netherlands
+* Eric Walkingshaw, Oregon State University, USA
+* Andreas Wortmann, RWTH Aachen University, Germany
+* Vadim Zaytsev, Rain Code, Belgium
 
 ### Publicity chair
 
 * [Andrei Chiș](http://www.andreichis.com), feenk gmbh, Switzerland
-
 
 ### Steering committee members
 
