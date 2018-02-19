@@ -46,6 +46,7 @@ published: true
 * Christoph Reichenbach, Lund University, Sweden
 * Jan Oliver Ringert, University of Leicester, UK
 * Bernhard Rumpe, RWTH Aachen University, Germany
+* Markus Schordan, Lawrence Livermore National Laboratory, USA
 * Anthony Sloane, Macquarie University, Australia
 * Emma Söderberg, Google, Denmark
 * Mark van den Brand, TU Eindhoven, Netherlands
