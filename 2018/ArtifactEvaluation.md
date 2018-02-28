@@ -27,9 +27,9 @@ An artifact submission comprises the following components:
 * Authors of the artifact: This list may include people who are not authors of the accepted paper, but contributed to creating the artifact.
 * Abstract: A short description of the artifact to be used for assignments of artifacts to AEC members.
 * Artifact: An archive file (`gz`, `xz`, or `zip`) containing everything needed for supporting a full evaluation of the artifact. The archive file has to include at least the artifact itself and a text file `README.txt` that contains the following information:
-** An overview of the archive file documenting the content of the archive.
-** A setup / installation guide giving detailed instructions on how to setup or install the submitted artifact.
-** Detailed step-by-step instructions on how to reproduce any experiments or other activities that support the conclusions given in the paper.
+    * An overview of the archive file documenting the content of the archive.
+    * A setup / installation guide giving detailed instructions on how to setup or install the submitted artifact.
+    * Detailed step-by-step instructions on how to reproduce any experiments or other activities that support the conclusions given in the paper.
 
 
 If multiple artifacts relate to an accepted SLE paper, all artifacts should be collected in one archive and submitted together in one single submission. For instance, if a tool has been developed, a tutorial has been authored with detailed instructions on how to use the tool, and user studies have been performed for evaluating the tool’s properties, the tool, the tutorial, and the raw data collected in the user study should be packed in one archive file and submitted together in one single submission to the SLE 2018 artifact evaluation.
