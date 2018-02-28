@@ -4,8 +4,6 @@ title: Artifact Evaluation
 published: true
 ---
 
-## Artifact Evaluation
-
 
 SLE will, for the third year, use an evaluation process for assessing the quality of artifacts on which papers are based. The aim of this evaluation process is to foster a culture of experimental reproducibility and to provide a peer review process for artifacts as well as papers.
 
@@ -19,7 +17,7 @@ Participating in the artifact evaluation and publishing approved artifacts in th
 
 The artifact evaluation process of SLE borrows heavily from processes described at [artifact-eval.org](artifact-eval.org) and from previous experience in SLE, ECOOP, and ICSCME. The process is detailed in the below.
 
-## Submission
+### Submission
 
 If and when your paper has been accepted for SLE 2018, you will be invited by the AEC chairs to submit the artifacts related to your work. This invitation will contain detailed instructions on how to submit your artifacts.
 
@@ -42,7 +40,7 @@ For artifacts that are tools, it is recommended to provide the tool installed an
 
 Please use widely supported open formats for documents (e.g., PDF, HTML) and data (e.g., CSV, JSON).
 
-## Evaluation Process
+### Evaluation Process
 
 Submitted artifacts will be evaluated by the AEC concerning the following criteria. Artifacts should be:
 
@@ -62,21 +60,21 @@ The evaluation consists of two steps:
 
 Notification about the outcome of the artifact evaluation and reviews including suggestions for improving the artifacts will be distributed about one week before the deadline for the final version of the research paper, such that the outcome can be mentioned in the paper and the final artifact can be uploaded for inclusion in the ACM Digital Library.
 
-## Important Dates
+### Important Dates
 
 * August 31, 2018: Artifact submission
 * September 14, 2018: Kick-the-tires author response
 * October 10, 2018: Artifact notification
 
-## Artifact Evaluation Chairs:
+### Artifact Evaluation Chairs:
 
 * [Romina Eramo](http://www.di.univaq.it/romina.eramo/) , University of L'Aquila, Italy
 * [Matthew Roberts](https://researchers.mq.edu.au/en/persons/matt-roberts), Macquarie University, Australia
 
-## Artifact Evaluation Committee
+### Artifact Evaluation Committee
 
 to be announced
 
-## Further Information
+### Further Information
 
 For further information on the artifact evaluation of SLE 2017, feel free to contact the artifact evaluation chairs with an e-mail to matthew.robert@mq.edu.au or romina.eramo@univaq.it
