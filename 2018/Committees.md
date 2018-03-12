@@ -21,6 +21,7 @@ published: true
 ### Program committee
 
 * Andrew Black, Portland State University, USA
+* Anya Helene Bagge, University of Bergen, Norway
 * Erwan Bousse, TU Wien, Austria
 * Marco Brambilla, Politecnico di Milano, Italy
 * Ruth Breu, University of Innsbruck, Austria
