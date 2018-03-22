@@ -47,7 +47,7 @@ SLE 2018 solicits high-quality contributions in areas ranging from theoretical a
 
 ### Artifact Evaluation
 
-For the third year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. More information will be announced soon.
+For the third year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation[(http://www.sleconf.org/2018/ArtifactEvaluation.html) page.
 
 ### Submission
 
