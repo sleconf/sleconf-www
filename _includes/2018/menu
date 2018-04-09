@@ -25,3 +25,7 @@
 {% assign title="Blog" %}
 {% assign link="/blog" %}
 {% include 2018/menu_item %}
+
+{% assign title="SLEBoK" %}
+{% assign link="/SLEBoK" %}
+{% include 2018/menu_item %}
