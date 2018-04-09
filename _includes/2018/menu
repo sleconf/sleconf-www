@@ -27,5 +27,5 @@
 {% include 2018/menu_item %}
 
 {% assign title="SLEBoK" %}
-{% assign link="/SLEBoK" %}
+{% assign link="/2018/SLEBoK" %}
 {% include 2018/menu_item %}
