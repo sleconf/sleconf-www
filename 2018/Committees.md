@@ -27,7 +27,7 @@ published: true
 * Ruth Breu, University of Innsbruck, Austria
 * Walter Cazzola, University of Milan, Italy
 * Marsha Chechik, University of Toronto, Canada
-* Tony Clark, Sheffield Hallam University, UK
+* Tony Clark, Aston University, UK
 * Juan de Lara, Universidad Autonoma de Madrid, Spain
 * Thomas Degueule, CWI Amsterdam, Netherlands
 * Juergen Dingel, Queen's University, Canada
