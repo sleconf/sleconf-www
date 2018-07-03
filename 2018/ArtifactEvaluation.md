@@ -73,8 +73,20 @@ Notification about the outcome of the artifact evaluation and reviews including 
 
 ### Artifact Evaluation Committee
 
-to be announced
+* Arvid Butting, RWTH Aachen University, Software Engineering
+* LuÌs Eduardo de Souza Amorim,  TU Delft
+* Juri Di Rocco,  University of L'Aquila, Italy
+* Anna Maria] Eilertsen, University of Bergen
+* Abel Gomez, Open University Catalonia Spain
+* Marcel Heinz, University of Koblenz-Landau
+* Ludovico Iovino,  GSSI, Italy
+* Sven Keidel, TU Delft
+* Thomas Kuehn, Technical University of Dresden
+* Jesper Oqvist, Lund University
+* Manuel Leduc, IRISA, France
+* Andrea Mauri, TU Delft
+* Michele Tucci,  University of L'Aquila, Italy
 
 ### Further Information
 
-For further information on the artifact evaluation of SLE 2017, feel free to contact the artifact evaluation chairs with an e-mail to matthew.robert@mq.edu.au or romina.eramo@univaq.it
+For further information on the artifact evaluation of SLE 2018, feel free to contact the artifact evaluation chairs with an e-mail to matthew.roberts@mq.edu.au or romina.eramo@univaq.it
