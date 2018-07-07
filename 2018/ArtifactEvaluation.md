@@ -71,22 +71,6 @@ Notification about the outcome of the artifact evaluation and reviews including 
 * [Romina Eramo](http://www.di.univaq.it/romina.eramo/) , University of L'Aquila, Italy
 * [Matthew Roberts](https://researchers.mq.edu.au/en/persons/matt-roberts), Macquarie University, Australia
 
-### Artifact Evaluation Committee
-
-* Arvid Butting, RWTH Aachen University, Software Engineering
-* LuÌs Eduardo de Souza Amorim,  TU Delft
-* Juri Di Rocco,  University of L'Aquila, Italy
-* Anna Maria] Eilertsen, University of Bergen
-* Abel Gomez, Open University Catalonia Spain
-* Marcel Heinz, University of Koblenz-Landau
-* Ludovico Iovino,  GSSI, Italy
-* Sven Keidel, TU Delft
-* Thomas Kuehn, Technical University of Dresden
-* Jesper Oqvist, Lund University
-* Manuel Leduc, IRISA, France
-* Andrea Mauri, TU Delft
-* Michele Tucci,  University of L'Aquila, Italy
-
 ### Further Information
 
 For further information on the artifact evaluation of SLE 2018, feel free to contact the artifact evaluation chairs with an e-mail to matthew.roberts@mq.edu.au or romina.eramo@univaq.it

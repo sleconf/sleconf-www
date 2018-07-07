@@ -57,6 +57,22 @@ published: true
 * Andreas Wortmann, RWTH Aachen University, Germany
 * Vadim Zaytsev, Rain Code, Belgium
 
+### Artifact Evaluation Committee
+
+* Arvid Butting, RWTH Aachen University, Software Engineering
+* LuÌs Eduardo de Souza Amorim,  TU Delft
+* Juri Di Rocco,  University of L'Aquila, Italy
+* Anna Maria] Eilertsen, University of Bergen
+* Abel Gomez, Open University Catalonia Spain
+* Marcel Heinz, University of Koblenz-Landau
+* Ludovico Iovino,  GSSI, Italy
+* Sven Keidel, TU Delft
+* Thomas Kuehn, Technical University of Dresden
+* Jesper Oqvist, Lund University
+* Manuel Leduc, IRISA, France
+* Andrea Mauri, TU Delft
+* Michele Tucci,  University of L'Aquila, Italy
+
 ### Publicity chair
 
 * [Andrei Chiș](http://www.andreichis.com), feenk gmbh, Switzerland
