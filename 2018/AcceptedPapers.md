@@ -11,6 +11,8 @@ published: true
 
 * **Analysing Meta-Model Product Lines**,  Esther Guerra, Juan de Lara, Marsha Chechik, Rick Salay
 
+* **Bacatá: A Language Parametric Notebook Generator (Tool Demo)**, Mauricio Verano Merino, Jurgen Vinju, Tijs van der Storm
+
 * **Constraint-based Run-time State Migration for Live Modeling**,  Ulyana Tikhonova, Jouke Stoel, Tijs van der Storm, Thomas Degueule
 
 * **Continuous Model Validation using Reference Attribute Grammars**,  Johannes Mey, René Schöne, Görel Hedin, Emma Söderberg, Thomas Kühn, Niklas Fors, Jesper Oqvist, Uwe Aßmann
@@ -27,6 +29,8 @@ published: true
 
 * **Input-Driven Regular Expressions**,  Alexander Sakharov
 
+* **Languages as First-Class Citizens (Vision Paper)**, Matteo Cimini
+
 * **Messir, a Text-first DSL-based Approach for UML Requirements Engineering (Tool Demo)**,  Benoît Ries, Alfredo Capozucca, Nicolas Guelfi
 
 * **Migrating Business Logic to an Incremental Computing DSL: A Case Study**,  Daco Harkes, Elmer van Chastelet, Eelco Visser
@@ -38,6 +42,8 @@ published: true
 * **Morbig, a trustworthy static parser for POSIX shell**,  Yann Régis-Gianas, Nicolas Jeannerod, Ralf Treinen
 
 * **Shape-Diverse DSLs: Languages without Borders**,  Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoit Combemale
+
+* **Storm: A Language Platform for Interacting and Extensible Languages (Tool Demo)**, Filip Strömbäck
 
 * **The Next 700 Unit Checkers**,  Oscar Bennich-Björkman, Steve McKeever
 
