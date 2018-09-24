@@ -4,8 +4,7 @@ title: Keynote - Martin Rinard
 published: true
 ---
 
-We are very proud to announce that this year’s SLE keynote will be given by Martin Rinard from the Massachusetts Institute of Technology.
+###  A New Approach for Software Correctness and Reliability
 
-Martin Rinard is professor in the Department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology, and a member of the Computer Science and Artificial Intelligence Laboratory. His research focuses on software systems and related topics. The broad goal of his research is to obtain better software - making software more robust, resilient, and secure, improving the performance, verifying that the software satisfies important correctness, acceptability, reliability, or accuracy properties, or making systems (both software and hardware) easier to specify, build, maintain, or improve. 
+Software correctness and security have been a central issue in the field for decades. Researchers have developed a wide range of approaches to these problems, none of which has solved these problems to date. In this talk I consider two very different approaches to solving correctness and security problems, failure-oblivious computing and domain-specific languages. I will discuss how these approaches (as well as others) interact with the cognitive limitations and available technical skills of the human population of software developers that currently must be part of any solution for it to be successful. I’ll conclude by outlining a new approach that, by deploying automated programming language technology in an appropriately targeted way, may interact more productively with the characteristics of the developer population as a whole.
 
-More information on his research can be found at [http://people.csail.mit.edu/rinard/](http://people.csail.mit.edu/rinard/). Details about his keynote at SLE will be announced soon.
