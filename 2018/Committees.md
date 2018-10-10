@@ -83,9 +83,10 @@ published: true
 * Benoît Combemale
 * Martin Erwig 
 * Richard Paige
-* Tony Sloane 
+* Tony Sloane (acting chair)
 * Eric Van Wyk
 * Gorel Hedin
-* Jurgen Vinju (chair)
+* Jurgen Vinju 
 * Davide DiRuscio
 * Markus Voelter
+* Marjan Mernik
