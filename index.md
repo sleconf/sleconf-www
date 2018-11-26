@@ -5,15 +5,16 @@ published: true
 
 ### Welcome 
 
-This is the community website of the International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
+This is the community website of the ACM SIGPLAN International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
-* Check out [SLE 2018](2018)
+* Check out [SLE 2019](2019)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 
 ### History
 
 <ul>
+<li><a href="http://www.sleconf.org/2018" >SLE 2018</a>, Boston, Massachusetts, U.S.A.</li>
 <li><a href="http://www.sleconf.org/2017" >SLE 2017</a>, Vancouver, Canada</li>
 <li><a href="http://www.sleconf.org/2016" >SLE 2016</a>, Amsterdam, The Netherlands</li>
 <li><a href="http://www.sleconf.org/2015" >SLE 2015</a>, Pittsburg, USA</li>
