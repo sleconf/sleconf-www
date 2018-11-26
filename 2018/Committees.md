@@ -80,13 +80,14 @@ published: true
 ### Steering committee members
 
 * David Pearce
-* Benoît Combemale
+* Benoît Combemale (chair)
 * Martin Erwig 
 * Richard Paige
-* Tony Sloane (acting chair)
+* Tony Sloane 
 * Eric Van Wyk
 * Gorel Hedin
 * Jurgen Vinju 
 * Davide DiRuscio
 * Markus Voelter
 * Marjan Mernik
+* Friedrich Steimann
