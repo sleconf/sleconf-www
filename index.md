@@ -3,11 +3,10 @@ layout: default
 published: true
 ---
 
-### Welcome 
-
 This is the community website of the ACM SIGPLAN International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
 * Check out [SLE 2019](2019)
+* [SLEBoK](https://github.com/slebok/slebok)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 
