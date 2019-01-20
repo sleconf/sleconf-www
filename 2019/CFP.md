@@ -4,8 +4,6 @@ title: Call for Papers
 published: true
 ---
 
-# Call for Papers
-
 ### Topics of Interest
 
 SLE 2019 solicits high-quality contributions in areas ranging from theoretical and conceptual contributions, to tools, techniques, and frameworks in the domain of software language engineering. Topics relevant to SLE cover generic aspects of software languages development rather than aspects of engineering a specific language. In particular, SLE is interested in contributions from the following areas:

@@ -12,7 +12,7 @@ published: true
 
 * **Shape-Diverse DSLs: Languages without Borders**, Fabien Coulon, Thomas Degueule, Tijs van der Storm, Benoit Combemale
 
-### Distinguished Artifact Award
+#### Distinguished Artifact Award
 
 * **Modular Language Composition for the Masses**, Manuel Leduc, Thomas Degueule, Benoit Combemale
 
