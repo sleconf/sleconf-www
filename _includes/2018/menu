@@ -14,6 +14,10 @@
 {% assign link="/2018/AcceptedPapers.html" %}
 {% include 2018/menu_item %}
 
+{% assign title="Awards winners" %}
+{% assign link="/2018/Awards.html" %}
+{% include 2018/menu_item %}
+
 {% assign title="Program" %}
 {% assign link="/2018/Program.html" %}
 {% include 2018/menu_item %}
