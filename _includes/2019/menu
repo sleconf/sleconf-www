@@ -6,6 +6,10 @@
 {% assign link="/2019/CFP.html" %}
 {% include 2019/menu_item %}
 
+{% assign title="Artifact Evaluation" %}
+{% assign link="/2019/ArtifactEvaluation.html" %}
+{% include 2019/menu_item %}
+
 {% assign title="Important Dates" %}
 {% assign link="/2019/Dates.html" %}
 {% include 2019/menu_item %}
