@@ -10,11 +10,13 @@ published: true
 
 ### PC co-chairs
 
-TBA
+* [Bruno Oliveira](http://i.cs.hku.hk/~bruno/), University of Hong Kong, China
+* [Jeff Gray](http://gray.cs.ua.edu/), University of Alabama,  USA
 
-### Artefact evaluation chairs
+### Artefact Evaluation co-chairs
 
-TBA
+* [Emma Söderberg](http://cs.lth.se/emma-soederberg/), Lund University, Sweden
+* [Abel Gomez](https://abel.gomez.llana.me/), Universitat Oberta de Catalunya, Spain
 
 ### Program committee
 
