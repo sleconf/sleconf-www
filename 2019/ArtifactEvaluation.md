@@ -4,7 +4,7 @@ title: Artifact Evaluation
 published: true
 ---
 
-SLE will, for the third year, use an evaluation process for assessing the quality of artifacts on which papers are based. The aim of this evaluation process is to foster a culture of experimental reproducibility and to provide a peer review process for artifacts as well as papers.
+SLE will, for the fourth year, use an evaluation process for assessing the quality of artifacts on which papers are based. The aim of this evaluation process is to foster a culture of experimental reproducibility and to provide a peer review process for artifacts as well as papers.
 
 Authors of papers accepted for SLE 2019 will be invited to submit artifacts. Any kind of artifact that is presented in the paper, supplements the paper with further details, or underlies the paper can be submitted. This includes, for instance; tools, grammars, metamodels, models, programs, algorithms, scripts, proofs, datasets, statistical tests, checklists, surveys, interview scripts, visualizations, annotated bibliographies, and tutorials.
 
