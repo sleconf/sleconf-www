@@ -61,7 +61,7 @@ Notification about the outcome of the artifact evaluation and reviews including 
 ### Important Dates
 
 * August 16, 2019: Artifact submission
-* August 30, 2019: Kick-the-tires author response
+* August 30 - September 5, 2019: Kick-the-tires author response
 * September 25, 2019: Artifact notification
 
 ### Further Information
