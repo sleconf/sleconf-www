@@ -57,7 +57,7 @@ Using the Word template is strongly discouraged.
 
 Ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes in figures and tables are legible.
 
-SLE follows a single-blind review process. Thus, you do not have to blind your submission.
+To increase fairness in reviewing, a double-blind review process has become standard across SIGPLAN conferences. For the first time, SLE will follow the double-blind process. Author names and institutions should be omitted from submitted papers, and references to the authors’ own related work should be in the third person. No other changes are necessary, and authors will not be penalized if reviewers are able to infer their identities in implicit ways.
 
 All submissions must be in PDF format.
 
@@ -89,4 +89,4 @@ All accepted papers will be published in the ACM Digital Library.
 
 ### Contact
 
-For additional information, clarification, or answers to questions, please contact the organizers by email.
+For additional information, clarification, or answers to questions, please contact the organizers by email (bruno@cs.hku.hk and gray@cs.ua.edu) 
