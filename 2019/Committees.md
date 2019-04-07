@@ -16,20 +16,20 @@ published: true
 ### Artefact Evaluation co-chairs
 
 * [Emma Söderberg](http://cs.lth.se/emma-soederberg/), Lund University, Sweden
-* [Abel Gomez](https://abel.gomez.llana.me/), Universitat Oberta de Catalunya, Spain
+* [Abel Gómez](https://abel.gomez.llana.me/), Universitat Oberta de Catalunya, Spain
 
 ### Program committee
 
 * Casper Bach Poulsen, Delft University of Technology, Netherlands
 * Xuan Bi, University of Hong Kong, China
 * Erwan Bousse, University of Nantes, France
-* Loli Burgeuno, Open University of Catalonia, Spain
+* Loli Burgueño, Universitat Oberta de Catalunya, Spain
 * Marsha Chechik, University of Toronto, Canada
 * Matteo Cimini, University of Massachusetts Lowell, USA
 * Thomas Degueule, CWI, Netherlands
 * Juergen Dingel, Queen's University, Canada
 * Romina Eramo, University of L'Aquila, Italy
-* Sebastian Gerard, CEA Saclay - NanoInnov, France
+* Sébastien Gérard, CEA Saclay - NanoInnov, France
 * Esther Guerra, Universidad Autónoma de Madrid, Spain
 * Pablo Inostroza, CWI, Netherlands
 * Dimitris Kolovos, University of York, UK
@@ -54,7 +54,21 @@ published: true
 
 ### Artifact Evaluation Committee
 
-TBA
+* Juliana Alves Pereira, Inria, France
+* Amine Benelallam, The MathWorks Inc., France
+* Hugo Bruneliere, IMT Atlantique & LS2N (CNRS), France
+* Loli Burgueño, Universitat Oberta de Catalunya, Spain
+* Alejandro Catalá, Research Center on Information Technology (CiTIUS), Spain
+* Luke Church, University of Cambridge, UK
+* Thomas Degueule, CWI, Amsterdam, Netherlands
+* Antonio Garcia-Dominguez, Aston University, UK
+* Sven Keidel, TU Delft, Netherlands
+* Johannes Mey, TU Dresden, Germany
+* Krishna Narasimhan, Itemis, Germany
+* Manuel Leduc, Inria, France
+* Jesper Öqvist, Lund University, Sweden
+* Emma Tosch, University of Massachusetts Amherst, USA
+* Michele Tucci, University of L'Aquila, Italy
 
 ### Publicity chair
 
