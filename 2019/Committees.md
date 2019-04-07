@@ -22,7 +22,7 @@ published: true
 
 * Casper Bach Poulsen, Delft University of Technology, Netherlands
 * Xuan Bi, University of Hong Kong, China
-* Erwan Bousse, TU Wien, Austria
+* Erwan Bousse, University of Nantes, France
 * Loli Burgeuno, Open University of Catalonia, Spain
 * Marsha Chechik, University of Toronto, Canada
 * Matteo Cimini, University of Massachusetts Lowell, USA
