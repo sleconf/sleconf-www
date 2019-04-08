@@ -60,7 +60,6 @@ published: true
 * Loli Burgueño, Universitat Oberta de Catalunya, Spain
 * Alejandro Catalá, Research Center on Information Technology (CiTIUS), Spain
 * Luke Church, University of Cambridge, UK
-* Thomas Degueule, CWI, Amsterdam, Netherlands
 * Juri Di Rocco, University of l'Aquila, Italy
 * Antonio Garcia-Dominguez, Aston University, UK
 * Sven Keidel, TU Delft, Netherlands
