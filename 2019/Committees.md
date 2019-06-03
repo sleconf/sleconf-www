@@ -85,6 +85,5 @@ published: true
 * Gorel Hedin
 * Jurgen Vinju 
 * Davide DiRuscio
-* Markus Voelter
 * Marjan Mernik
 * Friedrich Steimann
