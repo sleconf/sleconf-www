@@ -14,7 +14,7 @@ The AEC will award the artifact that most significantly exceeds the expectations
 
 Participating in the artifact evaluation and publishing approved artifacts in the ACM Digital Library is voluntary. However, we strongly encourage authors to consider this possibility as the availability of artifacts will greatly benefit readers of papers and increase the impact of the work. Note that the artifact evaluation cannot affect the acceptance of the paper, because it only happens after the decision about acceptance has been made.
 
-The artifact evaluation process of SLE borrows heavily from processes described at [artifact-eval.org](artifact-eval.org) and from previous experience in SLE, ECOOP, and ICSCME. The process is detailed in the below.
+The artifact evaluation process of SLE borrows heavily from processes described at [www.artifact-eval.org](https://www.artifact-eval.org) and from previous experience in SLE, ECOOP, and ICSCME. The process is detailed in the below.
 
 ### Submission
 
