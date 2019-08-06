@@ -57,12 +57,12 @@ published: true
 * Juliana Alves Pereira, Inria, France
 * Amine Benelallam, The MathWorks Inc., France
 * Hugo Bruneliere, IMT Atlantique & LS2N (CNRS), France
-* Loli Burgueño, Universitat Oberta de Catalunya, Spain
 * Alejandro Catalá, Research Center on Information Technology (CiTIUS), Spain
 * Luke Church, University of Cambridge, UK
 * Juri Di Rocco, University of l'Aquila, Italy
 * Antonio Garcia-Dominguez, Aston University, UK
 * Sven Keidel, TU Delft, Netherlands
+* Daniel-Jesus Munoz, Universidad de Málaga, Spain
 * Johannes Mey, TU Dresden, Germany
 * Krishna Narasimhan, Itemis, Germany
 * Manuel Leduc, Inria, France
