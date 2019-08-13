@@ -61,7 +61,7 @@ published: true
 * Luke Church, University of Cambridge, UK
 * Juri Di Rocco, University of l'Aquila, Italy
 * Antonio Garcia-Dominguez, Aston University, UK
-* Sven Keidel, TU Delft, Netherlands
+* Sven Keidel, JGU Mainz, Germany
 * Daniel-Jesus Munoz, Universidad de Málaga, Spain
 * Johannes Mey, TU Dresden, Germany
 * Krishna Narasimhan, Itemis, Germany
