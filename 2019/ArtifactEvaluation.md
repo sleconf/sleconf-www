@@ -49,7 +49,7 @@ Submitted artifacts will be evaluated by the AEC concerning the following criter
 
 Each submitted artifact will be evaluated by at least two members of the AEC. Thereby, the artifacts will be treated confidentially, as with the submitted paper.
 
-Artifacts that pass the evaluation will receive an “Artifact Evaluated - Functional” badge and be invited for inclusion in the electronic conference proceedings published in the ACM Digital Library. Artifacts that will be included in the ACM Digital Library or that will be made permanently available in another publicly accessible archival repository will also receive the “Artifact Available” badge. Detailed definitions of these badges and the respective evaluation criteria may be found at the ACM Artifact Review Badging site.
+Artifacts that pass the evaluation will receive an “Artifact Evaluated - Functional” badge and be invited for inclusion in the electronic conference proceedings published in the ACM Digital Library. In addition, artifacts that will be included in the ACM Digital Library or that will be made permanently available in another publicly accessible archival repository will also receive the “Artifact Available” badge. Detailed definitions of these badges and the respective evaluation criteria may be found at the ACM Artifact Review Badging site.
 
 The evaluation consists of two steps:
 
