@@ -60,7 +60,7 @@ Notification about the outcome of the artifact evaluation and reviews including 
 
 ### Important Dates
 
-* August 16, 2019: Artifact submission ([sle19ae.hotcrp.com](https://sle19ae.hotcrp.com))
+* ~August 16, 2019~ August 18, 2019: Artifact submission (extended) ([sle19ae.hotcrp.com](https://sle19ae.hotcrp.com))
 * August 30 - September 5, 2019: Kick-the-tires author response
 * September 25, 2019: Artifact notification
 
