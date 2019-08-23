@@ -53,7 +53,7 @@ Artifacts that pass the evaluation will receive an “Artifact Evaluated - Funct
 
 The evaluation consists of two steps:
 
-1. Kicking-the-tires: Reviewers will check the artifact’s integrity and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). In case of any problems, authors will be given a 48-hour period (August 30) to read and respond to the kick-the-tires reports of their artifacts and solve any issues preventing the artifact evaluation.
+1. Kicking-the-tires: Reviewers will check the artifact’s integrity and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). In case of any problems, authors will be given a 6-days period (until September 5) to read and respond to the kick-the-tires reports of their artifacts and solve any issues preventing the artifact evaluation.
 2. Artifact assessment: Reviewers evaluate the artifacts and decide on the approval of the artifact.
 
 Notification about the outcome of the artifact evaluation and reviews including suggestions for improving the artifacts will be distributed about one week before the deadline for the final version of the research paper, such that the outcome can be mentioned in the paper and the final artifact can be uploaded for inclusion in the ACM Digital Library.
