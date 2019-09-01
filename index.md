@@ -9,6 +9,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 * [SLEBoK](https://github.com/slebok/slebok)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
+* [Most Influential Paper Award](mip)
 
 ### History
 
