@@ -15,7 +15,7 @@ In 2019 we offer two awards: one for the authors of the MIP from the 2009 progra
 - Endorsement: [http://tiny.cc/slemip2019](http://tiny.cc/slemip2019) (deadline: Sep. 20th, 2019)
 
 
- ### SLE MIP Award 2018
- 
+### SLE MIP Award 2018
+
 - Program SLE 2008: [http://www.sleconf.org/2008/program.html](http://www.sleconf.org/2008/program.html); 
 - Endorsement: [http://tiny.cc/slemip2018](http://tiny.cc/slemip2018) (deadline: Sep. 20th, 2019)
