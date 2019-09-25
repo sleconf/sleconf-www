@@ -55,7 +55,6 @@ published: true
 ### Artifact Evaluation Committee
 
 * Juliana Alves Pereira, Inria, France
-* Amine Benelallam, The MathWorks Inc., France
 * Hugo Bruneliere, IMT Atlantique & LS2N (CNRS), France
 * Alejandro Catalá, Research Center on Information Technology (CiTIUS), Spain
 * Luke Church, University of Cambridge, UK
