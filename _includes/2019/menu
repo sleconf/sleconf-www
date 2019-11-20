@@ -6,6 +6,10 @@
 {% assign link="/2019/AcceptedPapers.html" %}
 {% include 2019/menu_item %}
 
+{% assign title="Awards winners" %}
+{% assign link="/2019/Awards.html" %}
+{% include 2019/menu_item %}
+
 {% assign title="Call for Papers" %}
 {% assign link="/2019/CFP.html" %}
 {% include 2019/menu_item %}
