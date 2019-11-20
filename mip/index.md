@@ -13,9 +13,11 @@ In 2019 we offered two awards: one for the authors of the MIP from the 2009 prog
 
 - SLE MIP Award 2019: Mathieu Acher, Philippe Collet, Philippe Lahire, Robert B. France: Composing Feature Models. SLE 2009
 - Program SLE 2009: [http://www.sleconf.org/2009/Program.html](http://www.sleconf.org/2009/Program.html); 
+- Pictures from the award ceremony can be found [here](http://bit.ly/sle19-photos).
 
 
 ### SLE MIP Award 2018
 
 - SLE MIP Award 2018: José Eduardo Rivera, Esther Guerra, Juan de Lara, Antonio Vallecillo: Analyzing Rule-Based Behavioral Semantics of Visual Modeling Languages with Maude. SLE 2008
 - Program SLE 2008: [http://www.sleconf.org/2008/program.html](http://www.sleconf.org/2008/program.html); 
+- Pictures from the award ceremony can be found [here](http://bit.ly/sle19-photos).
