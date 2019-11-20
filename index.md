@@ -10,6 +10,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 * [Most Influential Paper Award](mip)
+* [Steering committee](sc)
 
 ### History
 
