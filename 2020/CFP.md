@@ -1,12 +1,12 @@
 ---
-layout: default2019
+layout: default2020
 title: Call for Papers
 published: true
 ---
 
 ### Topics of Interest
 
-SLE 2019 solicits high-quality contributions in areas ranging from theoretical and conceptual contributions, to tools, techniques, and frameworks in the domain of software language engineering. Topics relevant to SLE cover generic aspects of software languages development rather than aspects of engineering a specific language. In particular, SLE is interested in contributions from the following areas:
+SLE 2020 solicits high-quality contributions in areas ranging from theoretical and conceptual contributions, to tools, techniques, and frameworks in the domain of software language engineering. Topics relevant to SLE cover generic aspects of software languages development rather than aspects of engineering a specific language. In particular, SLE is interested in contributions from the following areas:
 
 - Software Language Design and Implementation
     - Approaches to and methods for language design
@@ -41,11 +41,14 @@ SLE 2019 solicits high-quality contributions in areas ranging from theoretical a
 
 - **New ideas / vision papers:** New ideas papers should describe new, non-conventional SLE research approaches that depart from standard practice. They are intended to describe well-defined research ideas that are at an early stage of investigation. Vision papers are intended to present new unifying theories about existing SLE research that can lead to the development of new technologies or approaches. New ideas / vision papers must not exceed 4 pages excluding bibliography.
 
-**Workshops:** Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience. Information on how to submit workshops can be found at the [SPLASH 2019 Website](https://conf.researchr.org/track/splash-2019/splash-2019-Workshops).
+**Workshops:** Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience. Information on how to submit workshops can be found at the [SPLASH 2020 Website](https://conf.researchr.org/track/splash-2020/splash-2020-Workshops).
 
 ### Artifact Evaluation
 
-For the third year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2019#Artifact-Evaluation) page.
+For the third year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. 
+{% comment %}
+For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2020#Artifact-Evaluation) page.
+{% endcomment %}
 
 ### Submission
 
@@ -67,7 +70,7 @@ Papers must describe unpublished work that is not currently submitted for public
 
 #### Submission Site
 
-Submissions will be accepted at [https://sle19.hotcrp.com/](https://sle19.hotcrp.com/).
+Submissions will be accepted at [https://sle20.hotcrp.com/](https://sle20.hotcrp.com/).
 
 ### Reviewing Process
 
@@ -89,4 +92,4 @@ All accepted papers will be published in the ACM Digital Library.
 
 ### Contact
 
-For additional information, clarification, or answers to questions, please contact the organizers by email (bruno@cs.hku.hk and gray@cs.ua.edu) 
+For additional information, clarification, or answers to questions, please contact the organizers by email.
