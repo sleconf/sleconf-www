@@ -21,11 +21,11 @@
 {% include 2020/menu_item %}
 
 {% assign title="Important Dates" %}
-{% assign link="/2019/Dates.html" %}
+{% assign link="/2020/Dates.html" %}
 {% include 2020/menu_item %}
 
 {% assign title="Committees" %}
-{% assign link="/2019/Committees.html" %}
+{% assign link="/2020/Committees.html" %}
 {% include 2020/menu_item %}
 
 {% assign title="Blog" %}
