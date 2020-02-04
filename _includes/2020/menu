@@ -1,0 +1,35 @@
+{% assign title="Welcome" %}
+{% assign link="/2019/index.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Accepted Papers" %}
+{% assign link="/2019/AcceptedPapers.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Awards winners" %}
+{% assign link="/2019/Awards.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2019/CFP.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Artifact Evaluation" %}
+{% assign link="/2019/ArtifactEvaluation.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2019/Dates.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2019/Committees.html" %}
+{% include 2019/menu_item %}
+
+{% assign title="Blog" %}
+{% assign link="/blog" %}
+{% include 2019/menu_item %}
+
+{% assign title="SLEBoK" %}
+{% assign link="/2019/SLEBoK" %}
+{% include 2019/menu_item %}
