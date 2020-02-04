@@ -1,7 +1,7 @@
 ---
-layout: default2019
+layout: default2020
 title: Important Dates
 published: true
 ---
 
-{% include 2019/dates %}
+{% include 2020/dates %}
