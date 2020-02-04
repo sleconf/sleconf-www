@@ -1,5 +1,5 @@
 ---
-layout: default2019
+layout: default2020
 title: Welcome
 published: true
 ---
