@@ -2,6 +2,7 @@
 {% assign link="/2020/index.html" %}
 {% include 2020/menu_item %}
 
+{% comment %}
 {% assign title="Accepted Papers" %}
 {% assign link="/2020/AcceptedPapers.html" %}
 {% include 2020/menu_item %}
@@ -9,6 +10,7 @@
 {% assign title="Awards winners" %}
 {% assign link="/2020/Awards.html" %}
 {% include 2020/menu_item %}
+{% endcomment %}
 
 {% assign title="Call for Papers" %}
 {% assign link="/2020/CFP.html" %}
