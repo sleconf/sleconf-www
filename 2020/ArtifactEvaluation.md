@@ -1,12 +1,12 @@
 ---
-layout: default2019
+layout: default2020
 title: Artifact Evaluation
 published: true
 ---
 
-SLE will, for the fourth year, use an evaluation process for assessing the quality of artifacts on which papers are based. The aim of this evaluation process is to foster a culture of experimental reproducibility and to provide a peer review process for artifacts as well as papers.
+SLE will, for the fifth year, use an evaluation process for assessing the quality of artifacts on which papers are based. The aim of this evaluation process is to foster a culture of experimental reproducibility and to provide a peer review process for artifacts as well as papers.
 
-Authors of papers accepted for SLE 2019 will be invited to submit artifacts. Any kind of artifact that is presented in the paper, supplements the paper with further details, or underlies the paper can be submitted. This includes, for instance; tools, grammars, metamodels, models, programs, algorithms, scripts, proofs, datasets, statistical tests, checklists, surveys, interview scripts, visualizations, annotated bibliographies, and tutorials.
+Authors of papers accepted for SLE 2020 will be invited to submit artifacts. Any kind of artifact that is presented in the paper, supplements the paper with further details, or underlies the paper can be submitted. This includes, for instance; tools, grammars, metamodels, models, programs, algorithms, scripts, proofs, datasets, statistical tests, checklists, surveys, interview scripts, visualizations, annotated bibliographies, and tutorials.
 
 The submitted artifacts will be reviewed by a dedicated Artifact Evaluation Committee (AEC). Artifacts that live up to the expectations created by the paper will receive a badge of approval from the AEC. The approved artifacts will be invited for inclusion in the electronic conference proceedings published in the ACM Digital Library. This will ensure the permanent and durable storage of the artifacts alongside the published papers fostering the repeatability of experiments, enabling precise comparison with alternative approaches, and helping the dissemination of the author's ideas in detail.
 
@@ -18,11 +18,11 @@ The artifact evaluation process of SLE borrows heavily from processes described 
 
 ### Submission
 
-If and when your paper has been accepted for SLE 2019, you will be invited by the AEC chairs to submit the artifacts related to your work. This invitation will contain detailed instructions on how to submit your artifacts.
+If and when your paper has been accepted for SLE 2020, you will be invited by the AEC chairs to submit the artifacts related to your work. This invitation will contain detailed instructions on how to submit your artifacts.
 
 An artifact submission comprises the following components:
 
-* Paper: Preliminary PDF version of the accepted SLE 2019 paper. The paper will be used to evaluate the consistency of the accepted paper and the submitted artifact, as well as to assess whether the artifact lives up to the expectations created by the paper.
+* Paper: Preliminary PDF version of the accepted SLE 2020 paper. The paper will be used to evaluate the consistency of the accepted paper and the submitted artifact, as well as to assess whether the artifact lives up to the expectations created by the paper.
 * Authors of the artifact: This list may include people who are not authors of the accepted paper, but contributed to creating the artifact.
 * Abstract: A short description of the artifact to be used for assignments of artifacts to AEC members.
 * Artifact: An archive file (`gz`, `xz`, or `zip`) containing everything needed for supporting a full evaluation of the artifact. The archive file has to include at least the artifact itself and a text file `README.txt` that contains the following information:
@@ -30,7 +30,7 @@ An artifact submission comprises the following components:
     * A setup / installation guide giving detailed instructions on how to setup or install the submitted artifact.
     * Detailed step-by-step instructions on how to reproduce any experiments or other activities that support the conclusions given in the paper.
 
-If multiple artifacts relate to an accepted SLE paper, all artifacts should be collected in one archive and submitted together in one single submission. For instance, if a tool has been developed, a tutorial has been authored with detailed instructions on how to use the tool, and user studies have been performed for evaluating the tool’s properties, the tool, the tutorial, and the raw data collected in the user study should be packed in one archive file and submitted together in one single submission to the SLE 2019 artifact evaluation.
+If multiple artifacts relate to an accepted SLE paper, all artifacts should be collected in one archive and submitted together in one single submission. For instance, if a tool has been developed, a tutorial has been authored with detailed instructions on how to use the tool, and user studies have been performed for evaluating the tool’s properties, the tool, the tutorial, and the raw data collected in the user study should be packed in one archive file and submitted together in one single submission to the SLE 2020 artifact evaluation.
 
 When preparing your artifact, consider that your artifact should be as accessible to the AEC as possible. In particular, it should be possible for the AEC to quickly make progress in the investigation of your artifact. Please provide some simple scenarios describing concretely how the artifact is intended to be used. For a tool, this would include specific inputs to provide or actions to take, and expected output or behavior in response to this input.
 
@@ -53,16 +53,20 @@ Artifacts that pass the evaluation will receive an “Artifact Evaluated - Funct
 
 The evaluation consists of two steps:
 
-1. Kicking-the-tires: Reviewers will check the artifact’s integrity and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). In case of any problems, authors will be given a 6-days period (until September 5) to read and respond to the kick-the-tires reports of their artifacts and solve any issues preventing the artifact evaluation.
+1. Kicking-the-tires: Reviewers will check the artifact’s integrity and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). In case of any problems, authors will be given several days to read and respond to the kick-the-tires reports of their artifacts and solve any issues preventing the artifact evaluation.
 2. Artifact assessment: Reviewers evaluate the artifacts and decide on the approval of the artifact.
 
 Notification about the outcome of the artifact evaluation and reviews including suggestions for improving the artifacts will be distributed about one week before the deadline for the final version of the research paper, such that the outcome can be mentioned in the paper and the final artifact can be uploaded for inclusion in the ACM Digital Library.
 
 ### Important Dates
 
+TBD
+
+{% comment %}
 * ~~August 16, 2019~~ August 18, 2019: Artifact submission (extended) ([sle19ae.hotcrp.com](https://sle19ae.hotcrp.com))
 * August 30 - September 5, 2019: Kick-the-tires author response
 * September 25, 2019: Artifact notification
+{% endcomment %}
 
 ### Further Information
 
