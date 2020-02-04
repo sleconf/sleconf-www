@@ -12,7 +12,7 @@ With the ubiquity of computers, software has become the dominating intellectual 
 
 Like its predecessors, the 13th edition of the SLE conference, SLE 2020, will bring together researchers from different areas united by their common interest in the creation, capture, and tooling of software languages. It overlaps with traditional conferences on the design and implementation of programming languages, model-driven engineering, and compiler construction, and emphasizes the fusion of their communities. To foster the latter, SLE traditionally fills a two-day program with a single track, with the only temporal overlap occurring between co-located events.
 
-SLE 2020 will be co-located with [SPLASH](http://2020.splashcon.org/), [GPCE](https://conf.researchr.org/home/gpce-2020) and SAS (https://conf.researchr.org/home/sas-2020) in  Chicago, Illinois, United States. More details will be announced in the near future.
+SLE 2020 will be co-located with [SPLASH](http://2020.splashcon.org/), [GPCE](https://conf.researchr.org/home/gpce-2020) and [SAS](https://conf.researchr.org/home/sas-2020) in  Chicago, Illinois, United States. More details will be announced in the near future.
 
 * Community website: [http://www.sleconf.org/2020](http://www.sleconf.org/2020)
 * Conference website: [https://conf.researchr.org/home/sle-2020](https://conf.researchr.org/home/sle-2020)
