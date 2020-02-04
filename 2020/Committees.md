@@ -1,25 +1,28 @@
 ---
-layout: default2019
+layout: default2020
 title: Committees
 published: true
 ---
 
 ### General chair
 
-* [Oscar Nierstrasz](http://scg.unibe.ch/staff/oscar), University of Bern, Switzerland
+* [Ralf Lämmel](http://softlang.wikidot.com/rlaemmel:home), Facebook, London, UK
 
 ### PC co-chairs
 
-* [Bruno Oliveira](http://i.cs.hku.hk/~bruno/), University of Hong Kong, China
-* [Jeff Gray](http://gray.cs.ua.edu/), University of Alabama,  USA
+* [Laurence Tratt](http://tratt.net/laurie/), King's College London, UK
+* [Juan de Lara](http://arantxa.ii.uam.es/~jlara/), Universidad Autónoma de Madrid, Spain
 
 ### Artefact Evaluation co-chairs
 
-* [Emma Söderberg](http://cs.lth.se/emma-soederberg/), Lund University, Sweden
-* [Abel Gómez](https://abel.gomez.llana.me/), Universitat Oberta de Catalunya, Spain
+* [Antonio Garcia-Dominguez](https://www.cs.aston.ac.uk/~garcia-a/), Aston University, UK
+* [Lukas Diekmann](http://lukasdiekmann.com), King’s College London, UK
 
 ### Program committee
 
+TBD
+
+{% comment %}
 * Casper Bach Poulsen, Delft University of Technology, Netherlands
 * Xuan Bi, University of Hong Kong, China
 * Erwan Bousse, University of Nantes, France
@@ -50,10 +53,14 @@ published: true
 * Tian Zhang, Nanjing University, China
 * Juan de Lara, Universidad Autónoma de Madrid, Spain
 * Mark van den Brand, TU Eindhoven, Netherlands
+{% endcomment %}
 
 
 ### Artifact Evaluation Committee
 
+TBD
+
+{% comment %}
 * Juliana Alves Pereira, Inria, France
 * Hugo Bruneliere, IMT Atlantique & LS2N (CNRS), France
 * Alejandro Catalá, Research Center on Information Technology (CiTIUS), Spain
@@ -68,10 +75,11 @@ published: true
 * Jesper Öqvist, Lund University, Sweden
 * Emma Tosch, University of Massachusetts Amherst, USA
 * Michele Tucci, University of L'Aquila, Italy
+{% endcomment %}
 
 ### Publicity chair
 
-* [Andrei Chiș](http://www.andreichis.com), feenk gmbh, Switzerland
+* [Loli Burgueño](https://som-research.uoc.edu/loli-burgueno/), Open University of Catalonia, Spain & CEA List, France
 
 ### Steering committee members
 
