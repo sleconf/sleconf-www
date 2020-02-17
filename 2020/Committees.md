@@ -20,7 +20,35 @@ published: true
 
 ### Program committee
 
-TBD
+* Jonathan Aldrich, CMU, USA
+* Uwe Assmann, TU Dresden, Germany
+* Olivier Barais, "Univ. Rennes, Inria, CNRS, IRISA", France
+* Artur Boronat, University of Leicester, UK
+* Erwan Bousse, University of Nantes, France
+* Javier Canovas, UOC - IN3, Spain
+* Walter Cazzola, University of Milan, Italy
+* Marsha Chechik, University of Toronto, Canada
+* Tony Clark, Aston University, UK
+* Sebastian Erdweg, JGU Mainz, Germany
+* Jeff Gray, University of Alabama, USA
+* Görel Hedin, Lund University, Sweden
+* Dimitris Kolovos, University of York, UK
+* Padmanabhan Krishnan, Oracle Labs, Australia
+* Thomas Kühne, Victoria University of Wellington, New Zealand 
+* Sérgio Queiroz de Medeiros, Universidade Federal do Rio Grande do Norte, Brazil
+* Iris Reinhartz-Berger, University of Haifa, Israel 
+* Bernhard Rumpe, RWTH Aachen University, Germany
+* Yann Régis-Gianas, IRIF - INRIA, France
+* Elizabeth Scott, Royal Holloway University of London, UK
+* Chris Seaton, Shopify, UK
+* Friedrich Steimann, Fernuniversität in Hagen, Germany
+* Tijs van der Storm, CWI, Netherlands
+* Eugene Syriani, Université de Montréal, Canada
+* Jesús Sánchez Cuadrado, University of Murcia, Spain
+* Eric Van Wyk, University of Minnesota, USA
+* Markus Voelter, independent/itemis
+* Vadim Zaytsev, Raincode Labs, Belgium
+* Uwe Zdun, University of Vienna, Austria
 
 {% comment %}
 * Casper Bach Poulsen, Delft University of Technology, Netherlands
