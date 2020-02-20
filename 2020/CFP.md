@@ -49,7 +49,7 @@ Broadly speaking, SLE covers software language engineering rather than engineeri
 
 ### Artifact Evaluation
 
-For the fifth year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2020#Artifact-Evaluation) page.
+For the fifth year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](http://www.sleconf.org/2020/ArtifactEvaluation.html) page.
 
 ### Submission
 
