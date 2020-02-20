@@ -4,67 +4,65 @@ title: Call for Papers
 published: true
 ---
 
-Coming coon
+### Types of Submissions
 
-{% comment %}
+SLE accepts three types of papers:
+
+- **Research papers:** These are “traditional” papers detailing research contributions to SLE. These papers have a limit of 12 pages, and may optionally include 8 further pages[*] of bibliography/appendices
+
+	[*] pending ACM approval
+
+- **Tool papers:** These are papers which focus on the tooling aspects which are often forgotten or neglected in research papers. A good tool paper focusses on practical insights that are likely to be useful to other implementers or users in the future. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must not exceed 5 pages and may optionally include 1 further page of bibliography / appendices. They may optionally come with an appendix with a demo outline / screenshots and/or a short video/screencast illustrating the tool. Tool paper titles must start with "Tool Demo:".
+
+- **New ideas / vision papers:** These are forward-looking papers about ideas that will interest the SLE community but which are not currently at an advanced level of research. These might be about new research avenues or about integrating existing research ideas, or technologies. New ideas / vision papers must not exceed 5 pages,  and may optionally include 1 further page of bibliography / appendices
 
 ### Topics of Interest
 
-SLE 2020 solicits high-quality contributions in areas ranging from theoretical and conceptual contributions, to tools, techniques, and frameworks in the domain of software language engineering. Topics relevant to SLE cover generic aspects of software languages development rather than aspects of engineering a specific language. In particular, SLE is interested in contributions from the following areas:
+Broadly speaking, SLE covers software language engineering rather than engineering a specific software language. Topics of interest include, but are not limited to:
 
 - Software Language Design and Implementation
-    - Approaches to and methods for language design
-    - Static semantics (e.g., design rules, well-formedness constraints)
-    - Techniques for specifying behavioral / executable semantics
-    - Generative approaches (incl. code synthesis, compilation)
-    - Meta-languages, meta-tools, language workbenches
+	- Approaches to and methods for language design
+	- Static semantics (e.g. design rules, well-formedness constraints)
+	- Techniques for specifying behavioral / executable semantics
+	- Generative approaches (incl. code synthesis, compilation)
+	- Meta-languages, meta-tools, language workbenches
 - Software Language Validation
-    - Verification and formal methods for languages
-    - Testing techniques for languages
-    - Simulation techniques for languages
+	- Verification and formal methods for languages
+	- Testing techniques for languages
+	- Simulation techniques for languages
 - Software Language Integration and Composition
-    - Coordination of heterogeneous languages and tools
-    - Mappings between languages (incl. transformation languages)
-    - Traceability between languages
-    - Deployment of languages to different platforms
+	- Coordination of heterogeneous languages and tools
+	- Mappings between languages (incl. transformation languages)
+	- Traceability between languages
+	- Deployment of languages to different platforms
 - Software Language Maintenance
-    - Software language reuse
-    - Language evolution
-    - Language families and variability
+	- Software language reuse
+	- Language evolution
+	- Language families and variability
 - Domain-specific approaches for any aspects of SLE (design, implementation, validation, maintenance)
 - Empirical evaluation and experience reports of language engineering tools
-    - User studies evaluating usability
-    - Performance benchmarks
-    - Industrial applications
+	- User studies evaluating usability
+	- Performance benchmarks
+	- Industrial applications
 
-### Types of Submissions
-
-- **Research papers:** These should report a substantial research contribution to SLE or successful application of SLE techniques or both. Full paper submissions must not exceed 12 pages excluding bibliography.
-
-- **Tool papers:** Because of SLE’s interest in tools, we seek papers that present software tools related to the field of SLE. Selection criteria include originality of the tool, its innovative aspects, and relevance to SLE. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must provide a tool description of 4 pages excluding bibliography, and a demonstration outline including screenshots of up to 6 pages. Tool demonstrations must have the keywords “Tool Demo” or “Tool Demonstration” in the title. The 4-page tool description will, if the demonstration is accepted, be published in the proceedings. The 6-page demonstration outline will be used by the program committee only for evaluating the submission.
-
-- **New ideas / vision papers:** New ideas papers should describe new, non-conventional SLE research approaches that depart from standard practice. They are intended to describe well-defined research ideas that are at an early stage of investigation. Vision papers are intended to present new unifying theories about existing SLE research that can lead to the development of new technologies or approaches. New ideas / vision papers must not exceed 4 pages excluding bibliography.
-
-**Workshops:** Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience. Information on how to submit workshops can be found at the [SPLASH 2020 Website](https://conf.researchr.org/track/splash-2020/splash-2020-Workshops).
+**Workshops:** Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience. Information on how to submit workshops can be found at the SPLASH 2020 Website.
 
 ### Artifact Evaluation
 
-For the third year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. 
-{% comment %}
-For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2020#Artifact-Evaluation) page.
-{% endcomment %}
+For the fifth year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2019#Artifact-Evaluation) page.
 
 ### Submission
 
 #### Format
 
-Submissions have to use the [ACM SIGPLAN Conference Format "acmart"](http://sigplan.org/Resources/Author/#acmart-format); please make sure that you always use the latest [ACM SIGPLAN acmart LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip), and that the document class definition is `\documentclass[sigplan,anonymous,review]{acmart}`. Do not make any changes to this format!
 
-Using the Word template is strongly discouraged.
+
+
+Submissions have to use the [ACM SIGPLAN Conference Format "acmart"](http://sigplan.org/Resources/Author/#acmart-format); please make sure that you always use the latest [ACM SIGPLAN acmart LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip), and that the document class definition is `\documentclass[sigplan,anonymous,review]{acmart}`. Do not make any changes to this format!
 
 Ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes in figures and tables are legible.
 
-To increase fairness in reviewing, a double-blind review process has become standard across SIGPLAN conferences. For the first time, SLE will follow the double-blind process. Author names and institutions should be omitted from submitted papers, and references to the authors’ own related work should be in the third person. No other changes are necessary, and authors will not be penalized if reviewers are able to infer their identities in implicit ways.
+To increase fairness in reviewing, a double-blind review process has become standard across SIGPLAN conferences. In this line, SLE will follow the double-blind process. Author names and institutions should be omitted from submitted papers, and references to the authors’ own related work should be in the third person. No other changes are necessary, and authors will not be penalized if reviewers are able to infer their identities in implicit ways.
 
 All submissions must be in PDF format.
 
@@ -78,7 +76,7 @@ Submissions will be accepted at [https://sle20.hotcrp.com/](https://sle20.hotcrp
 
 ### Reviewing Process
 
-All submitted papers will be reviewed by at least three members of the program committee.  Research papers and tool papers will be evaluated concerning novelty, correctness, significance, readability, and alignment with the conference call. New ideas / vision papers will be evaluated primarily concerning novelty, significance, readability, and alignment with the conference call.
+All submitted papers will be reviewed by at least three members of the program committee. Research papers and tool papers will be evaluated concerning novelty, correctness, significance, readability, and alignment with the conference call. New ideas / vision papers will be evaluated primarily concerning novelty, significance, readability, and alignment with the conference call.
 
 For fairness reasons, all submitted papers must conform to the above instructions. Submissions that violate these instructions may be rejected without review, at the discretion of the PC chairs.
 
@@ -96,6 +94,6 @@ All accepted papers will be published in the ACM Digital Library.
 
 ### Contact
 
-For additional information, clarification, or answers to questions, please contact the organizers by email.
+For additional information, clarification, or answers to questions, please contact the Programme Chairs (Juan de Lara and Laurence Tratt) by email (Juan.deLara@uam.es and laurie@tratt.net).
 
-{% endcomment %}
+
