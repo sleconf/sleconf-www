@@ -49,14 +49,11 @@ Broadly speaking, SLE covers software language engineering rather than engineeri
 
 ### Artifact Evaluation
 
-For the fifth year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2019#Artifact-Evaluation) page.
+For the fifth year SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](https://conf.researchr.org/track/sle-2020#Artifact-Evaluation) page.
 
 ### Submission
 
 #### Format
-
-
-
 
 Submissions have to use the [ACM SIGPLAN Conference Format "acmart"](http://sigplan.org/Resources/Author/#acmart-format); please make sure that you always use the latest [ACM SIGPLAN acmart LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip), and that the document class definition is `\documentclass[sigplan,anonymous,review]{acmart}`. Do not make any changes to this format!
 
