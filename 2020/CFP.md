@@ -3,6 +3,8 @@ layout: default2020
 title: Call for Papers
 published: true
 ---
+#### MARCH 24th UPDATE:
+#### In view of the uncertainties around the COVID-19 pandemic, as an effort to relieve stress on authors, SLE has delayed the paper submission deadlines by one month, following the [SPLASH general policy](https://2020.splashcon.org/#march-20-update-on-splash-2020-in-relation-to-covid-19-coronavirus).
 
 ### Types of Submissions
 
