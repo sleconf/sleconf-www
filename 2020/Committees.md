@@ -89,3 +89,6 @@ TBD
 * Davide DiRuscio
 * Marjan Mernik
 * Friedrich Steimann
+* Jeff Gray
+* Bruno Oliveira
+* Andrei Chis
