@@ -3,8 +3,10 @@ layout: default2020
 title: Call for Papers
 published: true
 ---
-#### MARCH 24th UPDATE:
-#### In view of the uncertainties around the COVID-19 pandemic, as an effort to relieve stress on authors, SLE has delayed the paper submission deadlines by one month, following the [SPLASH general policy](https://2020.splashcon.org/#march-20-update-on-splash-2020-in-relation-to-covid-19-coronavirus).
+### Virtual SLE 2020
+#### JULY 1st UPDATE: SPLASH and all co-located events (including SLE) will be virtual starting November 15, 2020. The decision to virtualize SPLASH and SLE was made to minimize the risks to attendees due to COVID-19 and associated uncertainties around travel.
+
+#### March 24th update: In view of the uncertainties around the COVID-19 pandemic, as an effort to relieve stress on authors, SLE has delayed the paper submission deadlines by one month, following the [SPLASH general policy](https://2020.splashcon.org/#march-20-update-on-splash-2020-in-relation-to-covid-19-coronavirus).
 
 ### Types of Submissions
 
