@@ -14,8 +14,6 @@ SLE accepts three types of papers:
 
 - **Research papers:** These are “traditional” papers detailing research contributions to SLE. These papers have a limit of 12 pages, and may optionally include 8 further pages[*] of bibliography/appendices
 
-	[*] pending ACM approval
-
 - **Tool papers:** These are papers which focus on the tooling aspects which are often forgotten or neglected in research papers. A good tool paper focusses on practical insights that are likely to be useful to other implementers or users in the future. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must not exceed 5 pages and may optionally include 1 further page of bibliography / appendices. They may optionally come with an appendix with a demo outline / screenshots and/or a short video/screencast illustrating the tool. Tool paper titles must start with "Tool Demo:".
 
 - **New ideas / vision papers:** These are forward-looking papers about ideas that will interest the SLE community but which are not currently at an advanced level of research. These might be about new research avenues or about integrating existing research ideas, or technologies. New ideas / vision papers must not exceed 5 pages,  and may optionally include 1 further page of bibliography / appendices
