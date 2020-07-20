@@ -47,7 +47,7 @@ published: true
 * Jesús Sánchez Cuadrado, University of Murcia, Spain
 * Eric Van Wyk, University of Minnesota, USA
 * Markus Voelter, independent/itemis
-* Vadim Zaytsev, Raincode Labs, Belgium
+* Vadim Zaytsev, Universiteit Twente, The Netherlands
 * Uwe Zdun, University of Vienna, Austria
 
 
