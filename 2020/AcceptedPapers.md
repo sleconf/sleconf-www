@@ -1,45 +1,64 @@
 ---
-layout: default2019
+layout: default2020
 title: Accepted Papers
 published: true
 ---
 
-* **A Feature-Based Classification of Triple Graph Grammar Variants**,  Nils Weidmann, Patrick Robrecht, Robin Oppermann
+* **Gradually Typing Strategies**, Jeff Smits, Eelco Visser
 
-* **A Vision of Miking: Interactive Programmatic Modeling, Sound Language Composition, and Self-Learning Compilation**,  David Broman
 
-* **Analysis and Modeling of the Governance in General Programming Languages**,  Javier Luis Cánovas Izquierdo, Jordi Cabot
+* **A Family of Languages for Trustworthy Agent-Based Simulation**, Steffen Zschaler, Fiona A. C. Polack
 
-* **Breaking Parsers: Mutation-based Generation of Programs with Guaranteed Syntax Errors**,  Moeketsi Raselimo, Jan Taljaard, Bernd Fischer
 
-* **Consistency Management via a Combination of Triple Graph Grammars and Linear Programming**,  Nils Weidmann, Anthony Anjorin, Erhan Leblebici, Andy Schürr
+* **Annotating Executable DSLs with Energy Estimation Formulas**, Thibault Béziers la Fosse, Massimo Tisi, Jean-Marie Mottu, Gerson Sunyé
 
-* **Default disambiguation for online parsers**,  Lukas Diekmann, Laurence Tratt
 
-* **Detecting and Exploring Side Effects when Repairing Model Inconsistencies**,  Djamel Eddine Khelladi, Roland Kretschmer, Alexander Egyed
+* **A Precedence-Driven Approach for Concurrent Model Synchronization Scenarios using Triple Graph Grammars**, Lars Fritsche, Jens Kosiol, Adrian Möller, Andy Schürr, Gabriele Taentzer
 
-* **Developing a Monadic Type Checker for an Object-Oriented Language (Experience Report)**,  Elias Castegren, Kiko Fernandez-Reyes
 
-* **Domain-specific model differencing in visual concrete syntax**,  Manouchehr Zadahmad, Eugene Syriani, Omar Alam, Esther Guerra, Juan de Lara
+* **A Search-Based and Fault-Tolerant Approach to Concurrent Model Synchronisation**, Nils Weidmann, Lars Fritsche, Anthony Anjorin
 
-* **Efficient Late Binding of Dynamic Function Compositions**,  Lars Schütze, Jeronimo Castrillon
 
-* **Empirical Study on the Usage of Graph Query Languages in Open Source Java Projects**,  Philipp Seifer, Johannes Härtel, Martin Leinberger, Ralf Lämmel, Steffen Staab
+* **Software Language Engineers' Worst Nightmare**, Vadim Zaytsev
 
-* **From DSL specification to interactive computer programming environment**,  Pierre Jeanjean, Benoit Combemale, Olivier Barais
 
-* **Higher-Level Mission Specification for Multiple Robots**,  Sergio Garcia, Patrizio Pelliccione, Claudio Menghi, Thorsten Berger, Tomas Bures
+* **Principles and Patterns of JastAdd-style Reference Attribute Grammars**, Niklas Fors, Emma Söderberg, Görel Hedin, Jesper Öqvist
 
-* **Multiple Lexicalisation - A Java Based Study**,  Elizabeth Scott, Adrian Johnstone
 
-* **Operationalizing the Integration of User Interaction Specifications in the Synthesis of Modeling Editors**,  Vasco Sousa, Eugene Syriani, Khady Fall
+* **Tool Demo: A Gamified Interactive Feedback System for Grammar Development**, Chelsea Barraball, Moeketsi Raselimo, Bernd Fischer
 
-* **Shadow Models [Tool Demo] -- Incremental Transformations for MPS**,  Markus Völter, Klaus Birken, Sascha Lisson, Alexander Rimer
 
-* **Spectrum-Based Fault Localization for Context-Free Grammars**,  Moeketsi Raselimo, Bernd Fischer
+* **Extrinsically Typed Operational Semantics for Functional Languages**, Matteo Cimini, Dale Miller, Jeremy G. Siek
 
-* **The Lands Platform: Lan.guages and D.omain S.yntax, Tool Demo**, Nick Papoulias
 
-* **Transactional Editing: Giving ACID to Programmers**,  Friedrich Steimann, Nils Kurowsky
+* **Towards the Optical Character Recognition of DSLs**, Jorge Perianez-Pascual, Roberto Rodriguez-Echeverria, Loli Burgueño, Jordi Cabot
 
-* **Vision Paper: Generating Incremental Type Services**,  André Pacak, Sebastian Erdweg
+
+* **Test Case Generation from Context-Free Grammars Using Generalized Traversal of LR-Automata**, Christoff Rossouw, Bernd Fischer
+
+
+* **Featherweight Swift: A Core Calculus for Swift’s Type System**, Dimitri, Didier
+
+
+* **Untangling formal proofs**, Clément Pit-Claudel
+
+
+* **Monadification of Attribute Grammars**, Dawn Michaelson, Eric Van Wyk
+
+* **Behavior Trees in Action: A Study of Robotics Applications**, Razan Ghzouli, Thorsten Berger, Einar Broch Johnsen, Swaib Dragule, Andrzej Wąsowski
+
+
+* **Strategic Tree Rewriting in Attribute Grammars**, Lucas Kramer, Eric Van Wyk
+
+
+* **A semantic framework for PEGs**, Sérgio Queiroz de Medeiros, Carlos Olarte
+
+
+* **Example-Driven Software Language Engineering**, Mikhail Barash
+
+* **Grammar-based Testing for Little Languages: An Experience Report with Student Compilers**, Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, Bernd Fischer
+
+
+* **Modular and distributed IDE**, Fabien Coulon, Alex Auvolat, Benoit Combemale, David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau 
+
+* **Block-Based Syntax from Context-Free Grammars**, Mauricio Verano Merino, Tijs van der Storm
