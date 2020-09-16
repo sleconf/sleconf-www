@@ -53,26 +53,22 @@ published: true
 
 ### Artifact Evaluation Committee
 
-TBD
-
-{% comment %}
-* Juliana Alves Pereira, Inria, France
 * Hugo Bruneliere, IMT Atlantique & LS2N (CNRS), France
-* Alejandro Catalá, Research Center on Information Technology (CiTIUS), Spain
-* Luke Church, University of Cambridge, UK
-* Juri Di Rocco, University of l'Aquila, Italy
-* Antonio Garcia-Dominguez, Aston University, UK
-* Sven Keidel, JGU Mainz, Germany
+* David Corral-Plaza, University of Cadiz, Spain
+* Juri Di Rocco, University of L'Aquila, Italy
+* Fola-Dami Eyitemi, University of Leicester, United Kingdom
+* Abdulhakeem Ibraim, University of Leicester, United Kingdom
+* Matteo Marra, Vrije Universiteit Brussel, Belgium
+* Johannes Mey, Technische Universitat Dresden, Germany
 * Daniel-Jesus Munoz, Universidad de Málaga, Spain
-* Johannes Mey, TU Dresden, Germany
-* Krishna Narasimhan, Itemis, Germany
-* Manuel Leduc, Inria, France
-* Jesper Öqvist, Lund University, Sweden
-* Emma Tosch, University of Massachusetts Amherst, USA
+* Fabio Niephaus  
+* Bello Shehu, University of Leicester, United Kingdom
+* Quentin Stiévenart, Software Languages Lab, Vrije Universiteit Brussel, Belgium
 * Michele Tucci, University of L'Aquila, Italy
-{% endcomment %}
+* Kevin Jesús Valle-Gómez, University of Cadiz, Spain
+* Alfa Yohannis, University of York, United Kingdom
 
-### Publicity chair
+### Publicity and web chair
 
 * [Loli Burgueño](https://som-research.uoc.edu/loli-burgueno/), Open University of Catalonia, Spain & CEA List, France
 
