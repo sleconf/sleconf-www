@@ -59,6 +59,6 @@ published: true
 * **Grammar-based Testing for Little Languages: An Experience Report with Student Compilers**, Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, Bernd Fischer
 
 
-* **Modular and distributed IDE**, Fabien Coulon, Alex Auvolat, Benoit Combemale, David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau 
+* **Modular and distributed IDE**, Fabien Coulon, Alex Auvolat, Benoit Combemale, Yerom-David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau 
 
 * **Block-Based Syntax from Context-Free Grammars**, Mauricio Verano Merino, Tijs van der Storm
