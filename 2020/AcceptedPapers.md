@@ -40,7 +40,7 @@ published: true
 * **Featherweight Swift: A Core Calculus for Swift’s Type System**, Dimitri, Didier
 
 
-* **Untangling formal proofs**, Clément Pit-Claudel
+* **Untangling mechanized proofs**, Clément Pit-Claudel
 
 
 * **Monadification of Attribute Grammars**, Dawn Michaelson, Eric Van Wyk
