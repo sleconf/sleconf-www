@@ -34,5 +34,5 @@
 
 {% assign title="SLEBoK" %}
 {% assign link="/2020/SLEBoK" %}
-{% include 2019/menu_item %}
+{% include 2020/menu_item %}
 
