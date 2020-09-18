@@ -22,7 +22,7 @@ published: true
 * **Software Language Engineers' Worst Nightmare**, Vadim Zaytsev
 
 
-* **Principles and Patterns of JastAdd-style Reference Attribute Grammars**, Niklas Fors, Emma Söderberg, Görel Hedin, Jesper Öqvist
+* **Principles and Patterns of JastAdd-style Reference Attribute Grammars**, Niklas Fors, Emma Söderberg, Görel Hedin
 
 
 * **Tool Demo: A Gamified Interactive Feedback System for Grammar Development**, Chelsea Barraball, Moeketsi Raselimo, Bernd Fischer
