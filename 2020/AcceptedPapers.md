@@ -56,7 +56,7 @@ published: true
 
 * **Example-Driven Software Language Engineering**, Mikhail Barash
 
-* **Grammar-based Testing for Little Languages: An Experience Report with Student Compilers**, Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, Bernd Fischer
+* **Grammar-based Testing for Little Languages**, Phillip van Heerden, Moeketsi Raselimo, Konstantinos Sagonas, Bernd Fischer
 
 
 * **Modular and distributed IDE**, Fabien Coulon, Alex Auvolat, Benoit Combemale, Yerom-David Bromberg, François Taïni, Olivier Barais, Noël Plouzeau 
