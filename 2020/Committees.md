@@ -57,7 +57,7 @@ published: true
 * David Corral-Plaza, University of Cadiz, Spain
 * Juri Di Rocco, University of L'Aquila, Italy
 * Fola-Dami Eyitemi, University of Leicester, United Kingdom
-* Abdulhakeem Ibraim, University of Leicester, United Kingdom
+* Abdulhakeem Ibrahim, University of Leicester, United Kingdom
 * Matteo Marra, Vrije Universiteit Brussel, Belgium
 * Johannes Mey, Technische Universitat Dresden, Germany
 * Daniel-Jesus Munoz, Universidad de Málaga, Spain
