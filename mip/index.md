@@ -9,12 +9,16 @@ Starting in 2019, the ACM SIGPLAN International Conference on Software Language 
 
 In 2019 we offered two awards: one for the authors of the MIP from the 2009 program ([http://www.sleconf.org/2009/Program.html](http://www.sleconf.org/2009/Program.html)), and another one for the authors of the MIP from the 2008 program ([http://www.sleconf.org/2008/program.html](http://www.sleconf.org/2008/program.html)), back to the first edition of the conference.
 
+### SLE MIP Award 2020
+
+- Romina Eramo, Alfonso Pierantonio, Davide Di Ruscio and Antonio Cicchetti:  JTL: a bidirectional and change propagating transformation language
+- Program SLE 2010: [http://www.sleconf.org/2010/Program.html](http://www.sleconf.org/2010/Program.html); 
+
 ### SLE MIP Award 2019
 
 - Mathieu Acher, Philippe Collet, Philippe Lahire, Robert B. France: Composing Feature Models. SLE 2009
 - Program SLE 2009: [http://www.sleconf.org/2009/Program.html](http://www.sleconf.org/2009/Program.html); 
 - Pictures from the awards ceremony can be found at [http://bit.ly/sle19-photos](http://bit.ly/sle19-photos).
-
 
 ### SLE MIP Award 2018
 
