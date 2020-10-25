@@ -11,7 +11,7 @@ In 2019 we offered two awards: one for the authors of the MIP from the 2009 prog
 
 ### SLE MIP Award 2020
 
-- Romina Eramo, Alfonso Pierantonio, Davide Di Ruscio and Antonio Cicchetti:  JTL: a bidirectional and change propagating transformation language
+- Romina Eramo, Alfonso Pierantonio, Davide Di Ruscio and Antonio Cicchetti:  JTL: a bidirectional and change propagating transformation language. SLE 2010
 - Program SLE 2010: [http://www.sleconf.org/2010/Program.html](http://www.sleconf.org/2010/Program.html); 
 
 ### SLE MIP Award 2019
