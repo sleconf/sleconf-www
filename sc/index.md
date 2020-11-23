@@ -12,7 +12,7 @@ published: true
 * Martin Erwig 
 * Richard Paige
 * Tony Sloane 
-* Eric Van Wyk
+* Eric Van Wyk (Secretary)
 * Gorel Hedin
 * Jurgen Vinju 
 * Davide DiRuscio
@@ -21,6 +21,8 @@ published: true
 * Jeff Gray
 * Bruno Oliveira
 * Andrei Chis
+* Juan de Lara
+* Ralf Lämmel
 
 ### Past members
 
