@@ -8,10 +8,6 @@
 
 {% include previous_editions_menu_item %}
 
-{% assign title="SLE 2011" %}
-{% assign link="/2011/" %}
-{% include menu_item %}
-
 {% assign title="SLE 2012" %}
 {% assign link="/2012/" %}
 {% include menu_item %}
