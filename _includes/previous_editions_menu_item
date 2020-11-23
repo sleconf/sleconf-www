@@ -7,16 +7,20 @@
           <a href="/2008/" >SLE 2008</a>
         </li>
 
-        <li class="menu-item-1">
+        <li class="menu-item-2">
           <a href="/2009/" >SLE 2009</a>
         </li>
 
-        <li class="menu-item-1">
+        <li class="menu-item-3">
           <a href="/2010/" >SLE 2010</a>
         </li>
      
-     	<li class="menu-item-1">
+     	<li class="menu-item-4">
           <a href="/2011/" >SLE 2011</a>
+        </li>
+
+        <li class="menu-item-5">
+          <a href="/2012/" >SLE 2012</a>
         </li>
 
       </ul>
