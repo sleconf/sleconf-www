@@ -1,28 +1,26 @@
 ---
-layout: default2019
+layout: default2020
 title: Awards Winners
 published: true
 ---
 
-#### Distinguished Research Paper Award
+#### Distinguished Paper Award
 
-* **Domain-specific model differencing in visual concrete syntax**, Manouchehr Zadahmad, Eugene Syriani, Omar Alam, Esther Guerra, Juan de Lara
+* **Strategic Tree Rewriting in Attribute Grammars**, Lucas Kramer and Eric Van Wyk
  
-#### Distinguished Vision Paper Award
+#### Distinguished Short Paper  Award
 
-* **Breaking Parsers: Mutation-based Generation of Programs with Guaranteed Syntax Errors**, Moeketsi Raselimo, Jan Taljaard, Bernd Fischer
+* **A Family of Languages for Trustworthy Agent-Based Simulation**, Steffen Zschaler and Fiona A. C. Polack
+
+#### Distinguished Artifact 
+
+* **Untangling mechanized proofs**, Clément Pit-Claudel
 
 #### Distinguished Reviewer Award
 
-* Elizabeth Scott, Royal Holloway University of London
+* Eric Van Wyk, University of Minnesota, USA
 
 
-#### SLE MIP Award 2018
+#### SLE MIP Award 2020
 
-* **Analyzing Rule-Based Behavioral Semantics of Visual Modeling Languages with Maude**, José Eduardo Rivera, Esther Guerra, Juan de Lara, Antonio Vallecillo. SLE 2008
-
-#### SLE MIP Award 2019
-
-* **Composing Feature Models**, Mathieu Acher, Philippe Collet, Philippe Lahire, Robert B. France. SLE 2009
-
-Photos from the awards ceremony can be found at [http://bit.ly/sle19-photos](http://bit.ly/sle19-photos).
+* **JTL: a bidirectional and change propagating transformation language**, Romina Eramo, Alfonso Pierantonio, Davide Di Ruscio and Antonio Cicchetti, SLE 2010
