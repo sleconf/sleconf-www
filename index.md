@@ -15,7 +15,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 ### History
 
 <ul>
-<li><a href="http://www.sleconf.org/2019" >SLE 2020</a>, Athens, Greece</li>
+<li><a href="http://www.sleconf.org/2020" >SLE 2020</a>, VIRTUAL event</li>
 <li><a href="http://www.sleconf.org/2019" >SLE 2019</a>, Athens, Greece</li>
 <li><a href="http://www.sleconf.org/2018" >SLE 2018</a>, Boston, Massachusetts, U.S.A.</li>
 <li><a href="http://www.sleconf.org/2017" >SLE 2017</a>, Vancouver, Canada</li>
