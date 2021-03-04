@@ -1,6 +1,6 @@
 ---
 layout: default2021
-title: Welcome to Virtual SLE
+title: Welcome
 published: true
 ---
 
