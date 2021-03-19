@@ -61,7 +61,9 @@ Notification about the outcome of the artifact evaluation and reviews including 
 
 ### Important Dates
 
-TBA
+- Wed 15 Sep 2021: Artifact Submissions
+- Tue 28 Sep 2021: Artifact Kick-the-tires Author Response
+- Tue 12 Oct 2021: Artifact Notification
 
 
 ### Further Information
