@@ -71,7 +71,7 @@ Papers must describe unpublished work that is not currently submitted for public
 
 #### Submission Site
 
-TBA
+https://sle21.hotcrp.com/
 
 ### Reviewing Process
 
@@ -94,5 +94,3 @@ All accepted papers will be published in the ACM Digital Library.
 ### Contact
 
 For additional information, clarification, or answers to questions, please contact the Programme Chairs by email.
-
-
