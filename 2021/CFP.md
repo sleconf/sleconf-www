@@ -71,7 +71,7 @@ Papers must describe unpublished work that is not currently submitted for public
 
 #### Submission Site
 
-https://sle21.hotcrp.com/
+[https://sle21.hotcrp.com/](https://sle21.hotcrp.com/)
 
 ### Reviewing Process
 
