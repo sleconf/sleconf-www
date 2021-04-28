@@ -7,7 +7,7 @@
 {% include 2021/menu_item %}
 
 {% assign title="Artifact Evaluation" %}
-{% assign link="https://conf.researchr.org/home/sle-2021#artifact-evaluation" %}
+{% assign link="/2021/ArtifactEvaluation.html" %}
 {% include 2021/menu_item %}
 
 {% assign title="Important Dates" %}
