@@ -16,4 +16,4 @@ SLE 2021 will be co-located with [SPLASH](http://2021.splashcon.org/), [GPCE](ht
 
 * Community website: [http://www.sleconf.org/2021](http://www.sleconf.org/2021)
 * Conference website: [https://conf.researchr.org/home/sle-2021](https://conf.researchr.org/home/sle-2021)
-* Submission website:  TBA
+* Submission website:  [https://sle21.hotcrp.com/](https://sle21.hotcrp.com/)
