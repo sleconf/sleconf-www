@@ -11,7 +11,7 @@
 {% include 2021/menu_item %}
 
 {% assign title="Important Dates" %}
-{% assign link="https://conf.researchr.org/home/sle-2021" %}
+{% assign link="/2021/Dates.html" %}
 {% include 2021/menu_item %}
 
 {% assign title="Committees" %}
