@@ -1,0 +1,27 @@
+{% assign title="Welcome" %}
+{% assign link="/2022/index.html" %}
+{% include 2022/menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2022/CFP.html" %}
+{% include 2022/menu_item %}
+
+{% assign title="Artifact Evaluation" %}
+{% assign link="/2022/ArtifactEvaluation.html" %}
+{% include 2022/menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2022/Dates.html" %}
+{% include 2022/menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2022/Committees.html" %}
+{% include 2022/menu_item %}
+
+{% assign title="Blog" %}
+{% assign link="/blog" %}
+{% include 2022/menu_item %}
+
+{% assign title="SLEBoK" %}
+{% assign link="/2022/SLEBoK.html" %}
+{% include 2022/menu_item %}
