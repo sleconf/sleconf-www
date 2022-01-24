@@ -56,4 +56,4 @@ TBA
 
 ### Steering committee members
 
-TBA
+Avaiable on the [Steering committee](https://www.sleconf.org/sc/) page.
