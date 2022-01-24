@@ -10,7 +10,7 @@ published: true
 
 ### PC co-chairs
 
-* [Lola Burgueño](https://twitter.com/LolaBurgueno), Open University of Catalonia, Spain
+* [Lola Burgueño](https://som-research.uoc.edu/lburgueno), Open University of Catalonia, Spain
 * [Walter Cazzola](http://cazzola.di.unimi.it), Università degli Studi di Milano, Italy
 
 ### Artefact Evaluation co-chairs
@@ -24,6 +24,7 @@ published: true
 * Shaukat Ali, Simula Research Laboratory, Norway
 * Arvid Butting, Aachen university, Germany
 * Marsha Chechik, University of Toronto, Canada
+* Shigeru Chiba, University of Tokyo, Japan
 * Benoît Combemale, University of Rennes, France
 * Zhenjiang Hu, Peking University, China
 * Jörg Kienzle, McGill University, Canada
