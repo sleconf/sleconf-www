@@ -16,4 +16,4 @@ SLE 2022 will be co-located with [SPLASH](http://2022.splashcon.org/), [GPCE](ht
 
 * Community website: [http://www.sleconf.org/2022](http://www.sleconf.org/2022)
 * Conference website: [https://conf.researchr.org/home/sle-2022](https://conf.researchr.org/home/sle-2022)
-* Submission website: TBA
+* Submission website: [https://sle22.hotcrp.com](https://sle22.hotcrp.com)
