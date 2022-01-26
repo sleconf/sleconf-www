@@ -22,7 +22,7 @@ published: true
 ### Program committee
 
 * Shaukat Ali, Simula Research Laboratory, Norway
-* Arvid Butting, Aachen university, Germany
+* Arvid Butting, Aachen University, Germany
 * Marsha Chechik, University of Toronto, Canada
 * Shigeru Chiba, University of Tokyo, Japan
 * Benoît Combemale, University of Rennes, France
@@ -43,7 +43,7 @@ published: true
 * Erik Van Wyk, University of Minnesota , USA
 * Alfonso de la Vega, University of Cantabria, Spain
 * Ran Wei, Dalian University of Technology, China
-* Andreas Wortmann, Stüttgard university, Germany
+* Andreas Wortmann, Stüttgard University, Germany
 * Vadim Zaytsev, University of Twente, Netherlands
 * Steffen Zschaler, King’s College London, UK
 
