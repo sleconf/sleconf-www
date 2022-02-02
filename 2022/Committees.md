@@ -43,7 +43,7 @@ published: true
 * Erik Van Wyk, University of Minnesota , USA
 * Alfonso de la Vega, University of Cantabria, Spain
 * Ran Wei, Dalian University of Technology, China
-* Andreas Wortmann, Stüttgard University, Germany
+* Andreas Wortmann, Stuttgart University, Germany
 * Vadim Zaytsev, University of Twente, Netherlands
 * Steffen Zschaler, King’s College London, UK
 
