@@ -3,6 +3,8 @@ layout: default
 published: true
 ---
 
+*« We have been devastated to hear that our friend and colleague Eelco Visser (https://eelcovisser.org/) suddenly passed away. Eelco was highly influential in the SLE community, being both a role model and a leader in our community. His many scientific contributions about meta-languages and DSLs has been of high importance in both the scientific and industrial communities, and led to the well known and cutting-edge  language workbench Spoofax. He will be deeply missed by the whole SLE community at large. All our heartfelt condolences go out to the family and friends. RIP Eelco. »*
+
 This is the community website of the ACM SIGPLAN International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
 * Check out [SLE 2022](2022)
