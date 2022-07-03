@@ -101,7 +101,7 @@ For the seventh year, SLE will use an evaluation process for assessing the quali
 
 
 ### Special Issue
-A special issue on the conference topic in a high-impact journal is under negotiation.
+There will be a special issue on Software Language Engineering in the Journal of Systems and Software (JSS). The best papers accepted at the conference will be invited to submit an extended version of their work.
 
 ### Awards
 
