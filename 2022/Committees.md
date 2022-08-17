@@ -26,6 +26,7 @@ published: true
 * Marsha Chechik, University of Toronto, Canada
 * Shigeru Chiba, University of Tokyo, Japan
 * Benoît Combemale, University of Rennes, France
+* Istvan David, University of Montréal, Canada
 * Zhenjiang Hu, Peking University, China
 * Jörg Kienzle, McGill University, Canada
 * Dimitris Kolovos, University of York, UK
