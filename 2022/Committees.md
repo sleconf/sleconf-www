@@ -39,6 +39,7 @@ published: true
 * Elizabeth Scott, University of London, UK
 * Marco Servetto, Victoria University of Wellington, New Zealand
 * Emma Söderberg, Lund University, Sweden
+* Tamás Szabó, GitHub Next, Germany
 * Walid Taha, Halmstad University , Sweden
 * Marco Tullio Valente, Universidade Federal de Minas Gerais, Brazil
 * Erik Van Wyk, University of Minnesota , USA
