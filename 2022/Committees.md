@@ -51,7 +51,18 @@ published: true
 
 ### Artifact Evaluation Committee
 
-TBA
+* Ana Carla Bibiano,PUC-Rio, Brazil 
+* Anderson Oliveira,PUC-Rio, Brazil 
+* Anderson Uchôa,Universidade Federal do Ceará, Brazil 
+* Diego Damasceno,Radboud University, Netherlands 
+* Hugo Bruneliere,IMT Atlantique & LS2N (CNRS), France 
+* Johannes Mey,Technische Universitat Dresden, Germany 
+* Luc Lesoil, University of Rennes 1, France 
+* Mauricio Verano Merino,Eindhoven University of Technology, Netherlands
+* Michele Tucci, Charles University, Prague 
+* Pablo C. Canizares, Universidad Autónoma de Madrid, Spain 
+* Pablo Gómez-Abajo, Universidad Autónoma de Madrid, Spain  
+* Wesley Klewerton, Johannes Kepler University Linz, Austria
 
 ### Publicity and web chair
 

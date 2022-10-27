@@ -2,6 +2,10 @@
 {% assign link="/2022/index.html" %}
 {% include 2022/menu_item %}
 
+{% assign title="Accepted Papers" %}
+{% assign link="/2022/AcceptedPapers.html" %}
+{% include 2022/menu_item %}
+
 {% assign title="Call for Papers" %}
 {% assign link="/2022/CFP.html" %}
 {% include 2022/menu_item %}
