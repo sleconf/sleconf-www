@@ -3,7 +3,6 @@ layout: default2023
 title: Call for Papers
 published: true
 ---
-### SLE 2023
 
 ### Topics of Interest
 
@@ -11,8 +10,8 @@ SLE covers software language engineering rather than engineering a specific soft
 
 - Software Language Design and Implementation
 	- Approaches to and methods for language design
-	- Static semantics (e.g. design rules, well-formedness constraints)
-	- Techniques for specifying behavioral / executable semantics
+	- Static semantics (e.g., design rules, well-formedness constraints)
+	- Techniques for specifying behavioral/executable semantics
 	- Generative approaches (incl. code synthesis, compilation)
 	- Meta-languages, meta-tools, language workbenches
 - Software Language Validation
@@ -27,13 +26,13 @@ SLE covers software language engineering rather than engineering a specific soft
 - Software Language Maintenance
 	- Software language reuse
 	- Language evolution
-	- Language families and variability, language and software product lines 
+	- Language families and variability, language and software product lines
 - Domain-specific approaches for any aspects of SLE (design, implementation, validation, maintenance)
 - Empirical evaluation and experience reports of language engineering tools
 	- User studies evaluating usability
 	- Performance benchmarks
 	- Industrial applications
-- “Synergies between Language Engineering and emerging/promising research areas”
+- Synergies between Language Engineering and emerging/promising research areas
 	- AI and ML language engineering (e.g., ML compiler testing, code classification) Quantum language engineering (e.g., language design for quantum machines)
 	- Language engineering for physical systems (e.g., CPS, IoT, digital twins)
 	- Socio-technical systems and language engineering (e.g., language evolution to adapt to social requirements)
@@ -43,27 +42,27 @@ SLE covers software language engineering rather than engineering a specific soft
 
 SLE accepts the following types of papers:
 
-- **Research papers**: These are “traditional” papers detailing research contributions to SLE. Papers may range from 6 to 12 pages in length, and may optionally include 2 further pages of bibliography/appendices. Papers will be reviewed with an understanding that some results do not need 12 full pages and may be fully described in fewer pages.
+- **Research papers**: These are “traditional” papers detailing research contributions to SLE. Papers may range from 6 to 12 pages in length and may optionally include 2 further pages of bibliography/appendices. Papers will be reviewed with an understanding that some results do not need 12 full pages and may be fully described in fewer pages.
 
-- **New ideas / vision papers**: These are papers that may describe new, unconventional software language engineering research positions or approaches that depart from standard practice. They can describe well-defined research ideas that are at an early stage of investigation. They could also provide new evidence to challenge common wisdom, present new unifying theories about existing SLE research that provides novel insight or that can lead to the development of new technologies or approaches, or apply SLE technology to radically new application areas. New ideas / vision papers must not exceed 5 pages, and may optionally include 1 further page of bibliography / appendices.
+- **New ideas/vision papers**: These papers may describe new, unconventional software language engineering research positions or approaches that depart from standard practice. They can describe well-defined research ideas that are at an early stage of investigation. They could also provide new evidence to challenge common wisdom, present new unifying theories about existing SLE research that provides novel insight or that can lead to the development of new technologies or approaches, or apply SLE technology to radically new application areas. New ideas/vision papers must not exceed 5 pages and may optionally include 1 further page of bibliography/appendices.
 
-- **SLE Body of Knowledge**: The SLE Body of Knowledge (SLEBoK) is a community-wide effort to provide a unique and comprehensive description of the concepts, best practices, tools and methods developed by the SLE community. To this respect, the SLE conference will accept surveys, essays, open challenges, empirical observations and case study papers on the SLE topics. These can focus on but they are not limited to methods, techniques, best practices and teaching approaches. Papers in this category can have up to 20 pages, including bibliography/appendices.
+- **SLE Body of Knowledge**: The SLE Body of Knowledge (SLEBoK) is a community-wide effort to provide a unique and comprehensive description of the concepts, best practices, tools, and methods developed by the SLE community. In this respect, the SLE conference will accept surveys, essays, open challenges, empirical observations, and case study papers on the SLE topics. These can focus on, but are not limited to, methods, techniques, best practices, and teaching approaches. Papers in this category can have up to 20 pages, including bibliography/appendices.
 
-- **Tool papers**: These are papers which focus on the tooling aspects which are often forgotten or neglected in research papers. A good tool paper focuses on practical insights that are likely to be useful to other implementers or users in the future. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must not exceed 5 pages and may optionally include 1 further page of bibliography / appendices. They may optionally come with an appendix with a demo outline / screenshots and/or a short video/screencast illustrating the tool.
+- **Tool papers**: These papers focus on the tooling aspects often forgotten or neglected in research papers. A good tool paper focuses on practical insights that will likely be useful to other implementers or users in the future. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must not exceed 5 pages and may optionally include 1 further page of bibliography/appendices. They may optionally include an appendix with a demo outline/screenshots and/or a short video/screencast illustrating the tool.
 
-**Workshops**: Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience. Information on how to submit workshops can be found at the SPLASH 2023 Website.
+**Workshops**: Workshops will be organized by SPLASH. Please inform us and contact the SPLASH organizers if you would like to organize a workshop of interest to the SLE audience. Information on how to submit workshops can be found on the SPLASH 2023 Website.
 
 ### Submission
 
 #### Two submission rounds
 
-For the second time, SLE will follow a two-phase submission and review process. This gives authors submitting to the first round an extra opportunity to improve their work (if needed) based on the comments and feedback by the reviewers. Furthermore, this will increase the quality of SLE accepted papers.
+For the second time, SLE will follow a two-phase submission and review process. This gives authors submitting to the first round an extra opportunity to improve their work (if needed) based on the comments and feedback from the reviewers. Furthermore, this will increase the quality of accepted papers.
 
 Manuscripts can be submitted to any of the two submission rounds.
 
-Decisions on the papers submitted to the **first round** will be: accept, reject or re-submit revised version. While rejected papers must not, revised versions may be submitted to the second round, with an accompanying response letter to the reviewers stating the changes made and how the authors addressed the reviewers’ criticisms. Re-submissions will be reviewed by the same reviewers.
+Decisions on the papers submitted to the **first round** will be: accept, reject, or re-submit revised version. While rejected papers must not, revised versions may be submitted to the second round, with an accompanying response letter to the reviewers stating the changes made and how the authors addressed the reviewers’ criticisms. The same reviewers will review the re-submissions.
 
-Decisions on fresh papers submitted to the **second round** will be: accept or reject. The authors of those papers that are likely to be rejected but have at least one reviewer who is championing it will have the chance to respond to the reviewers before the final decision is made.
+Decisions on fresh papers submitted to the **second round** will be: accept or reject. The authors of those papers that are likely to be rejected but have at least one reviewer championing it will have the chance to respond to the reviewers before the final decision is made.
 
 
 #### Format
@@ -91,17 +90,17 @@ Authors conducting research involving human participants and subjects must ensur
 
 All submitted papers will be reviewed by at least three members of the program committee. Research papers and tool papers will be evaluated concerning novelty, correctness, significance, readability, and alignment with the conference call. New ideas/vision papers will be evaluated primarily concerning novelty, significance, readability, and alignment with the conference call. SLEBoK papers will be reviewed on their significance, readability, topicality and capacity of presenting/evaluating/demonstrating a piece of BoK about SLE.
 
-For fairness reasons, all submitted papers must conform to the above instructions. Submissions that violate these instructions may be rejected without review, at the discretion of the PC chairs.
+For fairness reasons, all submitted papers must conform to the above instructions. Submissions that violate these instructions may be rejected without review at the discretion of the PC chairs.
 
 After each review round, authors will get a chance to respond before a final decision is made.
 
 ### Artifact Evaluation
 
-For the eighth year, SLE will use an evaluation process for assessing the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted research papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](http://www.sleconf.org/2023/ArtifactEvaluation.html) page.
+For the eighth year, SLE will use an evaluation process to assess the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted research papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](http://www.sleconf.org/2023/ArtifactEvaluation.html) page.
 
 ### Awards
 
-- **Distinguished paper**: Award for most notable paper, as determined by the PC chairs based on the recommendations of the programme committee.
+- **Distinguished paper**: Award for the most notable paper, as determined by the PC chairs based on the recommendations of the program committee.
 - **Distinguished artifact**: Award for the artifact most significantly exceeding expectations, as determined by the AEC chairs based on the recommendations of the artifact evaluation committee.
 
 ### Publication
@@ -112,8 +111,8 @@ All accepted papers will be published in the ACM Digital Library.
 
 ### SLE and Doctoral Students
 
-SLE encourages students to submit to the SPLASH doctoral symposium. Authors of accepted papers will have the chance to present their work to the SLE audience, too.
+SLE encourages students to submit to the SPLASH doctoral symposium. Authors of accepted papers will also have the chance to present their work to the SLE audience.
 
 #### Contact
 
-For additional information, clarification, or answers to questions, please contact the program co-chairs (E.Scott _at_ rhul.ac.uk and thomas.degueule _at_ labri.fr).
+For additional information, clarification, or answers, please get in touch with the program co-chairs (E.Scott _at_ rhul.ac.uk and thomas.degueule _at_ labri.fr).

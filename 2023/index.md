@@ -12,8 +12,8 @@ With the ubiquity of computers, software has become the dominating intellectual 
 
 Like its predecessors, the 16th edition of the SLE conference, SLE 2023, will bring together researchers from different areas united by their common interest in the creation, capture, and tooling of software languages. It overlaps with traditional conferences on the design and implementation of programming languages, model-driven engineering, and compiler construction, and emphasizes the fusion of their communities. To foster the latter, SLE traditionally fills a two-day program with a single track, with the only temporal overlap occurring between co-located events.
 
-SLE 2023 will be co-located with [SPLASH 2023](http://2023.splashcon.org/) and take place in Cascais, Portugal.
+SLE 2023 will be co-located with [SPLASH 2023](http://2023.splashcon.org/) and take place in Cascais, Lisbon, Portugal.
 
 * Community website: [http://www.sleconf.org/2023](http://www.sleconf.org/2023)
-* Conference website: [https://conf.researchr.org/home/sle-2023](https://conf.researchr.org/home/sle-2023)
+* Conference website: [https://conf.researchr.org/home/sle-2023](https://conf.researchr.org/home/sle-2023) (in construction)
 * Submission website: [https://sle23.hotcrp.com](https://sle23.hotcrp.com)
