@@ -62,9 +62,9 @@ As the artifact evalutation notification will be after the camera ready deadline
 
 ### Important Dates
 
-* Tue 30 Aug 2023: Artifact Submissions
-* Mon 12 Sep 2023: Artifact Kick-the-tires Author Response
-* Fri 30 Sep 2023: Artifact Notification
+* Artifact submissions: August 30, 2023
+* Artifact kick-the-tires Author response: September 15, 2023
+* Artifact notification: September 29, 2023
 
 ### Further Information
 
