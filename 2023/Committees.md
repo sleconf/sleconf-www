@@ -27,7 +27,7 @@ TBA
 
 ### Publicity and web chair
 
-TBA
+[Andrei Chis](https://twitter.com/Chis_Andrei), feenk gmbh, Switzerland
 
 ### Steering committee members
 
