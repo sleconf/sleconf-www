@@ -8,11 +8,6 @@
 
 {% include previous_editions_menu_item %}
 
-
-{% assign title="SLE 2015" %}
-{% assign link="/2015/" %}
-{% include menu_item %}
-
 {% assign title="SLE 2016" %}
 {% assign link="/2016/" %}
 {% include menu_item %}
@@ -39,4 +34,8 @@
 
 {% assign title="SLE 2022" %}
 {% assign link="/2022/" %}
+{% include menu_item %}
+
+{% assign title="SLE 2023" %}
+{% assign link="/2023/" %}
 {% include menu_item %}
