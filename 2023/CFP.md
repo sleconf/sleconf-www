@@ -96,8 +96,9 @@ After each review round, authors will get a chance to respond before a final dec
 
 ### Awards
 
-- **Distinguished paper**: Award for the most notable paper, as determined by the PC chairs based on the recommendations of the program committee.
-- **Distinguished artifact**: Award for the artifact most significantly exceeding expectations, as determined by the AEC chairs based on the recommendations of the artifact evaluation committee.
+- **Best Research Paper Award**: Award for the most notable paper, as determined by the PC chairs based on the recommendations of the program committee.
+- **Distinguished Reviewer Award**: Awarding the best reviewer.
+- **Most Influential Paper Award**: Awarding the SLE 2013 paper with the greatest impact, as judged by the SLE Steering committee.
 
 ### Publication
 
