@@ -94,10 +94,6 @@ For fairness reasons, all submitted papers must conform to the above instruction
 
 After each review round, authors will get a chance to respond before a final decision is made.
 
-### Artifact Evaluation
-
-For the eighth year, SLE will use an evaluation process to assess the quality of the artifacts on which papers are based to foster the culture of experimental reproducibility. Authors of accepted research papers are invited to submit artifacts. For more information, please have a look at the [Artifact Evaluation](http://www.sleconf.org/2023/ArtifactEvaluation.html) page.
-
 ### Awards
 
 - **Distinguished paper**: Award for the most notable paper, as determined by the PC chairs based on the recommendations of the program committee.
