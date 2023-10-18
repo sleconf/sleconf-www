@@ -53,10 +53,6 @@ published: true
 * Vadim Zaytsev, University of Twente, Netherlands 
 * Philipp Zech, University of Innsbruck, Austria
 
-### Artifact Evaluation Committee
-
-TBA
-
 ### Steering committee members
 
 Avaiable on the [Steering committee](https://www.sleconf.org/sc/) page.
