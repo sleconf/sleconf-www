@@ -13,10 +13,6 @@ published: true
 * [Thomas Degueule](https://tdegueul.github.io/), CNRS/LaBRI, France
 * [Elizabeth Scott](https://www.cs.rhul.ac.uk/research/languages/esHome/), Royal Holloway University of London, United Kingdom
 
-### Artefact Evaluation co-chairs
-
-TBA
-
 ### Publicity and web chair
 
 [Andrei Chis](https://twitter.com/Chis_Andrei), feenk gmbh, Switzerland
