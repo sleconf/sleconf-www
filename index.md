@@ -7,7 +7,7 @@ published: true
 
 This is the community website of the ACM SIGPLAN International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
-* Check out [SLE 2023](2023)
+* Check out [SLE 2024](2024)
 * [SLEBoK](https://github.com/slebok/slebok)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
@@ -17,6 +17,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 ### History
 
 <ul>
+<li><a href="http://www.sleconf.org/2023" >SLE 2023</a>, Cascais, Portugal</li>
 <li><a href="http://www.sleconf.org/2022" >SLE 2022</a>, Auckland, New Zealand</li>
 <li><a href="http://www.sleconf.org/2021" >SLE 2021</a>, VIRTUAL event</li>
 <li><a href="http://www.sleconf.org/2020" >SLE 2020</a>, VIRTUAL event</li>
