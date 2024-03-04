@@ -6,12 +6,12 @@ published: true
 
 ### General chair
 
-* [João Saraiva](https://haslab.uminho.pt/jas/), Universidade do Minho, Portugal
+* [Ralf Laemmel](https://www.uni-koblenz.de/de/informatik/ifi/laemmel/team/ralf-lammel), Universität Koblenz, Germany
 
 ### PC co-chairs
 
-* [Thomas Degueule](https://tdegueul.github.io/), CNRS/LaBRI, France
-* [Elizabeth Scott](https://www.cs.rhul.ac.uk/research/languages/esHome/), Royal Holloway University of London, United Kingdom
+* [Peter Mosses](https://pdmosses.github.io), Swansea University and Delft University of Technology, Netherlands
+* [Juliana Alves Pereira](https://www.inf.puc-rio.br/blog/professor/juliana-alves-pereira/), Pontifícia Universidade Católica do Rio de Janeiro, Brazil
 
 ### Publicity and web chair
 
