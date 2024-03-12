@@ -68,4 +68,4 @@ As the artifact evaluation notification will be after the camera-ready deadline,
 * Artifact Notification: Mon 30 Sep 2024
 
 ###  Further Information
-For further information on the artifact evaluation of SLE 2024, feel free to contact the artifact evaluation chairs by email.
+For further information on the artifact evaluation of SLE 2024, feel free to contact the artifact evaluation chairs when they have been announced.

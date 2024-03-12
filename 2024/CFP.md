@@ -68,7 +68,7 @@ Authors of accepted research papers will be invited to submit artifacts.
 
 #### Format
 
-Submissions have to use the [ACM SIGPLAN Conference Format “acmart”](https://sigplan.org/Resources/Author/#acmart-format); please make sure that you always use the latest [ACM SIGPLAN acmart LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip), and that the document class definition is `\documentclass[sigplan,anonymous,review]{acmart}`. Do not make any changes to this format!
+Submissions have to use the [ACM SIGPLAN Conference Format “acmart”](https://sigplan.org/Resources/Author/#acmart-format); please make sure that you always use the latest ACM SIGPLAN acmart LaTeX template, and that the document class definition is `\documentclass[sigplan,anonymous,review]{acmart}`. Do not make any changes to this format!
 
 Ensure that your submission is legible when printed on a black and white printer. In particular, please check that colors remain distinct and font sizes in figures and tables are legible.
 

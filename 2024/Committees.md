@@ -21,6 +21,10 @@ published: true
 
 To be announced.
 
+### AEC Chairs
+
+To be announced.
+
 ### Steering committee members
 
 Avaiable on the [Steering committee](https://www.sleconf.org/sc/) page.
