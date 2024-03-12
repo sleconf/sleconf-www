@@ -14,24 +14,30 @@ SLE covers software language engineering in general, rather than engineering a s
 	- Techniques for specifying behavioral/executable semantics
 	- Generative approaches (incl. code synthesis, compilation)
 	- Meta-languages, meta-tools, language workbenches
+
 - Validation of Software Language Tools and Implementations
 	- Verification and formal methods for language tools and implementations
 	- Testing techniques for language tools and implementations
 	- Simulation techniques for language tools and implementations
+
 - Software Language Maintenance
 	- Software language reuse
 	- Language evolution
 	- Language families and variability, language and software product lines
+
 - Software Language Integration and Composition
 	- Coordination of heterogeneous languages and tools
 	- Mappings between languages (incl. transformation languages)
 	- Traceability between languages
 	- Deployment of languages to different platforms
+
 - Domain-Specific Approaches for Any Aspects of SLE (analysis, design, implementation, validation, maintenance)
+
 - Empirical Studies and Experience Reports of Tools
 	- User studies evaluating usability
 	- Performance benchmarks
 	- Industrial applications
+
 - Synergies between Language Engineering and Emerging/Promising Research Areas
 	- AI and ML language engineering (e.g., ML compiler testing, code classification)
 	- Quantum language engineering (e.g., language design for quantum machines)
