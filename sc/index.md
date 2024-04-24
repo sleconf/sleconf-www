@@ -12,12 +12,11 @@ published: true
 * Benoît Combemale 
 * Martin Erwig 
 * Richard Paige
-* Tony Sloane 
-* Eric Van Wyk (Secretary)
+* Eric Van Wyk (chair)
 * Jurgen Vinju 
 * Davide DiRuscio
 * Emma Söderberg
-* Friedrich Steimann (chair)
+* Friedrich Steimann 
 * Jeff Gray
 * Bruno Oliveira
 * Juan de Lara
@@ -36,3 +35,4 @@ published: true
 * Kim Mens, Catholic University of Louvain Belgium
 * Markus Voelter, Germany
 * Andreas Winter, Johannes Gutenberg-University Mainz, Germany
+* Tony Sloane 
