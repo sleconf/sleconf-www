@@ -21,6 +21,11 @@ published: true
 * Bruno Oliveira
 * Juan de Lara
 * Ralf Lämmel
+* Lola Burgueño
+* Walter Cazzola
+* Bernd Fischer
+* Thomas Degueule
+* João Saraiva
 
 ### Past members
 
