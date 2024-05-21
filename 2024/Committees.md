@@ -19,7 +19,39 @@ published: true
 
 ### Program committee
 
-To be announced.
+* Andrzej Wąsowski, IT University of Copenhagen, Denmark
+* Anthony Anjorin, Zühlke Engineering GmbH
+* Benoit Combemale, University of Rennes, Inria, CNRS, IRISA
+* Bernd Fischer, Stellenbosch University
+* Di Wang, Peking University
+* Dimitris Kolovos, University of York
+* Elias Castegren, Uppsala University
+* Elizabeth Scott, Royal Holloway University of London
+* Esther Guerra, Universidad Autónoma de Madrid
+* Faezeh Khorram, Huawei Technologies
+* Fernando Magno Quintão Pereira, Federal University of Minas Gerais
+* Prof. Fiona Polack, University of Hull
+* Görel Hedin, Lund University
+* Guido Salvaneschi, University of St. Gallen
+* João Saraiva, HASLab/INESC TEC, University of Minho
+* Johannes Härtel, Software Languages Lab, Vrije Universiteit Brussel
+* Judith Michael, RWTH Aachen University
+* Manuel Wimmer, JKU Linz
+* Marc Feeley, Université de Montréal
+* Michel Steuwer, Technische Universität Berlin
+* Paddy Krishnan, Oracle Labs, Australia
+* Ragnar Mogk, Technische Universität Darmstadt
+* Riemer van Rozen, CWI
+* Roberto Ierusalimschy, PUC-Rio
+* Sergio Queiroz de Medeiros, Universidade Federal do Rio Grande do Norte
+* Shigeru Chiba, The University of Tokyo
+* Stefan Marr, University of Kent
+* Stephen Chong, Harvard University
+* Tamás Szabó, GitHub Next
+* Thomas Degueule, CNRS
+* L. Thomas van Binsbergen, University of Amsterdam
+* Tijs van der Storm, CWI & University of Groningen
+* Walter Cazzola, Università degli Studi di Milano
 
 ### AEC Chairs
 
