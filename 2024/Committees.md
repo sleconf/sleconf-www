@@ -49,6 +49,7 @@ published: true
 * Stephen Chong, Harvard University
 * Tamás Szabó, GitHub Next
 * Thomas Degueule, CNRS
+* Thomas Kühn, Martin-Luther-University Halle-Wittenberg
 * L. Thomas van Binsbergen, University of Amsterdam
 * Tijs van der Storm, CWI & University of Groningen
 * Walter Cazzola, Università degli Studi di Milano
