@@ -12,8 +12,8 @@ With the ubiquity of computers, software has become the dominating intellectual 
 
 Like its predecessors, the 17th edition of the SLE conference, SLE 2024, will bring together researchers from different areas united by their common interest in the creation, capture, and tooling of software languages. It overlaps with traditional conferences on the design and implementation of programming languages, model-driven engineering, and compiler construction, and emphasizes the fusion of their communities. To foster the latter, SLE traditionally fills a two-day program with a single track, with the only temporal overlap occurring between co-located events.
 
-SLE 2024 will be co-located with [SPLASH 2024](http://2024.splashcon.org/) and take place in Pasadena, California, United States.
+SLE 2024 will be co-located with [SPLASH 2024](https://2024.splashcon.org/) and take place in Pasadena, California, United States.
 
-* Community website: [http://www.sleconf.org/2024](http://www.sleconf.org/2024)
+* Community website: [http://www.sleconf.org/2024](https://www.sleconf.org/2024)
 * Conference website: [https://conf.researchr.org/home/sle-2024](https://2024.splashcon.org/home/sle-2024)
 * Submission website: [https://sle24.hotcrp.com](https://sle24.hotcrp.com)

@@ -19,7 +19,7 @@ published: true
 
 ### Program committee
 
-* Andrzej Wąsowski, IT University of Copenhagen, Denmark
+* Andrzej Wąsowski, IT University of Copenhagen
 * Anthony Anjorin, Zühlke Engineering GmbH
 * Benoit Combemale, University of Rennes, Inria, CNRS, IRISA
 * Bernd Fischer, Stellenbosch University
@@ -39,7 +39,7 @@ published: true
 * Manuel Wimmer, JKU Linz
 * Marc Feeley, Université de Montréal
 * Michel Steuwer, Technische Universität Berlin
-* Paddy Krishnan, Oracle Labs, Australia
+* Paddy Krishnan, Oracle Labs
 * Ragnar Mogk, Technische Universität Darmstadt
 * Riemer van Rozen, CWI
 * Roberto Ierusalimschy, PUC-Rio
