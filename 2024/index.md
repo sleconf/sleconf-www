@@ -14,6 +14,6 @@ Like its predecessors, the 17th edition of the SLE conference, SLE 2024, will br
 
 SLE 2024 will be co-located with [SPLASH 2024](https://2024.splashcon.org/) and take place in Pasadena, California, United States.
 
-* Community website: [http://www.sleconf.org/2024](https://www.sleconf.org/2024)
+* Community website: [https://www.sleconf.org/2024](https://www.sleconf.org/2024)
 * Conference website: [https://conf.researchr.org/home/sle-2024](https://2024.splashcon.org/home/sle-2024)
 * Submission website: [https://sle24.hotcrp.com](https://sle24.hotcrp.com)
