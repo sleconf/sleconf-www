@@ -13,7 +13,7 @@ published: true
 * [Peter Mosses](https://pdmosses.github.io), Swansea University and Delft University of Technology, Netherlands
 * [Juliana Alves Pereira](https://www.inf.puc-rio.br/blog/professor/juliana-alves-pereira/), Pontifícia Universidade Católica do Rio de Janeiro, Brazil
 
-### Artefact Evaluation co-chairs
+### Artifact Evaluation co-chairs
 
 * [Johannes Härtel](https://johanneshaertel.github.io/), Software Languages Lab, Vrije Universiteit Brussel
 * [Sergio Queiroz de Medeiros](https://sites.google.com/site/sqmedeiros/), Universidade Federal do Rio Grande do Norte
