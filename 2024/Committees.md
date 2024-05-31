@@ -13,9 +13,14 @@ published: true
 * [Peter Mosses](https://pdmosses.github.io), Swansea University and Delft University of Technology, Netherlands
 * [Juliana Alves Pereira](https://www.inf.puc-rio.br/blog/professor/juliana-alves-pereira/), Pontifícia Universidade Católica do Rio de Janeiro, Brazil
 
+### Artefact Evaluation co-chairs
+
+* Johannes Härtel, Software Languages Lab, Vrije Universiteit Brussel
+* Sergio Queiroz de Medeiros, Universidade Federal do Rio Grande do Norte
+
 ### Publicity and web chair
 
-[Andrei Chis](https://twitter.com/Chis_Andrei), feenk gmbh, Switzerland
+[Andrei Chis](https://x.com/Chis_Andrei), feenk gmbh, Switzerland
 
 ### Program committee
 
@@ -54,9 +59,6 @@ published: true
 * Tijs van der Storm, CWI & University of Groningen
 * Walter Cazzola, Università degli Studi di Milano
 
-### AEC Chairs
-
-To be announced.
 
 ### Steering committee members
 
