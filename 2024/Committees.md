@@ -15,8 +15,8 @@ published: true
 
 ### Artefact Evaluation co-chairs
 
-* Johannes Härtel, Software Languages Lab, Vrije Universiteit Brussel
-* Sergio Queiroz de Medeiros, Universidade Federal do Rio Grande do Norte
+* [Johannes Härtel](https://johanneshaertel.github.io/), Software Languages Lab, Vrije Universiteit Brussel
+* [Sergio Queiroz de Medeiros](https://sites.google.com/site/sqmedeiros/), Universidade Federal do Rio Grande do Norte
 
 ### Publicity and web chair
 
