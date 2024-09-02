@@ -3,69 +3,86 @@ layout: default2024
 title: Artifact Evaluation
 published: true
 ---
+SLE'24 implements a two-rounds review process that also evaluates the quality of the artifacts supporting accepted research papers. This is the Artifact Evaluation track.
 
-SLE 2024 will use an evaluation process for assessing the quality of artifacts that accompany research papers. The aim of this evaluation process is to foster a culture of experimental reproducibility and to provide a peer review process for artifacts as well as papers.
+Authors of research papers accepted for SLE 2024 will be invited to submit artifacts. Any kind of artifact that is presented in the paper can be submitted (tools, grammars, metamodels, models, programs, algorithms, scripts, proofs, datasets, statistical tests, checklists, surveys, interview protocols, visualizations, annotated bibliographies, and tutorials).
 
-Authors of research papers accepted for SLE 2024 will be invited to submit artifacts. Any kind of artifact that is presented in the paper, supplements the paper with further details or underlies the paper can be submitted. This includes, for instance; tools, grammars, metamodels, models, programs, algorithms, scripts, proofs, datasets, statistical tests, checklists, surveys, interview protocols, visualizations, annotated bibliographies, and tutorials.
+The submitted artifacts will be reviewed by a dedicated Artifact Evaluation Committee (AEC). The approved artifacts will then be made first-class bibliographic objects, easy to find and cite. Depending on the quality of the artifact, the artifact might be awarded with different kinds of “badges” that are visible on the final paper.
 
-The submitted artifacts will be reviewed by a dedicated Artifact Evaluation Committee (AEC). Artifacts that live up to the expectations created by the paper will receive a badge of approval from the AEC. The approved artifacts will be invited for inclusion in the electronic conference proceedings published in the ACM Digital Library. This will ensure the permanent and durable storage of the artifacts alongside the published research papers, fostering the repeatability of experiments, enabling comparison with alternative approaches, and helping the dissemination of the author’s ideas in detail.
+The submission is additional to your already accepted paper at SLE24. It will not have a negative impact.
 
-The AEC will award the artifact that most significantly exceeds the expectations with a Distinguished Artifact Award.
-Participating in the artifact evaluation and publishing approved artifacts in the ACM Digital Library is voluntary. However, we strongly encourage authors to consider this possibility, as the availability of artifacts will greatly benefit readers of papers and increase the impact of the work. Note that the artifact evaluation cannot affect the acceptance of the paper, as the author notification precedes the artifact evaluation.
+The artifact evaluation process of SLE borrows heavily from processes described at [www.artifact-eval.org](https://www.artifact-eval.org).
 
-The artifact evaluation process of SLE borrows heavily from processes described at [www.artifact-eval.org](https://www.artifact-eval.org). The process is detailed below.
+##  Submission and Reviewing Process
 
-### Submission
+* You need an accepted paper at SLE24.
+* Use this submission page: https://sle24ae.hotcrp.com/paper/new
+* You need to submit a PDF version of your paper for evaluating the artifact-paper consistency.
+* The artifact can be associated with a different set of authors (different from the paper). 
+* You require a copy of the abstract of the paper.
+* We require a single artifact for each paper (1-to-1 mapping paper-and-artifact).
+* Artifacts can be provided as zip or DOI.
+* The artifact provided and evaluated must be precisely the artifact linked in the paper. We assure that the DOI points to the specific version, or that the SHA of the linked content is the same.
+* The PDF and artifact should NOT be anonymized anymore.
+* The process includes a Kicking-the-tires stages (close to a rebuttal): Reviewers report possible problems that may prevent artifacts from being properly evaluated. Authors will be given three days to read and respond to the kick-the-tires reports of their artifacts and solve any issues preventing the artifact evaluation (potentially resubmitting artifacts). Thereafter, the actually reviewing takes place.
 
-If your research paper is accepted for SLE 2024, you will be invited by the AEC chairs to submit the artifacts related to your work. This invitation will contain detailed instructions on how to submit your artifacts.
+##  Quality Criteria
+Submitted artifacts will be evaluated by the AEC concerning the following criteria. Depending on the criteria, different Badges are assigned (we limit us the 'evaluated' and 'available' badge).
 
-An artifact submission comprises the following components:
+### Artifacts Evaluated (Badge)
+* **Documented**: At minimum, an inventory of artifacts is included, and sufficient description provided to enable the artifacts to be exercised.
 
-* Paper: Preprint PDF version of the accepted SLE 2024 paper. The paper will be used to evaluate the consistency of the artifact with the description of it in the accepted paper.
-* Authors of the artifact: This list may include people who are not authors of the accepted paper, but contributed to creating the artifact.
-* Abstract: A short description of the artifact to be used for assignments of artifacts to AEC members.
-* Artifact: An archive file (gz, xz, or zip) containing everything needed for supporting a full evaluation of the artifact. The archive file has to include at least the artifact itself and a text file named README.txt that contains the following information:
-	* An overview of the archive file, documenting the content of the archive.
-	* A setup/installation guide giving detailed instructions on how to setup or install the submitted artifact.
-	* Detailed step-by-step instructions on how to reproduce any experiments or other activities that support the conclusions given in the paper.
+* **Consistent**: The artifacts are relevant to the associated paper, and contribute in some inherent way to the generation of its main results.
 
+* **Complete**: To the extent possible, all components relevant to the paper in question are included. (Proprietary artifacts need not be included. If they are required to exercise the package, then this should be documented, along with instructions on how to obtain them. Proxies for proprietary data should be included to demonstrate the analysis.)
 
-If multiple artifacts relate to an accepted SLE paper, all artifacts should be collected in one archive and submitted together as one single submission. For instance, if a tool has been developed, a tutorial has been authored with detailed instructions on how to use the tool, and user studies have been performed evaluating the tool’s usability. Then, the tool, the tutorial, and the raw data collected in the user study should be collected in one archive file and submitted together in one single submission to the SLE 2024 artifact evaluation.
+* **Exercisable**: Included scripts and/or software used to generate the results in the associated paper can be successfully executed, and included data can be accessed and appropriately manipulated.
 
-When preparing your artifact, consider that your artifact should be as accessible to the AEC as possible. In particular, it should be possible for the AEC to quickly make progress in the investigation of your artifact. Please provide some simple scenarios describing concretely how the artifact is intended to be used. For a tool, this would include specific inputs to provide or actions to take, and expected output or behavior in response to this input.
+### Artifacts Available (Badge)
 
-For artifacts that are tools, it is recommended to provide the tool installed and ready to use on a virtual machine for VirtualBox, VMware, SHARE, a Docker image, or a similar widely available platform.
+* **Identification**: Using DOIs to identify published objects is standard. It is important to use a DOI that points to the specific version with which the results of the paper can be reproduced (for Zenodo: do not use the "always latest" DOI; for FigShare: use a DOI with a version suffix, e.g., ".v1").
 
-Please use widely supported open formats for documents (e.g., PDF, HTML) and data (e.g., CSV, JSON).
+* **Long-Term Availability**: It is necessary that the artifacts are archived in an archive that hosts the artifacts on a long-term basis, such as in digital libraries of the ACM, Zenodo, etc. (version repositories do not fulfill this requirement, as the hosting company could decide at any time to discontinue the service, as done by Google, for example: Google Code).
 
-
-### Evaluation Process
-
-Submitted artifacts will be evaluated by the AEC concerning the following criteria. Artifacts should be:
-
-* consistent with the paper,
-* as complete as possible,
-* well documented, and
-* easy to (re)use, facilitating further research.
-
-Each submitted artifact will be evaluated by at least two members of the AEC. Thereby, the artifacts will be treated confidentially, as with the submitted paper.
-
-Artifacts that pass the evaluation will receive an “Artifact Evaluated – Functional” badge and be invited for inclusion in the electronic conference proceedings published in the ACM Digital Library. In addition, artifacts that will be included in the ACM Digital Library or that will be made permanently available in another publicly accessible archival repository will also receive the “Artifact Available” badge.
+* **Immutability**: It is necessary that the artifact cannot be changed after publication because the reader needs to use the material exactly as the authors did to obtain their result.
 
 Detailed definitions of these badges and the respective evaluation criteria may be found at the [ACM Artifact Review Badging site](https://www.acm.org/publications/policies/artifact-review-and-badging-current).
 
-The evaluation consists of two steps:
+##   Important Dates (Authors)
 
-1. Kicking-the-tires: Reviewers will check the artifact’s integrity and look for any possible setup problems that may prevent it from being properly evaluated (e.g., corrupted or missing files, VM won’t start, immediate crashes on the simplest example, etc.). In case of any problems, authors will be given three days to read and respond to the kick-the-tires reports of their artifacts and solve any issues preventing the artifact evaluation.
-2. Artifact assessment: Reviewers evaluate the artifacts and decide on the approval of the artifact.
+* Artifact Submission Deadline: 06.09.2024 
+* Kick-the-tires author response period: 19.09.2024
+* Deadline Author Response: 23.09.2024
+* Author Notification: 11.10.2024
 
-As the artifact evaluation notification will be after the camera-ready deadline, we will ensure that the published article will carry the corresponding ACM Artifact Evaluation Badge. Moreover, we advise the authors to provide a stable link to your artifact already in your camera-ready version, for instance, with a DOI link to a Zenodo repository.
+All dates are AOE.
 
-###  Important Dates
+##   Important Dates (PC)
 
-* Artifact Submissions: Fri 6 Sep 2024
-* Artifact “Kick-the-tires” Author Response: Mon 16 – Wed 18 Sep 2024
-* Artifact Notification: Mon 30 Sep 2024
+* Deadline bidding on artifacts: 10.09.2024
+* Assignment of artifacts to PC: 11.09.2024 
+* Kick-the-tires evaluation: 18.09.2024 
+* Artifact Assessment: 07.10.2024
+* Artifact Discussion and Decision: 08-10.10.2024
 
-###  Further Information
+All dates are AOE.
+
+##   Further Information
 For further information on the artifact evaluation of SLE 2024, feel free to contact the artifact evaluation chairs.
+
+Best regards,
+Sérgio Medeiros and Johannes Härtel
+SLE24 Artifact Evaluation Co-Chairs
+
+* sqmedeiros@gmail.com
+* johanneshrtel@googlemail.com
+
+##   Additional Hints
+
+* An archive file (gz, xz, or zip) containing everything needed for supporting a full evaluation of the artifact. The archive file has to include at least the artifact itself and a text file named README.txt that contains the following information:
+** An overview of the archive file, documenting the content of the archive.
+** A setup/installation guide giving detailed instructions on how to setup or install the submitted artifact.
+** Detailed step-by-step instructions on how to reproduce any experiments or other activities that support the conclusions given in the paper.
+** When preparing your artifact, consider that your artifact should be as accessible to the AEC as possible. In particular, it should be possible for the AEC to quickly make progress in the investigation of your artifact. Please provide some simple scenarios describing concretely how the artifact is intended to be used. For a tool, this would include specific inputs to provide or actions to take, and expected output or behavior in response to this input.
+* For artifacts that are tools, it is recommended to provide the tool installed and ready to use on a virtual machine for VirtualBox, VMware, SHARE, a Docker image, or a similar widely available platform.
+* Please use widely supported open formats for documents (e.g., PDF, HTML) and data (e.g., CSV, JSON).
