@@ -29,7 +29,8 @@ The artifact evaluation process of SLE borrows heavily from processes described 
 ##  Quality Criteria
 Submitted artifacts will be evaluated by the AEC concerning the following criteria. Depending on the criteria, different Badges are assigned (we limit us the 'evaluated' and 'available' badge).
 
-### Artifacts Evaluated (Badge)
+### Artifacts 'Evaluated' (Badge)
+
 * **Documented**: At minimum, an inventory of artifacts is included, and sufficient description provided to enable the artifacts to be exercised.
 
 * **Consistent**: The artifacts are relevant to the associated paper, and contribute in some inherent way to the generation of its main results.
@@ -38,7 +39,7 @@ Submitted artifacts will be evaluated by the AEC concerning the following criter
 
 * **Exercisable**: Included scripts and/or software used to generate the results in the associated paper can be successfully executed, and included data can be accessed and appropriately manipulated.
 
-### Artifacts Available (Badge)
+### Artifacts 'Available' (Badge)
 
 * **Identification**: Using DOIs to identify published objects is standard. It is important to use a DOI that points to the specific version with which the results of the paper can be reproduced (for Zenodo: do not use the "always latest" DOI; for FigShare: use a DOI with a version suffix, e.g., ".v1").
 
@@ -48,7 +49,7 @@ Submitted artifacts will be evaluated by the AEC concerning the following criter
 
 Detailed definitions of these badges and the respective evaluation criteria may be found at the [ACM Artifact Review Badging site](https://www.acm.org/publications/policies/artifact-review-and-badging-current).
 
-##   Important Dates (Authors)
+##   Important Dates (Authors and PC)
 
 * Artifact Submission Deadline: 06.09.2024 
 * Kick-the-tires author response period: 19.09.2024
