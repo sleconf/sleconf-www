@@ -54,24 +54,20 @@ Detailed definitions of these badges and the respective evaluation criteria may 
 
 ##   Important Dates (Authors and PC)
 
-* Artifact submission Deadline: 9.09.2024 
-* Start Kick-the-tires author response period: 19.09.2024 (+ small delay)
-* End Kick-the-tires author response period: 23.09.2024
+* Artifact submission Deadline: 9.09.2024 (AOE)
+* Start Kick-the-tires author response period: 19.09.2024
+* End Kick-the-tires author response period: 23.09.2024 (AOE)
 * Author artifact Notification: 11.10.2024
-
-(All dates are AOE.)
 
 ##   Important Dates (PC)
 
-* Start bidding on artifacts: 9.09.2024
-* End bidding on artifacts: 12.09.2024
-* Start Kick-the-tires evaluation (assignment of artifacts to PC): 12.09.2024 (+ small delay)
-* End Kick-the-tires evaluation: 19.09.2024
-* Start artifact assessment: 19.09.2024
-* End artifact assessment: 08.10.2024
+* Start bidding on artifacts: 10.09.2024
+* End bidding on artifacts: 12.09.2024 (AOE)
+* Start Kick-the-tires evaluation (assignment of artifacts to PC): 13.09.2024
+* End Kick-the-tires evaluation: 18.09.2024 (AOE)
+* Start artifact evaluation: 19.09.2024
+* End artifact evaluation: 07.10.2024 (AOE)
 * Discussion and decision: 08-10.10.2024
-
-(All dates are AOE.)
 
 ##   Further Information
 For further information on the artifact evaluation of SLE 2024, feel free to contact the artifact evaluation chairs.
