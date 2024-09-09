@@ -40,6 +40,13 @@ Submitted artifacts will be evaluated by the AEC concerning the following criter
 
 (These points are evaluated by the AEC.)
 
+There are two quality levels of the 'Evaluated' badge:
+
+* 'Evaluated **Functional**' assures the minimal functionality. 
+* 'Evaluated **Reusable**' award artifact that exceeds the minimal functionality.
+
+(This distinction is decided on by the Chairs, based on the comments of the AEC.)
+
 ### Artifacts 'Available' (Badge)
 
 * **Identification**: Using DOIs to identify published objects is standard. It is important to use a DOI that points to the specific version with which the results of the paper can be reproduced (for Zenodo: do not use the "always latest" DOI; for FigShare: use a DOI with a version suffix, e.g., ".v1").
