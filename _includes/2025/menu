@@ -1,15 +1,15 @@
 {% assign title="Welcome" %}
-{% assign link="/2024/index.html" %}
-{% include 2024/menu_item %}
+{% assign link="/2025/index.html" %}
+{% include 2025/menu_item %}
 
 {% assign title="Call for Papers" %}
-{% assign link="/2024/CFP.html" %}
-{% include 2024/menu_item %}
+{% assign link="/2025/CFP.html" %}
+{% include 2025/menu_item %}
 
 {% assign title="Important Dates" %}
-{% assign link="/2024/Dates.html" %}
-{% include 2024/menu_item %}
+{% assign link="/2025/Dates.html" %}
+{% include 2025/menu_item %}
 
 {% assign title="Committees" %}
-{% assign link="/2024/Committees.html" %}
-{% include 2024/menu_item %}
+{% assign link="/2025/Committees.html" %}
+{% include 2025/menu_item %}
