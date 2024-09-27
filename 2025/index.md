@@ -13,6 +13,6 @@ With the ubiquity of computers, software has become the dominating intellectual 
 Like its predecessors, the 18th edition of the SLE conference, SLE 2025, will bring together researchers from different areas united by their common interest in the creation, capture, and tooling of software languages. It overlaps with traditional conferences on the design and implementation of programming languages, model-driven engineering, and compiler construction, and emphasizes the fusion of their communities. To foster the latter, SLE traditionally fills a two-day program with a single track, with the only temporal overlap occurring between co-located events.
 
 
-* Community website: [https://www.sleconf.org/2024](https://www.sleconf.org/2024)
+* Community website: [https://www.sleconf.org/2025](https://www.sleconf.org/2025)
 * Conference website: To be announced
 * Submission website: To be announced
