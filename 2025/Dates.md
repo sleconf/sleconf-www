@@ -4,4 +4,4 @@ title: Important Dates
 published: true
 ---
 
-{% include 2024/dates %}
+{% include 2025/dates %}
