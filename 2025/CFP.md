@@ -40,8 +40,8 @@ SLE covers software language engineering in general, rather than engineering a s
 	- Generative AI in language engineering (e.g., AI-based language modelling, AI-driven code generation tools)
 	- AI and ML language engineering (e.g., ML compiler testing, code classification)
 	- Quantum language engineering (e.g., language design for quantum machines)
- 	- Language engineering for physical systems (e.g., CPS, IoT, digital twins)
- 	- Socio-technical systems and language engineering (e.g., language evolution to adapt to social requirements)
+	- Language engineering for physical systems (e.g., CPS, IoT, digital twins)
+	- Socio-technical systems and language engineering (e.g., language evolution to adapt to social requirements)
 
 
 ### Types of Submissions
@@ -74,7 +74,7 @@ Ensure that your submission is legible when printed on a black and white printer
 
 To increase fairness in reviewing, a double-blind review process has become standard across SIGPLAN conferences. Accordingly, SLE will follow the double-blind process. Author names and institutions must be omitted from submitted papers, and references to the authors’ own related work should be in the third person. No other changes are necessary, and authors will not be penalized if reviewers are able to infer their identities in implicit ways.
 
-All submissions must be in PDF format. The submission website is:[https://sle25.hotcrp.com](https://sle25.hotcrp.com)
+All submissions must be in PDF format. The submission website is: [https://sle25.hotcrp.com](https://sle25.hotcrp.com)
 
 
 ### Concurrent Submissions
