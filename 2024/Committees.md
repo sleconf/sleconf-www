@@ -59,6 +59,32 @@ published: true
 * Tijs van der Storm, CWI & University of Groningen
 * Walter Cazzola, Università degli Studi di Milano
 
+### Artifact Evaluation Committee
+
+* Gianluca Aguzzi, Alma Mater Studiorum - Università di Bologna
+* Sharif Ahmed, Boise State University
+* Martina Baiardi, University of Bologna
+* Dominique Blouin, LTCI Lab, Telecom Paris, Institute Politechnqie de Paris
+* Lázaro Costa, Faculty of Engineering, University of Porto & HASLab/INESC
+* Giordano d'Aloisio, University of L'Aquila
+* Nicolas Farabegoli, University of Bologna
+* Eduardo Fernandes, Mackenzie Presbyterian University
+* Pablo Gómez-Abajo, Universidad Autónoma de Madrid
+* João Helis Bernardo, Federal Institute of Education, Science and Technology of Rio Grande do Norte
+* Md Mahir Asef Kabir, Virginia Tech
+* Johannes Kristan, Robert Bosch GmbH
+* Laaziz Lahlou, Ecole de Technologie Superieure
+* Salvador Martínez, IMT Atlantique
+* Francisco Ribeiro, New York University, Abu Dhabi
+* Rui António Ramada Rua, University of Minho & INESC TEC
+* Maximilian Schiedermeier, Université du Québec à Montréal
+* Ted Shaowang, University of Chicago
+* Gerson Sunyé, Nantes Université, LS2N (UMR CNRS 6004)
+* Alicia JW Takaoka, Erasmus University Rotterdam
+* Skander Turki, Prince Sultan University, KSA
+* Karthika Venkatesan, Centre for development of advanced computing
+* Zhaorui Yang, University of California, Riverside
+
 
 ### Steering committee members
 
