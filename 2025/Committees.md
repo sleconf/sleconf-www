@@ -23,4 +23,31 @@ published: true
 
 ### Program committee
 
-To be announced
+* Vasco Amaral, NOVA-LINCS, FCT/UNL
+* Dominique Blouin, LTCI Lab, Telecom Paris, Institute Politechnqie de Paris
+* Einar Broch Johnsen, University of Oslo
+* Federico Ciccozzi, Mälardalen University
+* Matteo Cimini, University of Massachusetts Lowell
+* Javier Luis Cánovas Izquierdo	IN3 - UOC
+* Julien DeAntoni, Universite Cote d'Azur, I3S/INRIA KAIROS
+* Juergen Dingel, Queen's University, Kingston, Ontario
+* Martin Erwig, Oregon State University
+* Niklas Fors, Lund University
+* Jurriaan Hage, Utrecht University, Netherlands
+* Mark Hills, Appalachian State University
+* Thomas Kuehne, Victoria University of Wellington
+* Vinay Kulkarni, Tata Consultancy Services Research
+* Julia Lawall, Inria
+* Dimi Racordon, EPFL, LAMP
+* Moeketsi Raselimo, Humboldt-Universität zu Berlin
+* Daniel Ratiu, Siemens Corporate Technology
+* Martina Seidl, Johannes Kepler University Linz
+* Jeff Smits, Delft University of Technology
+* Friedrich Steimann, Fernuniversität in Hagen
+* Gerson Sunyé, IMT Atlantique; Nantes Université; École Centrale Nantes
+* Eugene Syriani, Université de Montréal
+* Matthias Tichy, Ulm University, Germany
+* Ulyana Tikhonova, F1RE
+* Massimo Tisi, IMT Atlantique, LS2N (UMR CNRS 6004)
+* Daniel Varro, Linköping University / McGill University
+
