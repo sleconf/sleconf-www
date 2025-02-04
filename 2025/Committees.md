@@ -13,6 +13,11 @@ published: true
 * [Vadim Zaytsev](http://grammarware.net/), University of Twente, Netherlands
 * [Regina Hebig](https://se.informatik.uni-rostock.de/en/team/chair-professor/prof-dr-rer-nat-regina-hebig), Universität Rostock, Germany
 
+### Artifact Evaluation co-chairs
+
+* [Idriss Riouak](http://idrissr.com/), Lund University, Sweden
+* [Jeff Smits](https://www.jeffsmits.net/), Delft University of Technology, Netherlands
+
 ### Local organizing chair 
 
 * [Ralf Laemmel](https://www.uni-koblenz.de/de/informatik/ifi/laemmel/team/ralf-lammel), Universität Koblenz, Germany
