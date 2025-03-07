@@ -15,5 +15,5 @@ Like its predecessors, the 18th edition of the SLE conference, SLE 2025, will br
 SLE 2025 will be co-located with STAF 2025 and take place in Koblenz, Germany.
 
 * Community website: [https://www.sleconf.org/2025](https://www.sleconf.org/2025)
-* Conference website: To be announced
-* Submission website: [https://sle25.hotcrp.com](https://sle25.hotcrp.com) 
+* Conference website: [https://conf.researchr.org/home/sle-2025](https://conf.researchr.org/home/sle-2025)
+* Submission website: [https://sle25.hotcrp.com](https://sle25.hotcrp.com)
