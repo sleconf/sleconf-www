@@ -9,6 +9,16 @@ Starting in 2019, the ACM SIGPLAN International Conference on Software Language 
 
 In 2019 we offered two awards: one for the authors of the MIP from the 2009 program ([http://www.sleconf.org/2009/Program.html](http://www.sleconf.org/2009/Program.html)), and another one for the authors of the MIP from the 2008 program ([http://www.sleconf.org/2008/program.html](http://www.sleconf.org/2008/program.html)), back to the first edition of the conference.
 
+### SLE MIP Award 2024
+
+- Thomas Kühn, Max Leuthäuser, Sebastian Götz, Christoph Seidl, and
+  Uwe Aßmann:
+  [A Metamodel Family for Role-Based Modeling and Programming Languages](https://link.springer.com/chapter/10.1007/978-3-319-11245-9_8)
+- Markus Voelter, Janet Siegmund, Thorsten Berger, and Bernd Kolb:
+  [Towards User-Friendly Projectional Editors](https://link.springer.com/chapter/10.1007/978-3-319-11245-9_3)
+- Two papers were awarded the MIP Award in 2024 for papers from 2014
+- Program SLE 2014: [https://www.sleconf.org/2014/Program.html](https://www.sleconf.org/2014/Program.html)
+
 ### SLE MIP Award 2020
 
 - Romina Eramo, Alfonso Pierantonio, Davide Di Ruscio and Antonio Cicchetti:  JTL: a bidirectional and change propagating transformation language. SLE 2010
