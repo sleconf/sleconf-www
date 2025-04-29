@@ -123,8 +123,8 @@ There are two quality levels of the ‘Evaluated’ badge:
 ## Important Dates (Authors):
 
 - **Artifact submission Deadline**: 23.04.2025 (AoE)
-- **Start Kick-the-tires author response period**: 28.04.2025 (AoE)
-- **End Kick-the-tires author response period**: 02.05.2025 (AoE)
+- **Start Kick-the-Tires author response period**: 29.04.2025 (AoE)
+- **End Kick-the-Tires author response period**: 02.05.2025 (AoE)
 - **Author artifact Notification**: 01.06.2025 (AoE)
 
 
@@ -133,7 +133,8 @@ There are two quality levels of the ‘Evaluated’ badge:
 - **Artifact submission deadline**: 23.04.2025 (AoE)  
 - **Artifact bidding**: 24-26.04.2025  
 - **Camera-ready deadline for SLE papers**: 01.05.2025 (AoE)  
-- **Kick-the-tires review deadline & rebuttal phase**: 02.05.2025 (AoE)  
+- **Kick-the-Tires review deadline**: 29.04.2025 (AoE)
+- **Kick-the-Tires response deadline**: 02.05.2025 (AoE)  
 - **Final review deadline**: 24.05.2025 (AoE)  
 - **Artifact discussion**: 25-31.05.2025  
 - **Artifact notification**: 01.06.2025 (AoE)  
