@@ -3,21 +3,20 @@ layout: default
 published: true
 ---
 
-*« We have been devastated to hear that our friend and colleague Eelco Visser (https://eelcovisser.org/) suddenly passed away. Eelco was highly influential in the SLE community, being both a role model and a leader in our community. His many scientific contributions about meta-languages and DSLs has been of high importance in both the scientific and industrial communities, and led to the well known and cutting-edge  language workbench Spoofax. He will be deeply missed by the whole SLE community at large. All our heartfelt condolences go out to the family and friends. RIP Eelco. »*
-
 This is the community website of the ACM SIGPLAN International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
-* Check out [SLE 2024](2024) (Conference website: [https://conf.researchr.org/home/sle-2024](https://conf.researchr.org/home/sle-2024))
 * Upcoming edition [SLE 2025](2025) 
 * [SLEBoK](https://github.com/slebok/slebok)
 * [Community blog](blog) 
 * [SLE at DBLP](http://www.informatik.uni-trier.de/~ley/db/conf/sle/index.html)
 * [Most Influential Paper Award](mip)
 * [Steering Committee](sc)
+* [Remembering Eelo Visser](eelcovisser.md)
 
 ### History
 
 <ul>
+<li><a href="http://www.sleconf.org/2024" >SLE 2023</a>, Pasadena, California</li>
 <li><a href="http://www.sleconf.org/2023" >SLE 2023</a>, Cascais, Portugal</li>
 <li><a href="http://www.sleconf.org/2022" >SLE 2022</a>, Auckland, New Zealand</li>
 <li><a href="http://www.sleconf.org/2021" >SLE 2021</a>, VIRTUAL event</li>
