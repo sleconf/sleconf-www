@@ -16,7 +16,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 ### History
 
 <ul>
-<li><a href="http://www.sleconf.org/2024" >SLE 2023</a>, Pasadena, California</li>
+<li><a href="http://www.sleconf.org/2024" >SLE 2024</a>, Pasadena, California</li>
 <li><a href="http://www.sleconf.org/2023" >SLE 2023</a>, Cascais, Portugal</li>
 <li><a href="http://www.sleconf.org/2022" >SLE 2022</a>, Auckland, New Zealand</li>
 <li><a href="http://www.sleconf.org/2021" >SLE 2021</a>, VIRTUAL event</li>
