@@ -5,6 +5,7 @@ published: true
 
 This is the community website of the ACM SIGPLAN International Conference on Software Language Engineering (SLE). SLE is devoted to the engineering principles of [software languages](http://en.wikipedia.org/wiki/Software_language): their design, their implementation, and their evolution.
 
+* Next edition: June, 2026 in Rennes France. 
 * Most recent edition [SLE 2025](2025), Koblenz, Germany 
 * [SLEBoK](https://github.com/slebok/slebok)
 <!-- * [Community blog](blog) -->
