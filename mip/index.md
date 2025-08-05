@@ -9,6 +9,14 @@ Starting in 2019, the ACM SIGPLAN International Conference on Software Language 
 
 In 2019 we offered two awards: one for the authors of the MIP from the 2009 program ([http://www.sleconf.org/2009/Program.html](http://www.sleconf.org/2009/Program.html)), and another one for the authors of the MIP from the 2008 program ([http://www.sleconf.org/2008/program.html](http://www.sleconf.org/2008/program.html)), back to the first edition of the conference.
 
+### SLE MIP Award 2025
+
+- Thomas Degueule, Benoit Combemale, Arnaud Blouin, Olivier Barais,
+  Jean-Marc Jézéquel:
+  [Melange: a meta-language for modular and reusable development of DSLs](https://dl.acm.org/doi/10.1145/2814251.2814252)
+- Program SLE 2015: [https://www.sleconf.org/2015/Program.html](https://www.sleconf.org/2015/Program.html)
+
+
 ### SLE MIP Award 2024
 
 - Thomas Kühn, Max Leuthäuser, Sebastian Götz, Christoph Seidl, and
