@@ -17,3 +17,5 @@ SLE 2019 will be co-located with [SPLASH](http://2019.splashcon.org/) and [GPCE]
 * Community website: [http://www.sleconf.org/2019](http://www.sleconf.org/2019)
 * Conference website: [https://conf.researchr.org/home/sle-2019](https://conf.researchr.org/home/sle-2019)
 * Submission website: [https://sle19.hotcrp.com](https://sle19.hotcrp.com/)
+* Proceedings: [https://dl.acm.org/doi/proceedings/10.1145/3357766](https://dl.acm.org/doi/proceedings/10.1145/3357766)
+

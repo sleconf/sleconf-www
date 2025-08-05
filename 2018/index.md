@@ -17,3 +17,5 @@ SLE 2018 is to be held on November 5th and 6th 2018, co-located with [SPLASH](ht
 * Community website: [http://www.sleconf.org/2018](http://www.sleconf.org/2018)
 * Conference website: [https://conf.researchr.org/track/sle-2018/papers](https://conf.researchr.org/track/sle-2018/papers)
 * Submission website: [https://sle18.hotcrp.com](https://sle18.hotcrp.com)
+* Proceedings: [https://dl.acm.org/doi/proceedings/10.1145/3276604](https://dl.acm.org/doi/proceedings/10.1145/3276604)
+

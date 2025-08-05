@@ -22,3 +22,8 @@ The next edition, **[SLE 2016](http://www.sleconf.org/2016/)**, will be co-locat
 
 
 
+- Community website: [http://www.sleconf.org/2015](http://www.sleconf.org/2015)
+- Conference website: [http://conf.researchr.org/track/sle-2015/sle-2015-papers](http://conf.researchr.org/track/sle-2015/sle-2015-papers)
+- Proceedings: [https://dl.acm.org/doi/proceedings/10.1145/2814251](https://dl.acm.org/doi/proceedings/10.1145/2814251)
+
+

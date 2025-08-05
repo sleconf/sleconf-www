@@ -17,3 +17,5 @@ SLE 2023 will be co-located with [SPLASH 2023](http://2023.splashcon.org/) and t
 * Community website: [http://www.sleconf.org/2023](http://www.sleconf.org/2023)
 * Conference website: [https://conf.researchr.org/home/sle-2023](https://2023.splashcon.org/home/sle-2023)
 * Submission website: [https://sle23.hotcrp.com](https://sle23.hotcrp.com)
+* Proceedings: [https://dl.acm.org/doi/proceedings/10.1145/3623476](https://dl.acm.org/doi/proceedings/10.1145/3623476)
+  

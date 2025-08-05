@@ -17,3 +17,4 @@ SLE 2020 will be co-located with [SPLASH](http://2020.splashcon.org/), [GPCE](ht
 * Community website: [http://www.sleconf.org/2020](http://www.sleconf.org/2020)
 * Conference website: [https://conf.researchr.org/home/sle-2020](https://conf.researchr.org/home/sle-2020)
 * Submission website: [https://sle20.hotcrp.com](https://sle20.hotcrp.com/)
+* Proceedings: [https://dl.acm.org/doi/proceedings/10.1145/3426425](https://dl.acm.org/doi/proceedings/10.1145/3426425)
