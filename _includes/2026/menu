@@ -1,0 +1,19 @@
+{% assign title="Welcome" %}
+{% assign link="/2026/index.html" %}
+{% include 2026/menu_item %}
+
+{% assign title="Call for Papers" %}
+{% assign link="/2026/CFP.html" %}
+{% include 2026/menu_item %}
+
+{% assign title="Artifact Evaluation" %}
+{% assign link="/2026/ArtifactEvaluation.html" %}
+{% include 2026/menu_item %}
+
+{% assign title="Important Dates" %}
+{% assign link="/2026/Dates.html" %}
+{% include 2026/menu_item %}
+
+{% assign title="Committees" %}
+{% assign link="/2026/Committees.html" %}
+{% include 2026/menu_item %}
