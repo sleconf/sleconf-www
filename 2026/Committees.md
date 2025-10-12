@@ -4,10 +4,9 @@ title: Committees
 published: true
 ---
 
-### General co-chair
+### General chair
 
 * [Arnaud Blouin](https://people.irisa.fr/Arnaud.Blouin/), Univ Rennes, INSA Rennes, Inria, CNRS, IRISA
-* [Djamel Eddine Khelladi](https://people.irisa.fr/Djamel-Eddine.Khelladi/), CNRS, IRISA, University of Rennes
 
 ### PC co-chairs
 
