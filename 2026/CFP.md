@@ -5,9 +5,7 @@ published: true
 ---
 
 
----------------------------
-Important Dates
----------------------------
+### Important Dates
 
 * Abstract submission (all tracks): Friday 27 February 2026
 * Paper submission (all tracks): Friday 6 March 2026
