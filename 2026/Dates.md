@@ -4,9 +4,11 @@ title: Important Dates
 published: true
 ---
 
-- 27/02/2026 - Abstract submission (all tracks)
-- 06/03/2026 - Paper submission (all tracks)
-- 20/04/2026 - Paper notification (all tracks)
+### Important Dates
 
+* Abstract submission (all tracks): Friday 27 February 2026
+* Paper submission (all tracks): Friday 6 March 2026
+* Paper notification (all tracks): Monday 20 April 2026
+* Conference: Thursday 2 - Friday 3 July 2026 (co-located with STAF)
 
-{% include 2026/dates %}
+All dates are Anywhere on Earth.
