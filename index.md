@@ -11,7 +11,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 * [SLE at DBLP](https://dblp.uni-trier.de/db/conf/sle/index.html)
 * [Most Influential Paper Award](mip)
 * [Steering Committee](sc)
-* [Remembering Eelo Visser](eelcovisser.md)
+* [Remembering Eelco Visser](eelcovisser.md)
 
 ### History
 
@@ -33,4 +33,3 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 * [SLE 2010](2010), Eindhoven, The Netherlands
 * [SLE 2009](2009), Denver, Colorado, USA
 * [SLE 2008](2008), Toulouse, France
-
