@@ -15,6 +15,7 @@ This is the community website of the ACM SIGPLAN International Conference on Sof
 
 ### History
 
+* [SLE 2026](2026), Rennes, France
 * [SLE 2025](2025), Koblenz, Germany 
 * [SLE 2024](2024), Pasadena, California, USA
 * [SLE 2023](2023), Cascais, Portugal
