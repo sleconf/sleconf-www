@@ -44,6 +44,7 @@ published: true
 * Elizabeth Scott, Royal Holloway University of London
 * Marco Servetto, Victoria Univ. of Wellington
 * Emma Soderberg, Lund University
+* Tijs van der Storm, CWI & University of Groningen
 * Marcel Taeumel, HPI
 * Yudai Tanabe, Institute of Science Tokyo
 * Ulyana Tikhonova, F1RE
