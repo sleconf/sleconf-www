@@ -8,24 +8,26 @@ published: true
  
 ### Steering committee members
 
-* David Pearce
-* Benoît Combemale 
-* Martin Erwig 
-* Richard Paige
-* Eric Van Wyk (chair)
-* Jurgen Vinju 
-* Davide DiRuscio
-* Emma Söderberg
-* Friedrich Steimann 
-* Jeff Gray
-* Bruno Oliveira
-* Juan de Lara
-* Ralf Lämmel
 * Lola Burgueño
 * Walter Cazzola
-* Bernd Fischer
+* Benoît Combemale 
+* Davide DiRuscio
 * Thomas Degueule
+* Martin Erwig 
+* Bernd Fischer
+* Jeff Gray
+* Ralf Lämmel
+* Juan de Lara
+* Peter Mosses
+* Bruno Oliveira
+* Richard Paige
+* David Pearce
+* Juliana Alves Pereira
 * João Saraiva
+* Emma Söderberg
+* Friedrich Steimann 
+* Eric Van Wyk (chair)
+* Jurgen Vinju 
 
 ### Past members
 
