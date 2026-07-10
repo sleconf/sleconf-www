@@ -9,6 +9,14 @@ Starting in 2019, the ACM SIGPLAN International Conference on Software Language 
 
 In 2019 we offered two awards: one for the authors of the MIP from the 2009 program ([http://www.sleconf.org/2009/Program.html](http://www.sleconf.org/2009/Program.html)), and another one for the authors of the MIP from the 2008 program ([http://www.sleconf.org/2008/program.html](http://www.sleconf.org/2008/program.html)), back to the first edition of the conference.
 
+
+### SLE MIP Award 2026
+
+- Terrence Parr and Jurgen Vinju:
+  [Towards a Universal Code Formatter through Machine Learning](https://doi.org/10.1145/2997364.2997383)
+- [Program SLE 2016](https://conf.researchr.org/track/sle-2016/sle-2016-papers#event-overview)
+
+
 ### SLE MIP Award 2025
 
 - Thomas Degueule, Benoit Combemale, Arnaud Blouin, Olivier Barais,
