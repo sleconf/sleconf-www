@@ -3,31 +3,29 @@ layout: default
 title: Steering committee
 published: true
 ---
-
-« We have been devastated to hear that our friend and colleague Eelco Visser (https://eelcovisser.org/) suddenly passed away. Eelco was highly influential in the SLE community, being both a role model and a leader in our community. His many scientific contributions about meta-languages and DSLs has been of high importance in both the scientific and industrial communities, and led to the well known and cutting-edge  language workbench Spoofax. He will be deeply missed by the whole SLE community at large. All our heartfelt condolences go out to the family and friends. RIP Eelco. »
  
 ### Steering committee members
 
 * Lola Burgueño
+* Jordi Cabot
 * Walter Cazzola
 * Benoît Combemale 
-* Davide DiRuscio
 * Thomas Degueule
 * Martin Erwig 
 * Bernd Fischer
-* Jeff Gray
 * Ralf Lämmel
 * Juan de Lara
 * Peter Mosses
 * Bruno Oliveira
 * Richard Paige
 * David Pearce
-* Juliana Alves Pereira
+* Juliana Alves Pereira (secretary)
 * João Saraiva
 * Emma Söderberg
 * Friedrich Steimann 
-* Eric Van Wyk (chair)
+* Eric Van Wyk
 * Jurgen Vinju 
+* Vadim Zaytsev (chair)
 
 ### Past members
 
@@ -35,6 +33,8 @@ published: true
 * Andrei Chis,feenk, Switzerland
 * James Cordy, Queen's University Canada
 * Krzysztof Czarnecki, University of Waterloo, Canada
+* Davide Di Ruscio
+* Jeff Gray
 * Gorel Hedin, Lund University, Sweden
 * Jean-Marie Favre, University of Grenoble France
 * Marjan Mernik, University of Maribor, Slovenia
